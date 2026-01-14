@@ -1,0 +1,29 @@
+Station,Line,District,Num_Lines,DVRPC_Score,Connectivity_Bonus,Enhanced_Score,Existing_Orientation,Future_Potential
+Girard,"Broad Street Line, Market/Frankford Line",5,2,6.857143000000001,10,78.57143,3.857143,3.0
+46th Street,Market/Frankford Line,3,1,7.457143,0,74.57143,3.857143,3.6
+Ellsworth-Federal,Broad Street Line,2,1,7.057143,0,70.57142999999999,3.857143,3.2
+52nd Street,Market/Frankford Line,3,1,6.8,0,68.0,4.0,2.8
+Snyder,Broad Street Line,2,1,6.657143,0,66.57142999999999,3.857143,2.8
+Huntingdon,Market/Frankford Line,7,1,6.657143,0,66.57142999999999,3.857143,2.8
+Erie,Broad Street Line,5,1,6.657143,0,66.57142999999999,3.857143,2.8
+56th Street,Market/Frankford Line,4,1,6.457143,0,64.57143,3.857143,2.6
+63rd Street,Market/Frankford Line,3,1,6.457143,0,64.57143,3.857143,2.6
+60th Street,Market/Frankford Line,3,1,6.257143,0,62.57143,3.857143,2.4
+Tasker-Morris,Broad Street Line,2,1,6.2,0,62.0,4.0,2.2
+York-Dauphin,Market/Frankford Line,7,1,6.2,0,62.0,4.0,2.2
+Allegheny,"Broad Street Line, Market/Frankford Line",7,2,5.114286,10,61.14286,3.714286,1.4
+Cecil B Moore,Broad Street Line,5,1,6.114286,0,61.14286,3.714286,2.4
+Berks,Market/Frankford Line,7,1,6.057143,0,60.57143,3.857143,2.2
+Somerset,Market/Frankford Line,7,1,6.0,0,60.0,4.0,2.0
+Church,Market/Frankford Line,7,1,5.771429,0,57.714290000000005,3.571429,2.2
+Oregon,Broad Street Line,1,1,5.7142859999999995,0,57.14286,3.714286,2.0
+Arrott Transportation Center,Market/Frankford Line,7,1,5.514286,0,55.14286,3.714286,1.8
+Susquehanna-Dauphin,Broad Street Line,5,1,5.457143,0,54.57143000000001,3.857143,1.6
+Olney Transportation Center,Broad Street Line,9,1,5.4,0,54.0,4.0,1.4
+Logan,Broad Street Line,9,1,5.371429,0,53.71429,3.571429,1.8
+Hunting Park,Broad Street Line,5,1,5.114286,0,51.14286,3.714286,1.4
+Frankford Transportation Center,Market/Frankford Line,7,1,5.0285709999999995,0,50.285709999999995,3.428571,1.6
+Tioga,Market/Frankford Line,6,1,4.914286,0,49.14286,3.714286,1.2
+Wyoming,Broad Street Line,8,1,4.914286,0,49.14286,3.714286,1.2
+Erie-Torresdale,Market/Frankford Line,6,1,4.885714,0,48.85714,3.285714,1.6
+AT&T Station,Broad Street Line,2,1,4.371429,0,43.71429,2.571429,1.8
