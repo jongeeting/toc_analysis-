@@ -94,7 +94,7 @@ print(f"✓ Trolleys: {len(trolley_stops)} stops")
 
 # 3. Regional Rail
 try:
-    with open(DATA_RAW / 'septa_regional_rail_stations.geojson') as f:
+    with open(DATA_PROC / 'septa_regional_rail_philadelphia.geojson') as f:
         rr_data = json.load(f)
 
     rr_stations = []
