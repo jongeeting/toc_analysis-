@@ -1,0 +1,31 @@
+Station,Line,District,Has_Existing_TOD_Overlay,Units_500ft,Units_Quarter_Mile,Units_Half_Mile,Gain_Quarter_to_Half
+Girard,Market/Frankford Line,5,No,36,129,453,324
+Girard,Broad Street Line,5,No,36,129,453,324
+York-Dauphin,Market/Frankford Line,7,No,15,129,396,267
+Berks,Market/Frankford Line,7,Yes,18,117,372,255
+Huntingdon,Market/Frankford Line,7,Yes,9,51,249,198
+Susquehanna-Dauphin,Broad Street Line,5,No,12,63,237,174
+Erie,Broad Street Line,5,No,12,96,177,81
+Allegheny,Broad Street Line,5,Yes,9,96,171,75
+Allegheny,Market/Frankford Line,7,Yes,9,96,171,75
+Cecil B Moore,Broad Street Line,5,No,0,15,141,126
+46th Street,Market/Frankford Line,3,Yes,0,15,141,126
+52nd Street,Market/Frankford Line,3,Yes,3,51,105,54
+Somerset,Market/Frankford Line,7,Yes,3,6,105,99
+Ellsworth-Federal,Broad Street Line,1,No,9,21,75,54
+60th Street,Market/Frankford Line,3,Yes,6,9,72,63
+56th Street,Market/Frankford Line,4,Yes,0,9,69,60
+63rd Street,Market/Frankford Line,3,Yes,3,24,69,45
+Hunting Park,Broad Street Line,5,No,3,3,24,21
+Arrott Transportation Center,Market/Frankford Line,7,No,6,15,21,6
+Tasker-Morris,Broad Street Line,1,No,0,3,18,15
+Church,Market/Frankford Line,7,No,3,3,18,15
+Wyoming,Broad Street Line,8,No,0,6,12,6
+Tioga,Market/Frankford Line,6,Yes,0,0,9,9
+Oregon,Broad Street Line,2,No,0,0,9,9
+Logan,Broad Street Line,9,No,0,3,6,3
+Olney Transportation Center,Broad Street Line,9,No,0,3,6,3
+Snyder,Broad Street Line,1,No,0,3,6,3
+Frankford Transportation Center,Market/Frankford Line,7,Yes,0,3,6,3
+AT&T Station,Broad Street Line,2,No,0,0,3,3
+Erie-Torresdale,Market/Frankford Line,6,Yes,0,0,0,0
