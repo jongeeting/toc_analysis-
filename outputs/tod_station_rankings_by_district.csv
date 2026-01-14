@@ -1,9 +1,9 @@
 District,District_Rank,Station,Line,Total_Score,Units_2020_2026,Change_from_DVRPC,Tier
-1,1,Oregon,Broad Street Line,23.9,0,0,Tier 4 - Lower Priority
-2,1,Ellsworth-Federal,Broad Street Line,72.7,452,-1206,Tier 1 - High Priority
-2,2,Snyder,Broad Street Line,25.3,3,-148,Tier 4 - Lower Priority
-2,3,Tasker-Morris,Broad Street Line,22.7,6,-339,Tier 4 - Lower Priority
-2,4,AT&T Station,Broad Street Line,19.1,0,0,Tier 4 - Lower Priority
+1,1,Ellsworth-Federal,Broad Street Line,72.7,452,-1206,Tier 1 - High Priority
+1,2,Snyder,Broad Street Line,25.3,3,-148,Tier 4 - Lower Priority
+1,3,Tasker-Morris,Broad Street Line,22.7,6,-339,Tier 4 - Lower Priority
+2,1,Oregon,Broad Street Line,23.9,0,0,Tier 4 - Lower Priority
+2,2,AT&T Station,Broad Street Line,19.1,0,0,Tier 4 - Lower Priority
 3,1,46th Street,Market/Frankford Line,78.5,510,-193,Tier 1 - High Priority
 3,2,52nd Street,Market/Frankford Line,37.6,118,-119,Tier 3 - Moderate Candidate
 3,3,63rd Street,Market/Frankford Line,29.7,40,-30,Tier 4 - Lower Priority

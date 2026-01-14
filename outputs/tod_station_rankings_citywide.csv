@@ -4,7 +4,7 @@ Rank,Station,Line,District,Tier,Total_Score,Recent_Dev_Score,Momentum_Score,Exis
 3,46th Street,Market/Frankford Line,3,Tier 1 - High Priority,78.5,50,5,14.5,9.0,510,-193,3.857143,3.6
 4,Girard,Broad Street Line,5,Tier 1 - High Priority,77.0,50,5,14.5,7.5,816,-810,3.857143,3.0
 5,Girard,Market/Frankford Line,5,Tier 1 - High Priority,76.4,50,5,13.9,7.5,816,-810,3.714286,3.0
-6,Ellsworth-Federal,Broad Street Line,2,Tier 1 - High Priority,72.7,45.2,5,14.5,8.0,452,-1206,3.857143,3.2
+6,Ellsworth-Federal,Broad Street Line,1,Tier 1 - High Priority,72.7,45.2,5,14.5,8.0,452,-1206,3.857143,3.2
 7,Erie,Broad Street Line,5,Tier 2 - Strong Candidate,61.0,25.5,14.0,14.5,7.0,255,225,3.857143,2.8
 8,Huntingdon,Market/Frankford Line,7,Tier 3 - Moderate Candidate,42.7,15.6,5.6,14.5,7.0,156,15,3.857143,2.8
 9,52nd Street,Market/Frankford Line,3,Tier 3 - Moderate Candidate,37.6,11.8,3.8,15.0,7.0,118,-119,4.0,2.8
@@ -17,13 +17,13 @@ Rank,Station,Line,District,Tier,Total_Score,Recent_Dev_Score,Momentum_Score,Exis
 16,Hunting Park,Broad Street Line,5,Tier 4 - Lower Priority,27.4,4.5,5.5,13.9,3.5,45,13,3.714286,1.4
 17,60th Street,Market/Frankford Line,3,Tier 4 - Lower Priority,26.2,2.2,3.5,14.5,6.0,22,-150,3.857143,2.4
 18,56th Street,Market/Frankford Line,4,Tier 4 - Lower Priority,25.9,0.9,4.1,14.5,6.5,9,-93,3.857143,2.6
-19,Snyder,Broad Street Line,2,Tier 4 - Lower Priority,25.3,0.3,3.5,14.5,7.0,3,-148,3.857143,2.8
+19,Snyder,Broad Street Line,1,Tier 4 - Lower Priority,25.3,0.3,3.5,14.5,7.0,3,-148,3.857143,2.8
 20,Allegheny,Broad Street Line,5,Tier 4 - Lower Priority,24.3,0.3,5.1,13.9,5.0,3,3,3.714286,2.0
-21,Oregon,Broad Street Line,1,Tier 4 - Lower Priority,23.9,0.0,5.0,13.9,5.0,0,0,3.714286,2.0
+21,Oregon,Broad Street Line,2,Tier 4 - Lower Priority,23.9,0.0,5.0,13.9,5.0,0,0,3.714286,2.0
 22,Wyoming,Broad Street Line,8,Tier 4 - Lower Priority,23.4,1.7,4.8,13.9,3.0,17,-23,3.714286,1.2
 23,Logan,Broad Street Line,9,Tier 4 - Lower Priority,22.8,0.3,4.6,13.4,4.5,3,-37,3.571429,1.8
 24,Allegheny,Market/Frankford Line,7,Tier 4 - Lower Priority,22.8,0.3,5.1,13.9,3.5,3,3,3.714286,1.4
-25,Tasker-Morris,Broad Street Line,2,Tier 4 - Lower Priority,22.7,0.6,1.6,15.0,5.5,6,-339,4.0,2.2
+25,Tasker-Morris,Broad Street Line,1,Tier 4 - Lower Priority,22.7,0.6,1.6,15.0,5.5,6,-339,4.0,2.2
 26,Frankford Transportation Center,Market/Frankford Line,7,Tier 4 - Lower Priority,22.0,0.3,4.8,12.9,4.0,3,-19,3.428571,1.6
 27,Tioga,Market/Frankford Line,6,Tier 4 - Lower Priority,21.9,0.0,5.0,13.9,3.0,0,0,3.714286,1.2
 28,Cecil B Moore,Broad Street Line,5,Tier 4 - Lower Priority,21.6,1.7,0,13.9,6.0,17,-938,3.714286,2.4

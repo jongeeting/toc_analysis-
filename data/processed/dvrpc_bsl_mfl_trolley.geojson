@@ -486,7 +486,7 @@
         "TYPE": "Subway",
         "ResRent_Sc": 1.0,
         "Land_Score": 1.0,
-        "DISTRICT": "2"
+        "DISTRICT": "1"
       }
     },
     {
@@ -547,7 +547,7 @@
         "TYPE": "Subway",
         "ResRent_Sc": 3.0,
         "Land_Score": 4.0,
-        "DISTRICT": "2"
+        "DISTRICT": "1"
       }
     },
     {
@@ -852,7 +852,7 @@
         "TYPE": "Subway",
         "ResRent_Sc": 3.0,
         "Land_Score": 1.0,
-        "DISTRICT": "1"
+        "DISTRICT": "2"
       }
     },
     {
@@ -913,7 +913,7 @@
         "TYPE": "Subway",
         "ResRent_Sc": 4.0,
         "Land_Score": 1.0,
-        "DISTRICT": "2"
+        "DISTRICT": "1"
       }
     },
     {
