@@ -143,14 +143,28 @@ python scripts/quick_summary.py
 
 ## Next Steps
 
-1. ✅ **Extract trolley stops** - COMPLETE
-2. ✅ **Download DVRPC TOD scores** - COMPLETE
-3. ⏳ **Run multi-line connectivity analysis** - Requires Python environment
-4. ⏳ **Spatial join with City Council districts** - Requires Python environment
-5. ⏳ **Generate political briefing materials** - Requires analysis completion
-6. 🔲 **Acquire BSL/MFL/trolley ridership data** (separate from Regional Rail)
-7. 🔲 **Add Center City stations explicitly** (noted as DVRPC exclusions)
-8. 🔲 **Cross-reference with recent development permits** (market validation)
+### Completed ✅
+1. **Extract trolley stops** - 551 stops (Routes 10,11,13,15,34,36)
+2. **Download DVRPC TOD scores** - 30 BSL/MFL stations with scores
+3. **Run multi-line connectivity analysis** - Identified 2 transfer stations + 98 trolley hubs
+4. **Spatial join with City Council districts** - Generated district summaries
+5. **Generate political briefing materials** - CSV outputs ready
+
+### In Progress ⏳
+6. **Building Permits Integration** - Framework documented (see PERMITS_AND_BUSES.md)
+   - DVRPC's development data (2007-2017) is outdated
+   - Need 2020-2025 permits to show current hotspots
+   - OpenDataPhilly has 285k permits since 2020
+
+7. **High-Frequency Bus Network** - Data source identified
+   - SEPTA Bus Revolution: 29 frequent routes (≤15min, 7 days/week)
+   - Launching June 2025
+   - Should add bus connectivity bonus to scoring
+
+### Recommended Future Work 🔲
+8. **Acquire BSL/MFL/trolley ridership data** (separate from Regional Rail)
+9. **Add Center City stations explicitly** (DVRPC excluded as "obviously good")
+10. **Integrate Niskanen density analysis** (fiscal sustainability argument)
 
 ## File Structure
 
