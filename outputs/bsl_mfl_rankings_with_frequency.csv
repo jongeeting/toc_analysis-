@@ -1,0 +1,31 @@
+Citywide_Rank,Station,Line,District,Units_2020_2025,Development_Score,Frequency_Score,Existing_Score,Future_Score,Total_Score,Tier,Existing_TOD_Overlay
+1,46th Street,Market/Frankford Line,3,510,50.0,25.0,14.5,9.0,98.5,Tier 1 - High Priority,Yes
+2,Girard,Broad Street Line,5,816,50.0,25.0,14.5,7.5,97.0,Tier 1 - High Priority,No
+3,Girard,Market/Frankford Line,5,816,50.0,25.0,13.9,7.5,96.4,Tier 1 - High Priority,No
+4,York-Dauphin,Market/Frankford Line,7,764,50.0,25.0,15.0,5.5,95.5,Tier 1 - High Priority,No
+5,Berks,Market/Frankford Line,7,779,50.0,25.0,14.5,5.5,95.0,Tier 1 - High Priority,Yes
+6,Ellsworth-Federal,Broad Street Line,1,452,45.2,25.0,14.5,8.0,92.7,Tier 1 - High Priority,No
+7,Erie,Broad Street Line,5,255,25.5,25.0,14.5,7.0,72.0,Tier 2 - Strong Candidate,No
+8,Huntingdon,Market/Frankford Line,7,156,15.6,25.0,14.5,7.0,62.1,Tier 3 - Moderate Candidate,Yes
+9,52nd Street,Market/Frankford Line,3,118,11.8,25.0,15.0,7.0,58.8,Tier 3 - Moderate Candidate,Yes
+10,Susquehanna-Dauphin,Broad Street Line,5,77,7.7,25.0,14.5,4.0,51.2,Tier 3 - Moderate Candidate,No
+11,Somerset,Market/Frankford Line,7,50,5.0,25.0,15.0,5.0,50.0,Tier 3 - Moderate Candidate,Yes
+12,63rd Street,Market/Frankford Line,3,40,4.0,25.0,14.5,6.5,50.0,Tier 4 - Lower Priority,Yes
+13,Church,Market/Frankford Line,7,42,4.2,25.0,13.4,5.5,48.1,Tier 4 - Lower Priority,No
+14,60th Street,Market/Frankford Line,3,22,2.2,25.0,14.5,6.0,47.7,Tier 4 - Lower Priority,Yes
+15,Olney Transportation Center,Broad Street Line,9,36,3.6,25.0,15.0,3.5,47.1,Tier 4 - Lower Priority,No
+16,Hunting Park,Broad Street Line,5,45,4.5,25.0,13.9,3.5,46.9,Tier 4 - Lower Priority,No
+17,56th Street,Market/Frankford Line,4,9,0.9,25.0,14.5,6.5,46.9,Tier 4 - Lower Priority,Yes
+18,Snyder,Broad Street Line,1,3,0.3,25.0,14.5,7.0,46.8,Tier 4 - Lower Priority,No
+19,Cecil B Moore,Broad Street Line,5,17,1.7,25.0,13.9,6.0,46.6,Tier 4 - Lower Priority,No
+20,Arrott Transportation Center,Market/Frankford Line,7,30,3.0,25.0,13.9,4.5,46.4,Tier 4 - Lower Priority,No
+21,Tasker-Morris,Broad Street Line,1,6,0.6,25.0,15.0,5.5,46.1,Tier 4 - Lower Priority,No
+22,Allegheny,Broad Street Line,5,3,0.3,25.0,13.9,5.0,44.2,Tier 4 - Lower Priority,No
+23,Oregon,Broad Street Line,2,0,0.0,25.0,13.9,5.0,43.9,Tier 4 - Lower Priority,No
+24,Wyoming,Broad Street Line,8,17,1.7,25.0,13.9,3.0,43.6,Tier 4 - Lower Priority,No
+25,Logan,Broad Street Line,9,3,0.3,25.0,13.4,4.5,43.2,Tier 4 - Lower Priority,No
+26,Allegheny,Market/Frankford Line,7,3,0.3,25.0,13.9,3.5,42.7,Tier 4 - Lower Priority,Yes
+27,Frankford Transportation Center,Market/Frankford Line,7,3,0.3,25.0,12.9,4.0,42.2,Tier 4 - Lower Priority,Yes
+28,Tioga,Market/Frankford Line,6,0,0.0,25.0,13.9,3.0,41.9,Tier 4 - Lower Priority,Yes
+29,Erie-Torresdale,Market/Frankford Line,6,0,0.0,25.0,12.3,4.0,41.3,Tier 4 - Lower Priority,Yes
+30,AT&T Station,Broad Street Line,2,0,0.0,25.0,9.6,4.5,39.1,Tier 4 - Lower Priority,No
