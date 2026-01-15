@@ -14,15 +14,19 @@ This memo identifies **20 priority transit stations** for Transit-Oriented Commu
 **Key Findings:**
 
 - **14,600 multifamily housing units** permitted within 1/4 mile of high-frequency transit since 2020
+- **Composite scoring methodology:** Rankings balance development activity (50%) + transit frequency (25%) + regional jobs access (15%) + future market potential (10%)
 - **Top 20 stations split into two categories:**
   - **8 Expansion Stations:** Already have 500-foot TOD overlays → expand to 1/4 mile
   - **12 New Stations:** No existing TOD → add new 1/4-mile zones
 - **21 stations (32%)** sit on council district boundaries, requiring joint decisions
+- **46th Street now #1 citywide** combining strong development + existing TOD + excellent transit frequency + superior regional jobs connectivity
 - **Political strategy:** Expansion stations provide easier "on-ramp" before adding new stations
 
 ---
 
 ## I. TOP 20 STATIONS CITYWIDE
+
+**Updated with composite scoring: Development (50%) + Transit Frequency (25%) + Jobs Access (15%) + Future Potential (10%)**
 
 ### **PART A: TOP EXPANSION STATIONS (8 stations)**
 **Expand existing 500-foot TOD overlays → 1/4 mile**
@@ -31,14 +35,14 @@ These stations **already have TOD zoning under current city law** but only at 50
 
 | Rank | Station | Line | District | Units (2020-2025) | Score | Boundary? |
 |------|---------|------|----------|-------------------|-------|-----------|
-| 2 | **Berks** | MFL | 7 | 779 | 91.3 | - |
-| 3 | **46th Street** | MFL | 3 | 510 | 78.5 | - |
-| 8 | **Huntingdon** | MFL | 7 | 156 | 42.7 | **D1/D7** |
-| 9 | **52nd Street** | MFL | 3 | 118 | 37.6 | - |
-| 10 | **Somerset** | MFL | 7 | 50 | 32.0 | **D1/D7** |
-| 12 | **63rd Street** | MFL | 3 | 40 | 29.7 | **D3/D4** |
-| 17 | **60th Street** | MFL | 3 | 22 | 26.2 | **D3/D4** |
-| 18 | **56th Street** | MFL | 4 | 9 | 25.9 | **D3/D4** |
+| 1 | **46th Street** | MFL | 3 | 510 | 98.5 | - |
+| 5 | **Berks** | MFL | 7 | 779 | 95.0 | - |
+| 8 | **Huntingdon** | MFL | 7 | 156 | 62.1 | **D1/D7** |
+| 9 | **52nd Street** | MFL | 3 | 118 | 58.8 | - |
+| 11 | **Somerset** | MFL | 7 | 50 | 50.0 | **D1/D7** |
+| 12 | **63rd Street** | MFL | 3 | 40 | 50.0 | **D3/D4** |
+| 14 | **60th Street** | MFL | 3 | 22 | 47.7 | **D3/D4** |
+| 17 | **56th Street** | MFL | 4 | 9 | 46.9 | **D3/D4** |
 
 **Subtotal: 1,684 units across 8 stations (12% of citywide total)**
 
@@ -57,30 +61,31 @@ These stations **already have TOD zoning under current city law** but only at 50
 ### **PART B: TOP NEW STATIONS (12 stations)**
 **Add new 1/4-mile TOD zones (no existing overlay)**
 
-These stations currently have **no TOD zoning** but show strong development activity justifying new 1/4-mile zones.
+These stations currently have **no TOD zoning** but show strong development activity or excellent transit access/jobs connectivity justifying new 1/4-mile zones.
 
 | Rank | Station | Line | District | Units (2020-2025) | Score | Boundary? |
 |------|---------|------|----------|-------------------|-------|-----------|
-| 1 | **York-Dauphin** | MFL | 7 | 764 | 95.5 | - |
-| 4 | **Girard** | BSL | 5 | 816 | 77.0 | - |
-| 5 | **Girard** | MFL | 5 | 816 | 76.4 | **D1/D5** |
-| 6 | **Ellsworth-Federal** | BSL | 1 | 452 | 72.7 | **D1/D2** |
-| 7 | **Erie** | BSL | 5 | 255 | 61.0 | **D5/D8** |
-| 11 | **Susquehanna-Dauphin** | BSL | 5 | 77 | 30.2 | - |
-| 13 | **Church** | MFL | 7 | 42 | 29.6 | - |
-| 14 | **Olney Transportation Center** | BSL | 9 | 36 | 28.5 | **D8/D9** |
-| 15 | **Arrott Transportation Center** | MFL | 7 | 30 | 27.4 | - |
-| 16 | **Hunting Park** | BSL | 5 | 45 | 27.4 | **D5/D8** |
-| 19 | **Snyder** | BSL | 1 | 3 | 25.3 | **D1/D2** |
-| 20 | **Allegheny** | BSL | 5 | 3 | 24.3 | **D5/D8** |
+| 2 | **Girard** | BSL | 5 | 816 | 97.0 | - |
+| 3 | **Girard** | MFL | 5 | 816 | 96.4 | **D1/D5** |
+| 4 | **York-Dauphin** | MFL | 7 | 764 | 95.5 | - |
+| 6 | **Ellsworth-Federal** | BSL | 1 | 452 | 92.7 | **D1/D2** |
+| 7 | **Erie** | BSL | 5 | 255 | 72.0 | **D5/D8** |
+| 10 | **Susquehanna-Dauphin** | BSL | 5 | 77 | 51.2 | - |
+| 13 | **Church** | MFL | 7 | 42 | 48.1 | - |
+| 15 | **Olney Transportation Center** | BSL | 9 | 36 | 47.1 | **D8/D9** |
+| 16 | **Hunting Park** | BSL | 5 | 45 | 46.9 | **D5/D8** |
+| 18 | **Snyder** | BSL | 1 | 3 | 46.8 | **D1/D2** |
+| 19 | **Cecil B Moore** | BSL | 5 | 17 | 46.6 | - |
+| 20 | **Arrott Transportation Center** | MFL | 7 | 30 | 46.4 | - |
 
-**Subtotal: 3,339 units across 12 stations (23% of citywide total)**
+**Subtotal: 3,356 units across 12 stations (23% of citywide total)**
 
 **Critical Insights:**
 
-- **Both Girard stations (#4 and #5)** account for **1,632 combined units (11% of citywide total)** - the highest-impact TOC area citywide
-- **York-Dauphin (#1)** is the single highest-performing station with 764 units and 95.5 score
-- **7 of 12 new stations** sit on district boundaries, strengthening case for citywide ordinance vs. district-by-district approach
+- **Both Girard stations (#2 and #3)** account for **1,632 combined units (11% of citywide total)** - the highest-impact TOC area citywide
+- **46th Street (#1)** is now top-ranked combining strong development (510 units), existing TOD overlay, excellent transit frequency, and superior jobs access
+- **York-Dauphin (#4)** has highest unit count (764) but composite score balances development with transit quality and jobs connectivity
+- **8 of 12 new stations** sit on district boundaries, strengthening case for citywide ordinance vs. district-by-district approach
 
 **Note on Boundaries:**
 - **Ellsworth-Federal (D1/D2):** #6 citywide; South Philly's top station
@@ -107,7 +112,9 @@ These stations currently have **no TOD zoning** but show strong development acti
 **Political Risk:** Moderate (new regulation)
 **Districts Affected:** 1, 2, 5, 7, 8, 9
 
-### **Combined Impact: 5,023 units across 20 stations (34% of citywide total)**
+### **Combined Impact: 5,040 units across 20 stations (34% of citywide total)**
+
+**Note:** New composite scoring prioritizes stations with combination of development activity + high-frequency transit + regional jobs access, resulting in 46th Street moving to #1 and several stations shifting positions.
 
 ---
 
@@ -121,11 +128,11 @@ District-specific recommendations for council members. Includes **BSL/MFL priori
 
 **BSL/MFL Stations:**
 
-| Rank | Station | Line | Units | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|----------|--------------|-----------|
-| 1 | **Ellsworth-Federal** | BSL | 452 | **Tier 1 - Citywide #6** | NO | **D1/D2** |
-| 2 | Snyder | BSL | 3 | Tier 4 | NO | **D1/D2** |
-| 3 | Tasker-Morris | BSL | 6 | Tier 4 | NO | **D1/D2** |
+| Rank | Station | Line | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|---------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **Ellsworth-Federal** | BSL | 452 | 92.7 | **Tier 1 - Citywide #6** | NO | **D1/D2** |
+| 2 | Snyder | BSL | 3 | 46.8 | Tier 4 | NO | **D1/D2** |
+| 3 | Tasker-Morris | BSL | 6 | 46.1 | Tier 4 | NO | **D1/D2** |
 
 **Regional Rail Stations:**
 
@@ -172,12 +179,12 @@ District-specific recommendations for council members. Includes **BSL/MFL priori
 
 **BSL/MFL Stations:**
 
-| Rank | Station | Line | Units | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|----------|--------------|-----------|
-| 1 | **46th Street** | MFL | 510 | **Tier 1 - Citywide #3** | **YES (500ft)** | - |
-| 2 | **52nd Street** | MFL | 118 | **Tier 3 - Citywide #9** | **YES (500ft)** | - |
-| 3 | **63rd Street** | MFL | 40 | Tier 4 | **YES (500ft)** | **D3/D4** |
-| 4 | **60th Street** | MFL | 22 | Tier 4 | **YES (500ft)** | **D3/D4** |
+| Rank | Station | Line | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|---------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **46th Street** | MFL | 510 | 98.5 | **Tier 1 - CITYWIDE #1** | **YES (500ft)** | - |
+| 2 | **52nd Street** | MFL | 118 | 58.8 | **Tier 3 - Citywide #9** | **YES (500ft)** | - |
+| 3 | **63rd Street** | MFL | 40 | 50.0 | Tier 4 | **YES (500ft)** | **D3/D4** |
+| 4 | **60th Street** | MFL | 22 | 47.7 | Tier 4 | **YES (500ft)** | **D3/D4** |
 
 **Regional Rail Stations:**
 
@@ -188,7 +195,7 @@ District-specific recommendations for council members. Includes **BSL/MFL priori
 | 3 | Angora | 10 | Southwest Philly |
 
 **District Summary:**
-- **Strongest MFL corridor citywide**: 46th Street (#3) and 52nd Street (#9) are non-negotiable priorities
+- **Strongest MFL corridor citywide**: 46th Street (#1 CITYWIDE) and 52nd Street (#9) are non-negotiable priorities
 - **All four MFL stations have existing 500ft TOD** - perfect candidates for expansion to 1/4 mile
 - **30th Street Station** is #1 Regional Rail station citywide (356 units) - major multi-modal hub
 - 60th/63rd sit on **D3/D4 boundary** - coordinate with CM Jones
@@ -228,13 +235,13 @@ District-specific recommendations for council members. Includes **BSL/MFL priori
 
 **BSL/MFL Stations:**
 
-| Rank | Station | Line | Units | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|----------|--------------|-----------|
-| 1 | **Girard** | BSL | 816 | **Tier 1 - Citywide #4** | NO | - |
-| 2 | **Girard** | MFL | 816 | **Tier 1 - Citywide #5** | NO | **D1/D5** |
-| 3 | **Erie** | BSL | 255 | **Tier 2 - Citywide #7** | NO | **D5/D8** |
-| 4 | Susquehanna-Dauphin | BSL | 77 | Tier 3 | NO | - |
-| 5 | Hunting Park | BSL | 45 | Tier 4 | NO | **D5/D8** |
+| Rank | Station | Line | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|---------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **Girard** | BSL | 816 | 97.0 | **Tier 1 - Citywide #2** | NO | - |
+| 2 | **Girard** | MFL | 816 | 96.4 | **Tier 1 - Citywide #3** | NO | **D1/D5** |
+| 3 | **Erie** | BSL | 255 | 72.0 | **Tier 2 - Citywide #7** | NO | **D5/D8** |
+| 4 | Susquehanna-Dauphin | BSL | 77 | 51.2 | Tier 3 | NO | - |
+| 5 | Hunting Park | BSL | 45 | 46.9 | Tier 4 | NO | **D5/D8** |
 
 **Regional Rail Stations:**
 
@@ -246,7 +253,8 @@ District-specific recommendations for council members. Includes **BSL/MFL priori
 
 **District Summary:**
 - **HIGHEST DEVELOPMENT ACTIVITY CITYWIDE**
-- **Both Girard stations (#4 and #5) = 1,632 combined units (11% of citywide total)** - separated stations, NOT a transfer
+- **Both Girard stations (#2 and #3) = 1,632 combined units (11% of citywide total)** - separated stations, NOT a transfer
+- **Composite scoring elevates both Girards to #2 and #3** due to excellent transit frequency + jobs access + development
 - Erie (#7) is Tier 2 with 255 units
 - Temple University RR is **#2 Regional Rail station citywide** (322 units)
 - **4 of 5 BSL/MFL stations sit on boundaries** with Districts 1 or 8
@@ -289,21 +297,22 @@ District-specific recommendations for council members. Includes **BSL/MFL priori
 
 **BSL/MFL Stations:**
 
-| Rank | Station | Line | Units | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|----------|--------------|-----------|
-| 1 | **York-Dauphin** | MFL | 764 | **Tier 1 - #1 CITYWIDE** | NO | - |
-| 2 | **Berks** | MFL | 779 | **Tier 1 - #2 CITYWIDE** | **YES (500ft)** | - |
-| 3 | **Huntingdon** | MFL | 156 | **Tier 3 - Citywide #8** | **YES (500ft)** | **D1/D7** |
-| 4 | **Somerset** | MFL | 50 | **Tier 3 - Citywide #10** | **YES (500ft)** | **D1/D7** |
-| 5 | Church | MFL | 42 | Tier 4 | NO | - |
+| Rank | Station | Line | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|---------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **York-Dauphin** | MFL | 764 | 95.5 | **Tier 1 - Citywide #4** | NO | - |
+| 2 | **Berks** | MFL | 779 | 95.0 | **Tier 1 - Citywide #5** | **YES (500ft)** | - |
+| 3 | **Huntingdon** | MFL | 156 | 62.1 | **Tier 3 - Citywide #8** | **YES (500ft)** | **D1/D7** |
+| 4 | **Somerset** | MFL | 50 | 50.0 | **Tier 3 - Citywide #11** | **YES (500ft)** | **D1/D7** |
+| 5 | Church | MFL | 42 | 48.1 | Tier 4 | NO | - |
 
 **Regional Rail Stations:**
 
 *(District 7 has strong MFL coverage; RR not needed for top 5)*
 
 **District Summary:**
-- **#1 AND #2 HIGHEST-PERFORMING STATIONS CITYWIDE** (York-Dauphin and Berks)
-- **4 of top 10 citywide stations** are in District 7
+- **Two of top 5 HIGHEST-PERFORMING STATIONS CITYWIDE** (York-Dauphin #4 and Berks #5)
+- **York-Dauphin has highest unit count citywide (764)** but composite scoring balances raw development with transit quality + jobs access
+- **4 of top 11 citywide stations** are in District 7
 - **1,543 units at top 4 stations = 11% of citywide total**
 - Huntingdon + Somerset sit on **D1/D7 boundary** - coordinate with CM Squilla
 
