@@ -1,0 +1,423 @@
+{
+  "threshold_meters": 100,
+  "boundary_stations": [
+    {
+      "station": "56th Street",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "3",
+          "status": "NEAR_BOUNDARY",
+          "distance": 5.3
+        },
+        {
+          "district": "4",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "4"
+    },
+    {
+      "station": "60th Street",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "3",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "4",
+          "status": "NEAR_BOUNDARY",
+          "distance": 4.8
+        }
+      ],
+      "assigned_district": "3"
+    },
+    {
+      "station": "63rd Street",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "3",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "4",
+          "status": "NEAR_BOUNDARY",
+          "distance": 5.7
+        }
+      ],
+      "assigned_district": "3"
+    },
+    {
+      "station": "Allegheny",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "5",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "8",
+          "status": "NEAR_BOUNDARY",
+          "distance": 4.9
+        }
+      ],
+      "assigned_district": "5"
+    },
+    {
+      "station": "Allegheny",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "6",
+          "status": "NEAR_BOUNDARY",
+          "distance": 3.9
+        },
+        {
+          "district": "7",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "7"
+    },
+    {
+      "station": "Bridesburg",
+      "line": "Regional Rail",
+      "mode": "Regional Rail",
+      "districts": [
+        {
+          "district": "6",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "7",
+          "status": "NEAR_BOUNDARY",
+          "distance": 73.4
+        }
+      ],
+      "assigned_district": null
+    },
+    {
+      "station": "Ellsworth-Federal",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "1",
+          "status": "NEAR_BOUNDARY",
+          "distance": 56.7
+        },
+        {
+          "district": "2",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "1"
+    },
+    {
+      "station": "Erie",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "5",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "8",
+          "status": "NEAR_BOUNDARY",
+          "distance": 5.5
+        }
+      ],
+      "assigned_district": "5"
+    },
+    {
+      "station": "Erie-Torresdale",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "6",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "7",
+          "status": "NEAR_BOUNDARY",
+          "distance": 18.1
+        }
+      ],
+      "assigned_district": "6"
+    },
+    {
+      "station": "Girard",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "1",
+          "status": "NEAR_BOUNDARY",
+          "distance": 3.5
+        },
+        {
+          "district": "5",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "5"
+    },
+    {
+      "station": "Hunting Park",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "5",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "8",
+          "status": "NEAR_BOUNDARY",
+          "distance": 4.6
+        }
+      ],
+      "assigned_district": "5"
+    },
+    {
+      "station": "Huntingdon",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "1",
+          "status": "NEAR_BOUNDARY",
+          "distance": 4.6
+        },
+        {
+          "district": "7",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "7"
+    },
+    {
+      "station": "Logan",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "8",
+          "status": "NEAR_BOUNDARY",
+          "distance": 25.8
+        },
+        {
+          "district": "9",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "9"
+    },
+    {
+      "station": "North Philadelphia Amtrak",
+      "line": "Regional Rail",
+      "mode": "Regional Rail",
+      "districts": [
+        {
+          "district": "5",
+          "status": "NEAR_BOUNDARY",
+          "distance": 98.7
+        },
+        {
+          "district": "8",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": null
+    },
+    {
+      "station": "Olney Transportation Center",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "8",
+          "status": "NEAR_BOUNDARY",
+          "distance": 6.5
+        },
+        {
+          "district": "9",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "9"
+    },
+    {
+      "station": "Oregon",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "1",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "2",
+          "status": "NEAR_BOUNDARY",
+          "distance": 16.0
+        }
+      ],
+      "assigned_district": "2"
+    },
+    {
+      "station": "Queen Lane",
+      "line": "Regional Rail",
+      "mode": "Regional Rail",
+      "districts": [
+        {
+          "district": "4",
+          "status": "NEAR_BOUNDARY",
+          "distance": 81.4
+        },
+        {
+          "district": "8",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": null
+    },
+    {
+      "station": "Snyder",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "1",
+          "status": "NEAR_BOUNDARY",
+          "distance": 5.3
+        },
+        {
+          "district": "2",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "1"
+    },
+    {
+      "station": "Somerset",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "1",
+          "status": "NEAR_BOUNDARY",
+          "distance": 31.7
+        },
+        {
+          "district": "7",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "7"
+    },
+    {
+      "station": "Tasker-Morris",
+      "line": "Broad Street Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "1",
+          "status": "NEAR_BOUNDARY",
+          "distance": 65.5
+        },
+        {
+          "district": "2",
+          "status": "INSIDE",
+          "distance": 0
+        }
+      ],
+      "assigned_district": "1"
+    },
+    {
+      "station": "Tioga",
+      "line": "Market/Frankford Line",
+      "mode": "BSL/MFL",
+      "districts": [
+        {
+          "district": "6",
+          "status": "INSIDE",
+          "distance": 0
+        },
+        {
+          "district": "7",
+          "status": "NEAR_BOUNDARY",
+          "distance": 7.3
+        }
+      ],
+      "assigned_district": "6"
+    }
+  ],
+  "total_boundary_stations": 21,
+  "summary_by_pair": {
+    "3-4": [
+      "56th Street",
+      "60th Street",
+      "63rd Street"
+    ],
+    "5-8": [
+      "Allegheny",
+      "Erie",
+      "Hunting Park",
+      "North Philadelphia Amtrak"
+    ],
+    "6-7": [
+      "Allegheny",
+      "Bridesburg",
+      "Erie-Torresdale",
+      "Tioga"
+    ],
+    "1-2": [
+      "Ellsworth-Federal",
+      "Oregon",
+      "Snyder",
+      "Tasker-Morris"
+    ],
+    "1-5": [
+      "Girard"
+    ],
+    "1-7": [
+      "Huntingdon",
+      "Somerset"
+    ],
+    "8-9": [
+      "Logan",
+      "Olney Transportation Center"
+    ],
+    "4-8": [
+      "Queen Lane"
+    ]
+  }
+}
