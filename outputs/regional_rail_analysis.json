@@ -1,0 +1,1743 @@
+{
+  "radius_meters": 402,
+  "radius_description": "1/4 mile (402 meters)",
+  "total_stations": 36,
+  "total_permits_captured": 109,
+  "total_units_captured": 1878,
+  "station_rankings": [
+    {
+      "station": "30th Street Station",
+      "district": "3",
+      "lat": 39.9566667,
+      "lon": -75.1816667,
+      "permits": 4,
+      "units": 356,
+      "permit_details": [
+        {
+          "lat": 39.95664357081217,
+          "lng": -75.17791189984695,
+          "address": "60 N 23RD ST",
+          "units": 10,
+          "date": "2021-01-14 05:00:00+00",
+          "scope": "FOR INITIAL FIT-OUT OF PREVIOUSLY APPROVED CORE & SHELL STRUCTURE TO CREATE MIXED-USE MULTI-FAMILY & RETAIL HIGH-RISE BUILDING WITH ASSEMBLY AMENITY SPACES PER APPROVED PLANS INCLUDING APPROVAL OF FIRE SERVICE ACCESS ELEVATOR ARRANAGEMENT, MODIFICATION OF UTILITY SPACES PER UTILITY PROVIDER APPROVAL & INSTALLATION OF ELEVATOR SHAFT FOR RETAIL SPACE USE; BUILDING TO BE FULLY SPRINKLERED.  PA DEPT. OF LABOR & INDUSTRY (PA L&I) APPROVAL REQ'D PRIOR TO OPERATION OF ANY ELEVATOR OR LIFTING DEVICES.  THIS PERMIT TO LEGALIZE ELEVATOR SHAFT CONSTRUCTION CITED UNDER CASE FILE# CF-2020-061986.  SEE COMMERCIAL BUILDING PERMIT# 945405 FOR CORE & SHELL AND FLOODPROOFING APPROVALS.\n\nPERMIT AMENDMENT APPROVED 12/2/2021 FOR REDUCTION OF PLUMBING FIXTURE COUNT AT LEVEL 3 & 4 AMENITY SPACES PER PAB VARIANCE MI-2021-004251 & MINOR REVISION OF DWELLING UNIT LAYOUT CHANGES PER APPROVED PLANS."
+        },
+        {
+          "lat": 39.95596594135906,
+          "lng": -75.17806493964875,
+          "address": "30 N 23RD ST",
+          "units": 10,
+          "date": "2021-03-08 05:00:00+00",
+          "scope": "Issuance of Certificate of Occupancy (CO) for previously approved interior fit-out, approved under Permit# 959065,  as part of Agreement between PMC Property Group (Owner) and Dept. of Licenses and Inspection (L&I), where Owner agreed that previously issued permits for construction at the site does not allow occupancy and all applicable provisions of the Philadelphia Code must be met before issuance of CO including approval of Exit Discharge design and flood emergency operation plan.  No construction permitted under this Application, all construction work performed under Permit# 959065."
+        },
+        {
+          "lat": 39.95647084089865,
+          "lng": -75.18533840013905,
+          "address": "3025 JOHN F KENNEDY BLVD",
+          "units": 326,
+          "date": "2020-12-17 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A 28-STORY STRUCTURE FOR USE AS VACANT COMMERCIAL, BUSINESS AND PROFESSIONAL OFFICES, AND MULTI-FAMILY HOUSEHOLD LIVING (326 RESIDENTIAL UNITS) AND UNDERGROUND PARKING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13. SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION WORK. **IBC 2018**"
+        },
+        {
+          "lat": 39.955499300979,
+          "lng": -75.17837297041929,
+          "address": "2301 JOHN F KENNEDY BLVD",
+          "units": 10,
+          "date": "2021-11-20 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A SEMI-DETACHED STRUCTURE. WITH ACCESSORY BALCONIES, ACCESSORY ROOF DECK STRUCTURES, AND ACCESSORY ROOF DECK (FOR RESIENTIAL USE ONLY) ACCESSORY RESIDENTIAL TERRACE AT THIRD FLOOR, AND BELOW-GRADE ACCESSORY PARKING. FOR USE  BUSINESS AND PROFESSIONAL OFFICE AND  RETAIL AND VACANT COMMERCIAL SPACES (USE AS PERMITTED WITHIN THE CMX-5 ZONING DISTRICT, REGISTRATION PERMIT REQUIRED PRIOR TO OCCUPANCY) ON 1ST- 2ND FLOOR AND MULTI-FAMILY HOUSEHOLD LIVING TWO HUNDRED AND EIGHTY-SEVEN (287) DWELLING UNITS), BELOW-GRADE ACCESSORY PARKING WITH FORTY-FOUR (44) ON-SITE PARKING SPACES - TWO (2) ADA  ACCESSIBLE (INCLUDING ONE VAN ACCESSIBLE), THREE (3) ELECTRIC VEHICLE SPACES, NINE (9) AUTO-SHARE SPACES, AND NINETY-SIX (96) CLASS 1A BICYCLE SPACES, AND TWO (2) LOADING SPACES, AND THREE (3) RESERVOR SPACES Building to be fully sprinklered. Separate permits required for M.E.P.S Work. Separate use and fit-out permits required for the commercial vacant office spaces. Separate approval required from PA L&I for elevator installation.\n\nAmendment to change DPRC-SI for special inspections and add SOE plans.\nAMENDMENT TO INCREASE THE TOTAL THREE HUNDRED AND THIRTEEN (313) DWELLING UNITS) WITH UPDATED FLOOR LAYOUT AND STRUCTURAL PLANS."
+        }
+      ]
+    },
+    {
+      "station": "Temple University",
+      "district": "5",
+      "lat": 39.9813889,
+      "lon": -75.1494444,
+      "permits": 33,
+      "units": 322,
+      "permit_details": [
+        {
+          "lat": 39.98058245080207,
+          "lng": -75.14600450984759,
+          "address": "1909 N 7TH ST",
+          "units": 10,
+          "date": "2020-04-21 04:00:00+00",
+          "scope": "FOR THE ERECTION OF A NEW THREE (3) STORY ATTACHED STRUCTURE (W/ROOF DECK ACCESSED BY PILOT HOUSE ENCLOSING ACCESS STAIRS ONLY), TO BE USED AS GROUP R-2 (FOUR (4) DWELLING UNITS) THROUGHOUT, AS PER PLANS; SEPARATE PERMITS REQUIRED FOR ALL MEP/FSP WORK; BUILDING TO BE FULLY SPRINKLERED AS PER NFPA 13R MINIMUM OR BETTER; SEE AP#1016742 FOR ZONING/USE PERMIT."
+        },
+        {
+          "lat": 39.984681850598356,
+          "lng": -75.1475057194717,
+          "address": "2156 N DARIEN ST",
+          "units": 10,
+          "date": "2021-08-12 04:00:00+00",
+          "scope": "FOR THE ERECTION OF AN ATTACHED THREE (3) STORY STRUCTURE WITH A CELLAR AND A ROOF DECK WITH A ROOF ACCESS STRUCTURE AS PER PLANS. FOR THREE (3) DWELLING UNITS WITH LAYOUT AS SHOWN. "
+        },
+        {
+          "lat": 39.98349295094307,
+          "lng": -75.14594188057119,
+          "address": "2104 N 7TH ST",
+          "units": 10,
+          "date": "2024-02-13 05:00:00+00",
+          "scope": "FOR NEW CONSTRUCTION OF AN ATTACHED BUILDING WITH CELLAR, BALCONY, ROOF DECK AND ROOF-DECK ACCESS STRUCTURE.  BUILDING TO BE FULLY SPRINKLERED WITH NFPA 13R.  SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION.  "
+        },
+        {
+          "lat": 39.980769870774736,
+          "lng": -75.14488778039127,
+          "address": "1926 N 6TH ST",
+          "units": 10,
+          "date": "2020-07-01 04:00:00+00",
+          "scope": "FOR THE NEW CONSTRUCTION OF A THREE-STORY STRUCTURE WITH PILOTHOUSE ACCESSING A ROOF DECK, FOR USE AS A THREE (3) FAMILY DWELLING, AS PER APPRVED PLANS."
+        },
+        {
+          "lat": 39.9808558207793,
+          "lng": -75.14487113971738,
+          "address": "1930 N 6TH ST",
+          "units": 3,
+          "date": "2020-09-29 04:00:00+00",
+          "scope": "For the erection of a three (3) story structure with roof deck, roof deck access structure, and rear decks; for use as three family dwelling. Building to be fully sprinklered per NFPA 13R. Separate permit required for any MEP and fire suppression work."
+        }
+      ]
+    },
+    {
+      "station": "Suburban Station",
+      "district": "5",
+      "lat": 39.9538889,
+      "lon": -75.1677778,
+      "permits": 3,
+      "units": 293,
+      "permit_details": [
+        {
+          "lat": 39.95040728099492,
+          "lng": -75.16801776002367,
+          "address": "1608-34 SANSOM ST",
+          "units": 10,
+          "date": "2021-06-14 04:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A 28 STORY HIGH-RISE STRUCTURE FOR USE AS THREE HUNDRED SIX (306) DWELLING UNITS WITH ACCESSORY AMENITY SPACES AND ACCESSORY PARKING GARAGE WITH SHELL COMMERCIAL SPACES (USE REGISTRATION & FIT-OUT PERMITS REQUIRED PRIOR TO OCCUPANCY) AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. WORK TO INCLUDE SHEETING & SHORING AND UNDERPINNING TO BE MONITORED AT ALL TIMES BY PA LICENSED PE. *2018 IBC*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 12/14/21\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 FOR CHANGES TO BUILDING TO INCLUDE CHANGES TO PARKING LAYOUT AND BELOW GRADE CONSTRUCTION AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 2/2/22\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 FOR CHANGES TO ABOVE GROUND BUILDNG LAYOUTS AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 8/3/23\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 FOR CHANGES TO BUILDING LAYOUT TO INCLUDE INCREASE TO TWO-HUNDRED FIFTY-FIVE (255) DWELLING UNITS AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 1/29/24\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 FOR CHANGES TO BUILDING LAYOUT TO INCLUDE CREATION OF FITNESS CENTER ON LEVEL 2 AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 6/14/24\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 TO CHANGE DPRC-SI AND SPECIAL INSPECTIONS AGENCIES ASSIGNED AS PER REVISED DOCUMENTS. \n\nAMENDMENT APPROVED 10/12/24\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 TO RELOCATE AMENITY FITNESS CENTER TO 3RD FLOOR AND ASSOCIATED FLOOR LAYOUT CHANGES AS PER APPROVED PLANS.  "
+        },
+        {
+          "lat": 39.95248942099395,
+          "lng": -75.17070676022315,
+          "address": "1813 RANSTEAD ST",
+          "units": 10,
+          "date": "2024-12-06 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A TWELVE (12) STORY HIGH-RISE STRUCTURE OF TYPE I-B CONSTRUCTION WITH BASEMENT AND ROOF DECKS FOR USE AS EIGHTY-FOUR (84) DWELLING UNITS (GROUP R-2). ALL WORK TO BE DONE PER APPROVED PLANS AND IN ACCORDANCE WITH 2018 IBC. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND STANDPIPES TO BE INSTALLED IN INTERIOR EXIT STAIRWAY ENCLOSURES IN ACCORDANCE WITH NFPA 14. SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING, FIRE SUPPRESSION, AND EXCAVATION WORK.\n\n[AMENDMENT 4/22/2025 FOR REDUCTION IN OCCUPIED AREA AND G.F.A. AND FOR INCREASE IN FIRE SEPARATION DISTANCE AND EXTERIOR WALL OPENINGS AT SOUTHERN WALL AS PER APPROVED AMENDED PLANS. SEE ZP-2023-000418 AMENDMENT FOR ZONING APPROVAL OF CHANGES TO STRUCTURE BULKING AND MASSING.]"
+        },
+        {
+          "lat": 39.95715824052864,
+          "lng": -75.16785246965746,
+          "address": "1701L RACE ST",
+          "units": 273,
+          "date": "2020-11-06 05:00:00+00",
+          "scope": "FOR THE ERECTION OF ONE DETACHED STRUCTURE WITH BALCONIES AND AMENITIES.  STRUCTURE FOR USE AS VACANT COMMERCIAL SPACE ON GROUND FLOOR (USE REGISTRATION PERMIT REQUIRED PRIOR TO OCCUPANCY) WITH MULTI-FAMILY HOUSEHOLD LIVING (273 DWELLING UNITS) FROM SECOND FLOOR THROUGH 23RD FLOORS. SPRINKLERED THROUGH PER NFPA 13. SEPARATE PERMITS REQUIRED FOR PLUMBING, MECHANICAL, ELECTRICAL AND FIRE SUPPRESSION.  A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 10 FEET OF BUILDING FA\u00c7ADE IN ACCORDANCE WITH SECTION 3306 OF THE IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMITS ARE REQUIRED.\n\n3/29/2022 AMENDMENT: AMEND ORIGINAL PERMIT FOR THE MODIFICATION OF GROUND FLOOR COMMERCIAL SPACE AND 21ST - 22ND FLOOR (COMBINED UNIT 2101 AND UNIT 2103 TO UNIT 2114, COMBINED UNIT 2201 AND UNIT 2202 TO UNIT 2214) AS PER APPROVED PLAN AND ZP-2021-015718."
+        }
+      ]
+    },
+    {
+      "station": "49th Street",
+      "district": "3",
+      "lat": 39.9436111,
+      "lon": -75.2166667,
+      "permits": 10,
+      "units": 167,
+      "permit_details": [
+        {
+          "lat": 39.94587125079416,
+          "lng": -75.21331865970973,
+          "address": "1103 S 47TH ST",
+          "units": 15,
+          "date": "2021-07-07 04:00:00+00",
+          "scope": "FOR THE ERECTION OF AN ATTACHED FOUR STORY STRUCTURE WITH ROOF ACCESS STRUCTURES FOR ACCESS TO ROOF DECK WITH THREE BALCONIES ON THE FRONT FACADE.  STRUCTURE FOR USE AS VACANT COMMERCIAL AT GROUND FLOOR (USE REGISTRATION REQUIRED PRIOR TO OCCUPANY) WITH MULTI-FAMILY HOUSEHOLD LIVING THROUGHOUT (15 DWELLING UNITS (10 BY RIGHT AND 5 USING THE MIXED INCOME BONUS)).  BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13 AND STANDPIPES TO BE PROVIDED IN THE EXIT STAIRWAYS PER NFPA 14. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 13 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT  REQUIRED PRIOR TO THE START OF ANY WORK.*** FIRE WATCH IS REQUIRED ONCE COMBUSTIBLE CONSTRUCTION IS OVER 40 FEET IN HEIGHT, A SITE SAFETY PLAN SHALL BE SUBMITED TO BUILDING INSPECTOR PRIOR TO THE START OF ANY CONSTRUCTION.*** SEPARATE PERMIITS TO BE OBTAINED FOR ALL OTHER WORK."
+        },
+        {
+          "lat": 39.943915660716755,
+          "lng": -75.22041425957673,
+          "address": "1047 S 51ST ST",
+          "units": 10,
+          "date": "2020-12-04 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A NEW FOUR STORY STRUCTURE WITH A ROOF DECK AND PILOT HOUSE.  STRUCTURE FOR USE AS EIGHT (8) DWELLING UNITS. SPRINKLERED THROUGH PER NFPA 13R. SEPARATE PERMITS REQUIRED FOR PLUMBING, MECHANICAL, ELECTRICAL AND FIRE SUPPRESSION.  A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 10 FEET OF BUILDING FA\u00c7ADE IN ACCORDANCE WITH SECTION 3306 OF THE IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMITS ARE REQUIRED.\n\n4/18/2022 AMENDMENT: AMEND ORIGINAL PERMIT FOR THE AMENDMENT TO THE NORTHERN PARTY WALL AND INTERIOR LAYOUT AS PER APPROVED PLAN. \n\n4/29/2024 AMENDMENT: AMEND PREVIOUS PERMIT FOR THE INSTALLATION OF SHAFT ENCLOSURE IN ORDER FOR THE STANDPIPE, AND MINOR CHANGES TO THE FRAMING ON THE SENCOND FLOOR. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. SEPARATE PERMITS TO BE OBTAINED FOR ALL OTHER WORK.\n\n8/30/2024 AMENDMENT: TO INCLUDE THE SHAFT ENCLOSURE FOR THE 2ND STANDPIPE."
+        },
+        {
+          "lat": 39.94406177112644,
+          "lng": -75.21615382952974,
+          "address": "4820 CHESTER AVE",
+          "units": 12,
+          "date": "2024-03-30 04:00:00+00",
+          "scope": "FOR THE CONSTRUCTURE OF AN ATTACHED STRUCTURE WITH ROOF DECK ACCESSED BY A ROOF DECK ACCESS STRUCTURE. FOR USE AS A \nMULTI-FAMILY (12 UNITS) HOUSEHOLD LIVING. AS PER APPROVED PLANS. \n********************SEPARATE PERMITS REQUIRED FOR ALL OTHER WORK. *********************\nAMENDMENT: PERMIT WAS AMENDED FOR THE UNDERPINNING REQUIRED AT REAR SECTION OF BUILDING. AS PER APPROVED PLANS."
+        },
+        {
+          "lat": 39.944955771238355,
+          "lng": -75.21378952954423,
+          "address": "4701-15 KINGSESSING AVE",
+          "units": 76,
+          "date": "2021-12-20 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A FOUR STORY DETACHED STRUCTURE FOR USE AS A MULTI-FAMILY HOUSEHOLD LIVING ( 76 DWELLING UNITS). STRUCTURE TO INCLUDE THE FOLLOWING: FIFTY-FIVE (55) ACCESSORY PARKING SPACES, TWO (2) ADA VAN ACCESSIBLE PARKING SPACES AND ONE (1) AUTO-SHARE PARKING SPACE ON THE SAME LOT WITH EXISTING TWENTY-ONE (21) PARKING SPACES AND TWO (2) ADA VAN ACCESSIBLE PARKING SPACES AND, TO INCLUDE TWENTY-SIX (26) ACCESSORY CLASS 1A BICYCLE PARKING SPACES AND TEN (10) BICYCLE SPACES. BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13 AND STANDPIPES TO BE PROVIDED IN THE EXIT STAIRWAYS PER NFPA 14. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 11 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT  REQUIRED PRIOR TO THE START OF ANY WORK.***AMENDED PERMIT TO BE OBTAINED FOR UNDER PINNING WORK.*** FIRE WATCH IS REQUIRED ONCE COMBUSTIBLE CONSTRUCTION IS OVER 40 FEET IN HEIGHT, A SITE SAFETY PLAN SHALL BE SUBMITED TO BUILDING INSPECTOR PRIOR TO THE START OF ANY CONSTRUCTION.*** SEPARATE PERMIITS TO BE OBTAINED FOR ALL OTHER WORK."
+        },
+        {
+          "lat": 39.94119655117918,
+          "lng": -75.22017096951532,
+          "address": "5200 CHESTER AVE",
+          "units": 10,
+          "date": "2021-09-01 04:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A FOUR (4) STORY, FORTY-FIVE (45) FAMILY DWELLING WITH COMMON ROOF DECKS & PILOT HOUSES AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+        }
+      ]
+    },
+    {
+      "station": "Overbrook",
+      "district": "4",
+      "lat": 39.9894444,
+      "lon": -75.2494444,
+      "permits": 1,
+      "units": 111,
+      "permit_details": [
+        {
+          "lat": 39.98807895070873,
+          "lng": -75.24918264055898,
+          "address": "2079 N 63RD ST",
+          "units": 111,
+          "date": "2020-05-11 04:00:00+00",
+          "scope": "FOR THE CONSTRUCTION OF ASEMI-ATTACHED, FIVE-STORY STRUCTURE OF TYPE IIIB CONSTRUCTION WITH 111 DWELLING UNITS AND ACCESSORY PARKING AS  PER PLANS. SEPARATE PERMITS REQUIRED FOR ALL MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION WORK. PHC TO REVIEW METAL RAILING SHOP DRAWINGS FOR RAILING ALONG 63RD ST.\n\nAMENDMENT (1/7/2021) UPDATE SPECIAL INSPECTION INFORMATION."
+        }
+      ]
+    },
+    {
+      "station": "North Philadelphia Amtrak",
+      "district": "8",
+      "lat": 39.9972222,
+      "lon": -75.155,
+      "permits": 8,
+      "units": 93,
+      "permit_details": [
+        {
+          "lat": 40.00022830113597,
+          "lng": -75.15353714954597,
+          "address": "3104 N BROAD ST",
+          "units": 3,
+          "date": "2021-01-07 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A THREE STORY ATTACHED STRUCTURE, TO INCLUDE THE ERECTION OF A FOUNDATION, STRUCTURAL FRAMING ELEMENTS, AND COMMON-ACCESS MEANS OF EGRESS STAIR. STRUCTURE IS MODULAR AND APPROVED BY A THIRD PARTY AGENCY. BUILDING FOR USE AS A THREE FAMILY DWELLING. BUILDING TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD  CONDITION VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 9 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT  REQUIRED PRIOR TO THE START OF ANY WORK. **"
+        },
+        {
+          "lat": 39.9991421006757,
+          "lng": -75.15375789972812,
+          "address": "3018 N BROAD ST",
+          "units": 10,
+          "date": "2022-03-17 04:00:00+00",
+          "scope": "FOR THE ERECTION OF A THREE (3) STORY ATTACHED STRUCTURE TO INCLUDE UNDERPINNING AS PER APPROVED PLANS. FOR USE AS FIVE (5) DWELLING UNITS. STRUCTURE TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R MINIMUM. **SEPARATE PERMITS REQUIRED FOR MEP AND FIRE SUPPRESSION WORK.**  **2018 IBC**\n\nAMENDMENT 2/1/23 TO REMOVE BASEMENT (& UNDERPINNING), AND CHANGE LAYOUT, NEW WINDOWS, PROPOSE NFPA 13 SYSTEM.\n\nAMENDMENT 4/28/23 TO MODIFY LAYOUT, STRUCTURAL/FOUNDATION CHANGES, REVISED CEILING HEIGHTS AS PER PLANS. "
+        },
+        {
+          "lat": 40.00018096086919,
+          "lng": -75.15354556046171,
+          "address": "3102 N BROAD ST",
+          "units": 10,
+          "date": "2021-01-13 05:00:00+00",
+          "scope": "For the erection of a foundation, structural framing elements, and common-access means of egress stair to facilitate the erection of a three (3) story attached modular structure to be used as Group R-2 (three (3) dwelling units), as per plans and third-party agency modular unit plans; separate permits required for electrical, plumbing, and fire suppression hook ups and non-modular areas; building to be fully sprinklered in accordance with NFPA 13R (minimum); see AP#1029940 for zoning/use approval."
+        },
+        {
+          "lat": 39.99947054134614,
+          "lng": -75.15533053042182,
+          "address": "3028 N 15TH ST",
+          "units": 10,
+          "date": "2022-08-06 04:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A THREE (3) STORY BUILDING WITH A FRONT PORCH AND REAR DECKS AT THE SECOND AND THIRD FLOOR LEVELS FOR USE AS A THREE (3) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED. WORK TO INCLUDE UNDERPINNING TO BE MONITORED BY A PA LICENSED PE AT ALL TIMES. *2018 IEBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+        },
+        {
+          "lat": 40.00047582128357,
+          "lng": -75.15348487033468,
+          "address": "3114 N BROAD ST",
+          "units": 10,
+          "date": "2024-11-02 04:00:00+00",
+          "scope": "For the erection of an attached structure used for six dwelling untis as per approved plans. Building to be fully sprinklered per minimum NFPA 13R. Separate permits required for MEP & FP works."
+        }
+      ]
+    },
+    {
+      "station": "North Philadelphia",
+      "district": "8",
+      "lat": 39.9977778,
+      "lon": -75.1563889,
+      "permits": 8,
+      "units": 93,
+      "permit_details": [
+        {
+          "lat": 40.00022830113597,
+          "lng": -75.15353714954597,
+          "address": "3104 N BROAD ST",
+          "units": 3,
+          "date": "2021-01-07 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A THREE STORY ATTACHED STRUCTURE, TO INCLUDE THE ERECTION OF A FOUNDATION, STRUCTURAL FRAMING ELEMENTS, AND COMMON-ACCESS MEANS OF EGRESS STAIR. STRUCTURE IS MODULAR AND APPROVED BY A THIRD PARTY AGENCY. BUILDING FOR USE AS A THREE FAMILY DWELLING. BUILDING TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD  CONDITION VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 9 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT  REQUIRED PRIOR TO THE START OF ANY WORK. **"
+        },
+        {
+          "lat": 40.001024710802234,
+          "lng": -75.15598513039455,
+          "address": "3117 N 16TH ST",
+          "units": 10,
+          "date": "2025-11-21 05:00:00+00",
+          "scope": "NEW CONSTRUCTION (RE-CONSTRUCTION, MORE THAN 2/3RDS JOIST REPLACEMENT AND REAR ADDITION) OF A THREE-STORY BUILDING WITH CELLAR AND CRAWL SPACE FOR USE AS THREE (3) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+        },
+        {
+          "lat": 39.9991421006757,
+          "lng": -75.15375789972812,
+          "address": "3018 N BROAD ST",
+          "units": 10,
+          "date": "2022-03-17 04:00:00+00",
+          "scope": "FOR THE ERECTION OF A THREE (3) STORY ATTACHED STRUCTURE TO INCLUDE UNDERPINNING AS PER APPROVED PLANS. FOR USE AS FIVE (5) DWELLING UNITS. STRUCTURE TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R MINIMUM. **SEPARATE PERMITS REQUIRED FOR MEP AND FIRE SUPPRESSION WORK.**  **2018 IBC**\n\nAMENDMENT 2/1/23 TO REMOVE BASEMENT (& UNDERPINNING), AND CHANGE LAYOUT, NEW WINDOWS, PROPOSE NFPA 13 SYSTEM.\n\nAMENDMENT 4/28/23 TO MODIFY LAYOUT, STRUCTURAL/FOUNDATION CHANGES, REVISED CEILING HEIGHTS AS PER PLANS. "
+        },
+        {
+          "lat": 40.00018096086919,
+          "lng": -75.15354556046171,
+          "address": "3102 N BROAD ST",
+          "units": 10,
+          "date": "2021-01-13 05:00:00+00",
+          "scope": "For the erection of a foundation, structural framing elements, and common-access means of egress stair to facilitate the erection of a three (3) story attached modular structure to be used as Group R-2 (three (3) dwelling units), as per plans and third-party agency modular unit plans; separate permits required for electrical, plumbing, and fire suppression hook ups and non-modular areas; building to be fully sprinklered in accordance with NFPA 13R (minimum); see AP#1029940 for zoning/use approval."
+        },
+        {
+          "lat": 39.99947054134614,
+          "lng": -75.15533053042182,
+          "address": "3028 N 15TH ST",
+          "units": 10,
+          "date": "2022-08-06 04:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A THREE (3) STORY BUILDING WITH A FRONT PORCH AND REAR DECKS AT THE SECOND AND THIRD FLOOR LEVELS FOR USE AS A THREE (3) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED. WORK TO INCLUDE UNDERPINNING TO BE MONITORED BY A PA LICENSED PE AT ALL TIMES. *2018 IEBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+        }
+      ]
+    },
+    {
+      "station": "Chelten Avenue",
+      "district": "8",
+      "lat": 40.03,
+      "lon": -75.1808333,
+      "permits": 6,
+      "units": 84,
+      "permit_details": [
+        {
+          "lat": 40.03069896123742,
+          "lng": -75.17922819000368,
+          "address": "226 W CHELTEN AVE",
+          "units": 10,
+          "date": "2021-12-16 05:00:00+00",
+          "scope": "**Amendment dated MM/DD/YYYY to change construction types from Type IIIA throughout to Type IA podium at 1st story with Type VA at 2nd through 5th stories, change foundation to include helical piles, eliminate basement, add horizontal exit at 2nd-5th floors, revise floor plans throughout, modifications to windows, and reduce size of roof deck, all as per revised plans and documents.**\nFor the erection of a new, five (5) story semi-detached structure (w/roof deck accessed by pilot houses enclosing access stairs only), to be used as Group U (Utilities only) within the basement, Vacant Commercial Space at the ground floor (separate use registration permit and fit-out/CO permit required prior to occupancy), with Group R-2 at second to fifth floors (forty-six (46) dwelling units; at least one (1) Type A Unit w/remaining to be Type B Units), and Group A-3 (shared roof deck for residential tenants only) above the fifth floor roof, and including site work for ten (10) accessory surface parking spaces (partially covered by building overhang), as per plans; separate permits required for all MEP/FSP work; building to be fully sprinklered throughout in accordance with NFPA 13 and with standpipes within the exit stairways in accordance with NFPA 14; covered walkway or sidewalk closure shall be required within 14 feet of building facade in accordance with 2018 IBC Section 3306; fire watch is required once combustible construction is over 40 feet in height; see ZP-2021-006487 for zoning/use approval."
+        },
+        {
+          "lat": 40.03012604126582,
+          "lng": -75.17899898011689,
+          "address": "5545 PULASKI AVE",
+          "units": 34,
+          "date": "2020-10-05 04:00:00+00",
+          "scope": "FOR THE ERECTION OF A DETACHED STRUCTURE OF TYPE VA CONSTRUCTION WITH A CELLAR AND A ROOF DECK WITH A ROOF ACCESS STRUCTURE. FOR THIRTY-FIVE (35) DWELLING UNITS WITH LAYOUT AS PER PLANS. SEPARATE PERMITS REQUIRED FOR ALL MECHAICANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION WORK.\n\nAMENDMENT (2/11/2021) AMENDMENT TO CHNAGE THE SPECIAL INSPECTION AGENCY AS PER NEW FORM.\nAMENDMENT (4/22/2021) TO REMOVE COMMERCIAL SPACE, REDUCTION OF DWELLINGS TO 34 UNITS, REVISED PARTITIONS, FIXTURES, FINISHES TO CREATE AMENITY SPACE. "
+        },
+        {
+          "lat": 40.03042490119201,
+          "lng": -75.1795497399974,
+          "address": "234-36 W CHELTEN AVE",
+          "units": 10,
+          "date": "2021-12-13 05:00:00+00",
+          "scope": "For the erection of a new four (4) story detached structure (w/roof deck accessed by pilot house enclosing roof access only), to be used as Vacant Commercial Space at front first floor (separate use registration permit and fit-out/CO permit required prior to occupancy), with Group R-2 (Forty-Nine (49) Dwelling Units w/amenities) at rear first floor and above, as per plans; separate permits required for all MEP/FSP work; building to be fully sprinklered throughout in accordance with NFPA 13 w/standpipes within the exit stairways installed as per NFPA 14; covered walkway or sidewalk closure required within 11.25 feet of building facade as per 2018 IBC Section 3306; fire watch is required once combustible construction is over 40 feet in height; see ZP-2021-010888 for zoning/use approval."
+        },
+        {
+          "lat": 40.029825711157194,
+          "lng": -75.18034629995611,
+          "address": "308 W CHELTEN AVE",
+          "units": 10,
+          "date": "2021-03-23 04:00:00+00",
+          "scope": "FOR THE COMPLETE DEMOLITION OF EXISTING BUILDING AND FOR THE ERECTION OF AN ATTACHED BUILDING WITH A ROOF DECK. FOR THE USE AS MULTI-FAMILY (FORTY-NINE (49) UNITS) HOUSEHOLD LIVING WITH ACCESSARY PARKING. BUILDING TO BE FULLY SPRINKLERED. SEPARATE PERMITS REQURIED FOR M.E.P.S WORK. SEPARATE APPROVAL REQUIRED FROM PA LABOR AND INDUSTRY FOR ELEVATOR INSTALLATION.\nAmendment to change the construction type of entire building to type IIIA and add horizontal exits fron 2nd to 5th floors as per approved plans."
+        },
+        {
+          "lat": 40.0311824311076,
+          "lng": -75.17713604010176,
+          "address": "5521 WAYNE AVE",
+          "units": 10,
+          "date": "2021-12-25 05:00:00+00",
+          "scope": "FOR THE ERECTION OF AN ATTACHED STRUCTURE WITH SEVENTEEN (17) 1A CLASS BICYCLE SPACES IN AN ACCESSIBLE ROUTE. FOR A VACANT COMMERCIAL SPACE AT FIRST FLOOR FRONT( USE REGISTRATION AND FIT-OUT PERMITS REQUIRED PRIOR TO OCCUPANCY) AT FIRST FLOOR WITH FIFTY(50) DWELLING UNITS.( NINE(9) UNITS USING MIXED INCOME HOUSING BONUS AS PER 14-702(7) AND FOR AN ADDITIONAL EIGHT(8) UNITS  USING  GREEN ROOF BONUS AS PER 14-702(16). BUILDING TO BE FULLY SPRINKLERED. SEPATATE PERMITS REQUIRED FOR MEP & FP WORK. SEPARATE APPROVAL REQUIRED FROM PA L&I FOR ELEVATOR INSTALLATION.\nAMENDMENT TO INCLUDE 5' SETBACK TO AVOID UNDERPINNING AND ADJUSTMENT TO FLOOR LAYOUT AND EXISTING WALL ALONG SIDE LOT LINE TO REMAIN AS PER APPROVED REVISED PLANS.\nGrant variance for exiting under the building with a 2-hour fire rating of exit passageway walls and ceilings where tenants must exit under the building.  Any gates or fences along exit passageways shall not be locked.\nAmendment to eliminates the previously provided backup generator in favor of horizontal exits above 1st floor, and the mail room on the ground floor has been relocated as per approved revised plans.\nAmendment limited to a single-door swing change at the basement. "
+        }
+      ]
+    },
+    {
+      "station": "North Broad",
+      "district": "5",
+      "lat": 39.9922222,
+      "lon": -75.1538889,
+      "permits": 10,
+      "units": 79,
+      "permit_details": [
+        {
+          "lat": 39.99378144054489,
+          "lng": -75.15165159035772,
+          "address": "1223 W LEHIGH AVE",
+          "units": 10,
+          "date": "2023-01-12 05:00:00+00",
+          "scope": "FOR THE ERECTION OF AN ATTACHED THREE STORY STRUCTURE WITH ROOF ACCESS STRUCTURE FOR ACCESS TO ROOF DECK.  STRUCTURE FOR USE AS MULTI-FAMILY HOUSEHOLD LIVING THREE (3) DWELLING UNITS.  BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN NINE (9) FEET (1/4TH OF HEIGHT OF BUILDING) OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT REQUIRED PRIOR TO THE START OF ANY WORK.** SEPARATE PERMIITS TO BE OBTAINED FOR ALL OTHER WORK.\n\n** A NEW DEED MUST BE RECORDED, AND INCLUDE ACCESS TO THE COMMON REAR ALLEY AS SHOWN ON THE APPROVED ZONING PERMIT PLANS \n"
+        },
+        {
+          "lat": 39.99377504112099,
+          "lng": -75.15159775966973,
+          "address": "1221 W LEHIGH AVE",
+          "units": 10,
+          "date": "2023-01-12 05:00:00+00",
+          "scope": "FOR THE ERECTION OF AN ATTACHED THREE (3) STORY STRUCTURE WITH ROOF DECK AND ROOF ACCESS STRUCTURE. FOR USE AS MULTI-FAMILY HOUSEHOLD LIVING CONTAINING THREE (3) DWELLING UNITS. BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN NINE (9) FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT REQUIRED PRIOR TO THE START OF ANY WORK.** SEPARATE PERMIITS TO BE OBTAINED FOR ALL OTHER WORK.\n\n** A NEW DEED MUST BE RECORDED, AND INCLUDE ACCESS TO THE COMMON REAR ALLEY AS SHOWN ON THE APPROVED ZONING PERMIT PLANS **"
+        },
+        {
+          "lat": 39.988933531207465,
+          "lng": -75.15458330034346,
+          "address": "2348 N PARK AVE",
+          "units": 10,
+          "date": "2024-06-26 04:00:00+00",
+          "scope": "For the erection of an attached structure that includes a full basement with egress, and a roof deck with a pilot house. For four dwelling units. Building is fully sprinklered. Separate permits required for MEP and FP work."
+        },
+        {
+          "lat": 39.99243824090741,
+          "lng": -75.14963249994877,
+          "address": "2630 N 11TH ST",
+          "units": 10,
+          "date": "2021-10-18 04:00:00+00",
+          "scope": "For the erection of a new three (3) story attached structure (w/roof deck and pilot house enclosing access stairs only), to be used as Group R-2 (Three (3) Dwelling Units), as per plans; separate permits required for MEP/FSP work; building to be fully sprinklered as per NFPA 13R throughout; Covered walkway or sidewalk closure required "
+        },
+        {
+          "lat": 39.993976810711025,
+          "lng": -75.15155687951427,
+          "address": "1222 W SILVER ST",
+          "units": 10,
+          "date": "2023-01-12 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A THREE (3) STORY ATTACHED STRUCTURE OF TYPE V-B CONSTRUCTION WITH BASEMENT, ROOF DECK, AND ROOF DECK ACCESS STRUCTURE FOR USE AS A THREE (3) FAMILY DWELLING (GROUP R-2). BUILDING TO BE FULLY SPRINKLERED WITH A MINIMUM OF A NFPA 13R AUTOMATIC SPRINKLER SYSTEM. ALL WORK TO BE DONE PER APPROVED PLANS AND IN ACCORDANCE WITH 2018 IBC. SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING, AND FIRE SUPPRESSION WORK. IF SITE CONDITIONS VARY, CONTACT DESIGN ENGINEER PRIOR TO START OF WORK. **PRIOR TO ISSUANCE OF C.O., A NEW DEED MUST BE RECORDED AND INCLUDE THE NEW SHARED ALLEY EASEMENT AS SHOWN ON THE APPROVED ZONING PERMIT PLANS FOR ZP-2022-006749.**"
+        }
+      ]
+    },
+    {
+      "station": "East Falls",
+      "district": "4",
+      "lat": 40.0113889,
+      "lon": -75.1919444,
+      "permits": 2,
+      "units": 46,
+      "permit_details": [
+        {
+          "lat": 40.01393813068937,
+          "lng": -75.19246399948553,
+          "address": "3503 MIDVALE AVE",
+          "units": 10,
+          "date": "2021-05-10 04:00:00+00",
+          "scope": "FOR THE ERECTION OF A SEMI-DETACHED STRUCTURE FOR USE AS VACANT COMMERCIAL SPACES AS PERMITTED IN THE DISTRICT-NOT REQUIRING PARKING) ON THE FIRST FLOOR FRONT MINIMUM 30 FEET (SEPARATE USE AND FIT-OUT REQUIRED PRIOR TO OCCUPANCY), FOR THIRTY THREE(33) DWELLING UNITS WITH FIFTEEN(15) CLASS 1 A PARKING SPACES ON AN ACCESSIABLE ROUTE. BUILDING TO BE FULLY SPRINKLERED. HORIZONTAL EXIT TO BE PROVIDED AS PER APPROVED PLANS. SEPARATE PERMITS REQUIRED FOR MEPS WORK. SEPARATE APPROVAL REQUIRED FROM PA L&I FOR ELEVATOR INSTALLATION."
+        },
+        {
+          "lat": 40.013285781077116,
+          "lng": -75.1927273994606,
+          "address": "3515 MIDVALE AVE",
+          "units": 36,
+          "date": "2020-12-07 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A DETACHED BUILDING WITH A ROOF DECK AND THREE ROOF DECK ACCESS STRUCTURES. FOR THE USE AS THREE (3) VACANT NON-RESIDENTIAL SPACES AT THE GROUND FLOOR (USE REGISTRATION PERMIT REQUIRED PRIOR TO OCCUPANCY) AND MULTI-FAMILY HOUSEHOLD LIVING (36 UNITS) AND TO INCLUDE TWELVE (12) ACCESSORY BICYCLE PARKING SPACES. BUILDING TO BE FULLY SPRINKLERED. SEPARATE PERMITS REQUIRED FOR M.E.P.S WORK. SEPARATE APPROVAL REQUIRED FORM PA L&I FOR THE ELEVATOR INSTALLATION. A Site Safety Plan need to be devised submitted to the area building inspector prior to beginning construction.\nAmendments include relocation of the PECO vault and elimination of the sunken rear patio, as well as the associated revisions to the structural foundation details, egress paths, adjacent plan layouts, and window and door openings.\nAmendments include revised window openings at the upper residential floors, revisions to the exterior building assembly and facade materials, revised fire protection of steel members from GWB enclosures to spray applied fire resistive materials, revised structural floor framing details, elimination of fourth floor storage and associated revisions to adjacent residential units, elimination of roof deck pedestal pavers, coordination of the door schedule and coordination with building system elements as per approved revised plans."
+        }
+      ]
+    },
+    {
+      "station": "Manayunk",
+      "district": "4",
+      "lat": 40.0269444,
+      "lon": -75.225,
+      "permits": 5,
+      "units": 44,
+      "permit_details": [
+        {
+          "lat": 40.02505551094946,
+          "lng": -75.2231221197993,
+          "address": "4328 MAIN ST",
+          "units": 4,
+          "date": "2021-01-15 05:00:00+00",
+          "scope": "FOR THE ERECTION OF AN ATTACHED BUILDING WITH ROOF DECK AND ROOF DECK ACCESS STRUCTURE AS PER APPROVED PLANS. FOR VACANT COMMERCIAL SPACE ON THE GROUND FLOOR (SEPARATE FIT-OUT AND USE REGISTRATION PERMIT REUQIRED PRIOR TO OCCUPANCY) AND MULTIFAMILY HOUSEHOLD LIVING (4 DWELLING UNITS) IN SAME BUILDING. BUILDING TO BE FULLY SPRINKLERED. SEPARATE PERMITS REQUIRED FOR M.E.P.S WORK."
+        },
+        {
+          "lat": 40.02591766072004,
+          "lng": -75.22216856048502,
+          "address": "114 COTTON ST",
+          "units": 10,
+          "date": "2020-06-27 04:00:00+00",
+          "scope": "**Amendment dated 8/9/2022 to remove underpinning and spray-applied fire resistant materials & intumescent paint special inspections as per revised Statement of Special Inspections schedule and as per revised plans removing them from the scope of work**\nFor the erection of a new three (3) story attached structure to be used as vacant commercial space within the basement (separate use registration permit and fit-out/CO permit required prior to occupancy), with Group S-2 parking garage at the 1st floor, and Group R-2 (six (6) dwelling units) within the 1st through 3rd floors, as per plans; separate permits required for all MEP/FSP work; building to be fully sprinklered as per NFPA 13; see AP#874199 for zoning/use approval; includes underpinning of adjacent properties 120 Cotton Street and 4325 Cresson Street; pedestrian protection as per Section 3306 in the 2018 IBC required at all times during construction."
+        },
+        {
+          "lat": 40.02807857118875,
+          "lng": -75.22419332976922,
+          "address": "165 CARSON ST",
+          "units": 10,
+          "date": "2020-12-09 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A DETACHED STRUCTURE TO BE UTILIZED FOR TWELVE DWELLING UNITS TO INCLUDE MODIFICATION OF THE PREVIOUSLY APPROVED FOUNDATION SYSTEM, POST-INSTALLED CONCRETE ANCHORS, EXTERIOR DECK STRUCTURE, BALCONY STRUCTURE, PRIVATE GARAGE, RATED FLOOR/CEILING ASSEMBLIES, RATED DEMISING WALLS, AND ENGINEERED BRACED WALL CONFIGURATION. (IBC 2009) **SEPARATE PERMITS TO BE REQ'D FOR ELECTRICAL, PLUMBING, AND FIRE SUPPRESSION SYSTEM INSTALLATIONS.**"
+        },
+        {
+          "lat": 40.02780314088939,
+          "lng": -75.22402580974057,
+          "address": "156 CONARROE ST",
+          "units": 10,
+          "date": "2020-12-09 05:00:00+00",
+          "scope": "**AMENDMENT DATED 2/10/2021: Removal of standpipes granted by BBS variance; see MI-2020-000387**\nFor the erection of a four (4) story semi-detached structure (w/decks accessed from rear 2nd floor, and roof decks accessed from rear 4th floor), to be used as Group R-2 (six (6) dwelling units w/accessory parking garage), as per plans; includes mechanical work on sub-permit; separate permits required for all EP/FSP work; sprinklers to be installed throughout as per NFPA 13R (Minimum); see AP#957974 for foundation permit; see AP#928631 for zoning/use permit."
+        },
+        {
+          "lat": 40.02762495137984,
+          "lng": -75.22365612012165,
+          "address": "161 CONARROE ST",
+          "units": 10,
+          "date": "2020-12-09 05:00:00+00",
+          "scope": "For the erection of a four (4) story semi-detached structure (w/decks accessed from rear 2nd floor, and roof decks accessed from rear 4th floor), to be used as Group R-2 (three (3) dwelling units w/accessory parking garage), as per plans; includes mechanical work on sub-permit; separate permits required for all EP/FSP work; sprinklers to be installed throughout as per NFPA 13R (Minimum).\n\n**AMENDMENT DATED 2/19/2021: Removal of standpipes granted by BBS variance; see MI-2020-000388**"
+        }
+      ]
+    },
+    {
+      "station": "Germantown",
+      "district": "8",
+      "lat": 40.0375,
+      "lon": -75.1716667,
+      "permits": 4,
+      "units": 40,
+      "permit_details": [
+        {
+          "lat": 40.03777823092123,
+          "lng": -75.17555651964635,
+          "address": "22 E RITTENHOUSE ST",
+          "units": 10,
+          "date": "2020-10-16 04:00:00+00",
+          "scope": "FOR THE NEW CONSTRUCTION OF A THREE-STORY STRUCTURE WITH PILOTHOUSE AND ROOF DECK, FOR USE AS A SIX-FAMILY DWELLING, AS PER APPROVED PLANS."
+        },
+        {
+          "lat": 40.03440020090175,
+          "lng": -75.17121771959967,
+          "address": "26-34 CHURCH LN",
+          "units": 10,
+          "date": "2025-06-30 04:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A FIVE (5) STORY STRUCTURE FOR USE AS A SHELL COMMERCIAL SPACE (USE REGISTRATION & FIT-OUT PERMITS REQUIRED PRIOR TO OCCUPANCY) AND THIRTY-THREE (33) DWELLING UNITS WITH ACCESSORY PARKING AS PER APPROVED PLANS. BUILDING TO UTILIZE HORIZONTAL SEPARATION TO CREATE TWO (2) SEPARATE BUILDINGS WITH TWO (2) DIFFERENT CONSTRUCTION TYPES (1ST FLOOR - TYPE IA AND 2ND THROUGH 5TH FLOORS - TYPE VA). BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC REVIEW* \n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 11/10/25\nAMEND NEW CONSTRUCTION PERMIT CP-2025-000079 FOR CHANGES TO FLOOR LAYOUTS AND STAIR CONSTRUCTION MATERIALS AND STRUCTURAL REVISIONS AS PER APPROVED PLANS. "
+        },
+        {
+          "lat": 40.03559705133267,
+          "lng": -75.17249288054964,
+          "address": "40 E ARMAT ST",
+          "units": 10,
+          "date": "2021-12-03 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A SEMI-DETACHED STRUCTURE WITH A ROOF DECK (FOR RESIDENTIAL ONLY) AT THE FOURTH STORY LEVEL; TO USE AS ONE (1) VACANT COMMERCIAL SPACE (USE REGISTRATION REQUIRED PRIOR TO OCCUPANCY) AT THE FIRST FLOOR AND MULTI-FAMILY (FORTY-SEVEN (47) DWELLING UNITS) HOUSEHOLD LIVING ABOVE. BUILDING TO BE FULLY SPRINKLERED. SEPARATE PERMITS REQUIRED FOR M.E.P AND FP WORK. SEPARATE APPROVAL REQUIRED FROM PA L&I FOR ELEVATOR INSTALLATION."
+        },
+        {
+          "lat": 40.038444441299184,
+          "lng": -75.17166972975987,
+          "address": "174 E CHELTEN AVE",
+          "units": 10,
+          "date": "2025-12-22 05:00:00+00",
+          "scope": "FOR NEW CONSTRUCTION OF AN DETACHED BUILDING WITH CELLAR, BALCONIES, ROOF DECK AND ROOF-DECK ACCESS STRUCTURE.  BUILDING TO BE FULLY SPRINKLERED WITH NFPA 13.  SEPARATE BUILDING PERMITS REQUIRED FOR EXCAVATION, MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION."
+        }
+      ]
+    },
+    {
+      "station": "Wayne Junction",
+      "district": "8",
+      "lat": 40.0222222,
+      "lon": -75.16,
+      "permits": 3,
+      "units": 30,
+      "permit_details": [
+        {
+          "lat": 40.02389735127646,
+          "lng": -75.15722895026346,
+          "address": "4554 N UBER ST",
+          "units": 10,
+          "date": "2024-06-04 04:00:00+00",
+          "scope": "FOR THE ERECTION OF AN ATTACHED STRUCTURE.  STRUCTURE FOR USE AS THREE (3) DWELLING UNITS. SPRINKLERED THROUGH PER NFPA 13. SEPARATE PERMITS REQUIRED FOR PLUMBING, MECHANICAL, ELECTRICAL AND FIRE SUPPRESSION.  A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED IN ACCORDANCE WITH SECTION 3306 OF THE IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMITS ARE REQUIRED."
+        },
+        {
+          "lat": 40.02563790109748,
+          "lng": -75.15970322042695,
+          "address": "4637 GERMANTOWN AVE",
+          "units": 10,
+          "date": "2022-08-24 04:00:00+00",
+          "scope": "For the erection of a new, three (3) story attached structure, to be used as Group R-2 (Nine (9) Dwelling Units), as per plans; separate permits required for all MEP/FSP work; building to be fully sprinklered throughout in accordance with NFPA 13R; if field conditions vary, contact design engineer prior to the start of any work; covered walkway or sidewalk closure shall be required within eight (8) feet of the building facade in accordance with Section 3306 in the 2018 IBC (separate building and/or Streets Department permit required prior to start of any work); work includes underpinning of adjacent property 4641 GERMANTOWN AVE; see ZP-2020-001826 for zoning/use approval and unity-of-use agreement; see SR-2021-009784 for work within the public right-of-way."
+        },
+        {
+          "lat": 40.021207350835645,
+          "lng": -75.16385988965679,
+          "address": "4529 PULASKI AVE",
+          "units": 10,
+          "date": "2020-08-06 04:00:00+00",
+          "scope": "FOR THE ERECTION OF AN ATTACHED STRUCTURE WITH A ROOF DECK AND PILOT HOUSE.  STRUCTURE FOR USE AS FOURTEEN (14) DWELLING UNITS. SPRINKLERED THROUGH PER NFPA 13. SEPARATE PERMITS REQUIRED FOR PLUMBING, MECHANICAL, ELECTRICAL AND FIRE SUPPRESSION.  A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 10 FEET OF BUILDING FA\u00c7ADE IN ACCORDANCE WITH SECTION 3306 OF THE IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMITS ARE REQUIRED."
+        }
+      ]
+    },
+    {
+      "station": "Upsal",
+      "district": "8",
+      "lat": 40.0425,
+      "lon": -75.19,
+      "permits": 3,
+      "units": 30,
+      "permit_details": [
+        {
+          "lat": 40.04410714105538,
+          "lng": -75.19121707001105,
+          "address": "367 W HORTTER ST",
+          "units": 10,
+          "date": "2021-12-23 05:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A FOUR (4) STORY, TWENTY FOUR (24) DWELLING UNITS AND VACANT COMMERCIAL SPACE (SEPARATE USE & OCCUPANCY REQUIRED PRIOR TO OCCUPANCY) WITH ROOF DECKS AND ROOF DECK ACCESS STRUCTURES AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13. SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK. *2018 IBC REVIEW*\n\nAMENDMENT 8/25/23 TO DOCUMENT FIELD CHANGE TO INCLUDE RETAINING WALL/FOUNDATION CHANGE, CHANGE OF LAYOUT AS PER APPROVED PLANS."
+        },
+        {
+          "lat": 40.044165491342255,
+          "lng": -75.18865056957422,
+          "address": "229 W UPSAL ST",
+          "units": 10,
+          "date": "2021-09-16 04:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A DETACHED, FOUR-STORY, FORTY-EIGHT (48) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE OF TYPE IIIB CONSTRUCTION, WITH FRT WOOD FRAMING AND SHEATHING IN ALL EXTERIOR WALLS. *AMENDED PERMIT REQUIRED TO SUBMIT ENGINEER SEALED, MANUFACTURER'S TRUSS DRAWINGS FOR APPROVAL PRIOR TO INSTALLATION* BUILDING TO BE FULLY SPRINKLERED WITH STANDPIPES IN ACCORDANCE WITH NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+        },
+        {
+          "lat": 40.04220695092497,
+          "lng": -75.18686329040054,
+          "address": "231 W JOHNSON ST",
+          "units": 10,
+          "date": "2020-12-23 05:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A FIVE (5) STORY STRUCTURE TO INCLUDE GROUND FLOOR PARKING GARAGE AND THIRTY-TWO (32) DWELLING UNITS ABOVE AS PER APPROVED PLANS. BUILDING TO UTILIZE HORIZONTAL SEPARATIONS TO CREATE TWO (2) SEPARATE BUILDINGS WITH TWO (2) DIFFERENT CONSTRUCTION TYPES (1ST FLOOR - TYPE IB AND 2ND THROUGH 5TH FLOORS - TYPE VA). BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC REVIEW* \n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 10/29/21\nAMEND NEW CONSTRUCTION PERMIT CP-2020-004774 TO CHANGE SPECIAL INSPECTIONS AGENCY(S) AS PER SUBMITTED DOCUMENTS. "
+        }
+      ]
+    },
+    {
+      "station": "Queen Lane",
+      "district": "8",
+      "lat": 40.0233333,
+      "lon": -75.1780556,
+      "permits": 2,
+      "units": 20,
+      "permit_details": [
+        {
+          "lat": 40.02465970071446,
+          "lng": -75.17677489043136,
+          "address": "447 W QUEEN LN",
+          "units": 10,
+          "date": "2025-05-16 04:00:00+00",
+          "scope": "FOR THE CONSTRUCTION OF A NEW THREE-STORY, THREE (3) FAMILY DWELLING. TO CONTAIN ROOF DECKS, & 6 ACCESSORY PARKING STALLS @ FIRST FLOOR, ACCESSED BY A SHARED DRIVE AISLE. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13R. SEPARATE PERMITS REQUIRED FOR MEP AND FP WORK."
+        },
+        {
+          "lat": 40.025583750561005,
+          "lng": -75.17473243049167,
+          "address": "342 W QUEEN LN",
+          "units": 10,
+          "date": "2021-03-24 04:00:00+00",
+          "scope": "FOR NEW CONSTRUCTION OF A THREE-STORY ATTACHED BUILDING FOR USE AS VACANT COMMERCIAL AT FIRST-FLOOR FRONT AND MULTIFAMILY HOUSEHOLD LIVING (FIVE DWELLING UNITS) AT FIRST-FLOOR REAR THROUGH THIRD-FLOOR.  BUILDING TO BE FULLY SPRINKLERED WITH NFPA 13 THROUGHOUT.  SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION."
+        }
+      ]
+    },
+    {
+      "station": "Angora",
+      "district": "3",
+      "lat": 39.9447222,
+      "lon": -75.2386111,
+      "permits": 1,
+      "units": 10,
+      "permit_details": [
+        {
+          "lat": 39.94271173067274,
+          "lng": -75.23579186025927,
+          "address": "5728 THOMAS AVE",
+          "units": 10,
+          "date": "2022-11-16 05:00:00+00",
+          "scope": "FOR THE ERECTION OF A SEMI-DETACHED FOUR (4) STORY STRUCTURE. STRUCTURE FOR USE AS MULTI-FAMILY HOUSEHOLD LIVING CONTAINING SIX (6) DWELLING UNITS AND THREE (3) ACCESSORY OFF STREET SURFACE PARKING SPACES (ONE (1) VAN ACCESSIBLE SPACE). BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13 AND STANDPIPES TO BE PROVIDED IN THE EXIT STAIRWAYS PER NFPA 14. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A BARRIER SHALL BE REQUIRED WITHIN 10 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT REQUIRED PRIOR TO THE START OF ANY WORK.** SEPARATE PERMIITS TO BE OBTAINED FOR MECHANICAL, ELECTRICAL, PLUMBING, AND FIRE SUPPRESSION WORK."
+        }
+      ]
+    },
+    {
+      "station": "Wissahickon",
+      "district": "4",
+      "lat": 40.0166667,
+      "lon": -75.2102778,
+      "permits": 1,
+      "units": 10,
+      "permit_details": [
+        {
+          "lat": 40.017018191303904,
+          "lng": -75.2103926694035,
+          "address": "5105 ROCHELLE AVE",
+          "units": 10,
+          "date": "2020-03-11 14:49:00+00",
+          "scope": "FOR THE ERECTION OF A FOUR (4) STORY ATTACHED STRUCTURE AS PER APPROVED PLANS. FOR USE AS FOUR (4) DWELLING UNITS AND (1) ONE VACANT COMMERCIAL SPACE (CO/USE PERMIT REQUIRED PRIOR TO OCCUPANCY).. STRUCTURE TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13 MINIMUM. **SEPARATE PERMITS REQUIRED FOR MEP AND FIRE SUPPRESSION WORK.**  **2018 IBC**"
+        }
+      ]
+    },
+    {
+      "station": "Wister",
+      "district": "8",
+      "lat": 40.0361111,
+      "lon": -75.1611111,
+      "permits": 1,
+      "units": 10,
+      "permit_details": [
+        {
+          "lat": 40.03601557087931,
+          "lng": -75.16571422020338,
+          "address": "267 E PENN ST",
+          "units": 10,
+          "date": "2025-07-13 04:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A THREE (3) STORY BUILDING WITH BASEMENT FOR USE AS A FOUR (4) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR EXCAVATION, MEP & FIRE SUPPRESSION WORK**"
+        }
+      ]
+    },
+    {
+      "station": "Tulpehocken",
+      "district": "8",
+      "lat": 40.0352778,
+      "lon": -75.1869444,
+      "permits": 1,
+      "units": 10,
+      "permit_details": [
+        {
+          "lat": 40.03824340102107,
+          "lng": -75.18933453941928,
+          "address": "370 W JOHNSON ST",
+          "units": 10,
+          "date": "2021-02-10 05:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A SIX (6) STORY STRUCTURE TO INCLUDE GROUND FLOOR PARKING GARAGE AND FIFTY (50) DWELLING UNITS ABOVE AS PER APPROVED PLANS. BUILDING TO UTILIZE HORIZONTAL SEPARATIONS TO CREATE TWO (2) SEPARATE BUILDINGS WITH TWO (2) DIFFERENT CONSTRUCTION TYPES (1ST FLOOR - TYPE IB AND 2ND THROUGH 6TH FLOORS - TYPE IIIB). FIRE RETARDANT TREATED STUDS AND SHEATHING REQUIRED FOR TYPE III CONSTRUCTION. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC* \n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n"
+        }
+      ]
+    },
+    {
+      "station": "Ivy Ridge",
+      "district": "4",
+      "lat": 40.0341667,
+      "lon": -75.2355556,
+      "permits": 1,
+      "units": 10,
+      "permit_details": [
+        {
+          "lat": 40.03629826065017,
+          "lng": -75.23542743996913,
+          "address": "5001 UMBRIA ST",
+          "units": 10,
+          "date": "2021-11-30 05:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A SIX (6) STORY STRUCTURE (PAOLI BUILDING) TO INCLUDE ROOF DECK AND PILOT HOUSES FOR USE AS ONE HUNDRED TWENTY-FIVE (125) DWELLING UNITS AND ACCESSORY PARKING AS PER APPROVED PLANS. BUILDING TO UTILIZE HORIZONTAL SEPARATIONS TO CREATE TWO (2) SEPARATE BUILDINGS WITH TWO (2) DIFFERENT CONSTRUCTION TYPES (BASEMENT, 1ST & 2ND FLOORS - TYPE IA AND 3ND THROUGH 6TH FLOORS - TYPE VA). BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 & 13 R AND INCLUDE STANDPIPES PER NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC REVIEW* \n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 1/30/23\nAMEND NEW CONSTRUCTION PERMIT CP-2021-004480 TO CHANGE CONSTRUCTION TYPE OF 2ND THROUGH 6TH FLOORS TO TYPE IIIB AS PER APPROVED PLANS.  ALL EXTERIOR WALLS OF TYPE IIIB CONSTRUCTION MUST BE FRT STUDS AND SHEATHING.\n\nAMENDMENT APPROVED 2/18/23\nAMEND NEW CONSTRUCTION PERMIT CP-2021-004480 TO CHANGE DPRC-SI AND SPECIAL INSPECTIONS AGENCY AS PER APPROVED REVISED SPECIAL INSPECTIONS DOCUMENTS. \n\nAMENDMENT APPROVED 9/30/23\nAMEND NEW CONSTRUCTION PERMIT CP-2021-004480 TO ADD ELECTRICAL ROOM AND RATED FIRE PUMP ROOM IN BASEMENT AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 11/20/23\nAMEND NEW CONSTRUCTION PERMIT CP-2021-004480 TO INCLUDE HORIZONTAL EXIT WITH REQUIRED AREAS OF REFUGE ON FLOORS 2-5 AS PER APPROVED PLANS. "
+        }
+      ]
+    },
+    {
+      "station": "Carpenter",
+      "district": "8",
+      "lat": 40.0511111,
+      "lon": -75.1913889,
+      "permits": 1,
+      "units": 10,
+      "permit_details": [
+        {
+          "lat": 40.05294227132064,
+          "lng": -75.19511401045908,
+          "address": "360 W MOUNT PLEASANT AVE",
+          "units": 10,
+          "date": "2021-12-07 05:00:00+00",
+          "scope": "New construction mixed-use development comprised of a non-combustible ground structure of type IA construction with a four story of wood framed type VA structure on top and separated by three hour fired rated assemble. The ground floor structure is one story of commercial retail space at street level and one story of parking below. There are 34 total residential units and 29 total parking spaces proposed. All work as per plans. "
+        }
+      ]
+    },
+    {
+      "station": "Allen Lane",
+      "district": "8",
+      "lat": 40.0575,
+      "lon": -75.1947222,
+      "permits": 1,
+      "units": 10,
+      "permit_details": [
+        {
+          "lat": 40.060259970859434,
+          "lng": -75.19230352973081,
+          "address": "20 W ALLENS LN",
+          "units": 10,
+          "date": "2023-03-06 05:00:00+00",
+          "scope": "NEW CONSTRUCTION OF A FOUR (4) STORY BUILDING WITH GREEN ROOF AND ROOF ACCESS STRUCTURE FOR USE AS SEVENTY-SIX (76) DWELLING UNITS WITH ACCESSORY PARKING GARAGE AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. BUILDING TO UTILIZE GREEN ROOF AND MIXED INCOME HOUSING BONUS (AFFORDABLE UNITS PROVIDED). FIRE WATCH REQUIRED PER DEPARTMENT CODE BULLETIN F-2001. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 5/4/23\nAMEND NEW CONSTRUCTION PERMIT C-2022-006090 FOR CHANGES TO UNIT LAYOUTS AND OPENING LOCATIONS AS PER APPROVED PLANS. "
+        }
+      ]
+    },
+    {
+      "station": "Market East",
+      "district": "1",
+      "lat": 39.9525,
+      "lon": -75.1580556,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "University City",
+      "district": "3",
+      "lat": 39.9480556,
+      "lon": -75.1902778,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Allegheny",
+      "district": "8",
+      "lat": 40.0036111,
+      "lon": -75.1647222,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Wynnefield Avenue",
+      "district": "4",
+      "lat": 39.99,
+      "lon": -75.2255556,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Eastwick",
+      "district": "2",
+      "lat": 39.8927778,
+      "lon": -75.2438889,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Olney",
+      "district": "9",
+      "lat": 40.0333333,
+      "lon": -75.1227778,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Fern Rock T C",
+      "district": "9",
+      "lat": 40.0405556,
+      "lon": -75.1347222,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Airport Terminal E F",
+      "district": "2",
+      "lat": 39.8794444,
+      "lon": -75.2397222,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Bridesburg",
+      "district": "6",
+      "lat": 40.0105556,
+      "lon": -75.0697222,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Airport Terminal C D",
+      "district": "2",
+      "lat": 39.8780556,
+      "lon": -75.24,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Airport Terminal B",
+      "district": "2",
+      "lat": 39.8772222,
+      "lon": -75.2413889,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Airport Terminal A",
+      "district": "2",
+      "lat": 39.8761111,
+      "lon": -75.2452778,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Washington Lane",
+      "district": "8",
+      "lat": 40.0508333,
+      "lon": -75.1713889,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    },
+    {
+      "station": "Stenton",
+      "district": "8",
+      "lat": 40.0605556,
+      "lon": -75.1786111,
+      "permits": 0,
+      "units": 0,
+      "permit_details": []
+    }
+  ],
+  "by_district": {
+    "3": [
+      {
+        "station": "30th Street Station",
+        "district": "3",
+        "lat": 39.9566667,
+        "lon": -75.1816667,
+        "permits": 4,
+        "units": 356,
+        "permit_details": [
+          {
+            "lat": 39.95664357081217,
+            "lng": -75.17791189984695,
+            "address": "60 N 23RD ST",
+            "units": 10,
+            "date": "2021-01-14 05:00:00+00",
+            "scope": "FOR INITIAL FIT-OUT OF PREVIOUSLY APPROVED CORE & SHELL STRUCTURE TO CREATE MIXED-USE MULTI-FAMILY & RETAIL HIGH-RISE BUILDING WITH ASSEMBLY AMENITY SPACES PER APPROVED PLANS INCLUDING APPROVAL OF FIRE SERVICE ACCESS ELEVATOR ARRANAGEMENT, MODIFICATION OF UTILITY SPACES PER UTILITY PROVIDER APPROVAL & INSTALLATION OF ELEVATOR SHAFT FOR RETAIL SPACE USE; BUILDING TO BE FULLY SPRINKLERED.  PA DEPT. OF LABOR & INDUSTRY (PA L&I) APPROVAL REQ'D PRIOR TO OPERATION OF ANY ELEVATOR OR LIFTING DEVICES.  THIS PERMIT TO LEGALIZE ELEVATOR SHAFT CONSTRUCTION CITED UNDER CASE FILE# CF-2020-061986.  SEE COMMERCIAL BUILDING PERMIT# 945405 FOR CORE & SHELL AND FLOODPROOFING APPROVALS.\n\nPERMIT AMENDMENT APPROVED 12/2/2021 FOR REDUCTION OF PLUMBING FIXTURE COUNT AT LEVEL 3 & 4 AMENITY SPACES PER PAB VARIANCE MI-2021-004251 & MINOR REVISION OF DWELLING UNIT LAYOUT CHANGES PER APPROVED PLANS."
+          },
+          {
+            "lat": 39.95596594135906,
+            "lng": -75.17806493964875,
+            "address": "30 N 23RD ST",
+            "units": 10,
+            "date": "2021-03-08 05:00:00+00",
+            "scope": "Issuance of Certificate of Occupancy (CO) for previously approved interior fit-out, approved under Permit# 959065,  as part of Agreement between PMC Property Group (Owner) and Dept. of Licenses and Inspection (L&I), where Owner agreed that previously issued permits for construction at the site does not allow occupancy and all applicable provisions of the Philadelphia Code must be met before issuance of CO including approval of Exit Discharge design and flood emergency operation plan.  No construction permitted under this Application, all construction work performed under Permit# 959065."
+          },
+          {
+            "lat": 39.95647084089865,
+            "lng": -75.18533840013905,
+            "address": "3025 JOHN F KENNEDY BLVD",
+            "units": 326,
+            "date": "2020-12-17 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A 28-STORY STRUCTURE FOR USE AS VACANT COMMERCIAL, BUSINESS AND PROFESSIONAL OFFICES, AND MULTI-FAMILY HOUSEHOLD LIVING (326 RESIDENTIAL UNITS) AND UNDERGROUND PARKING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13. SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION WORK. **IBC 2018**"
+          },
+          {
+            "lat": 39.955499300979,
+            "lng": -75.17837297041929,
+            "address": "2301 JOHN F KENNEDY BLVD",
+            "units": 10,
+            "date": "2021-11-20 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A SEMI-DETACHED STRUCTURE. WITH ACCESSORY BALCONIES, ACCESSORY ROOF DECK STRUCTURES, AND ACCESSORY ROOF DECK (FOR RESIENTIAL USE ONLY) ACCESSORY RESIDENTIAL TERRACE AT THIRD FLOOR, AND BELOW-GRADE ACCESSORY PARKING. FOR USE  BUSINESS AND PROFESSIONAL OFFICE AND  RETAIL AND VACANT COMMERCIAL SPACES (USE AS PERMITTED WITHIN THE CMX-5 ZONING DISTRICT, REGISTRATION PERMIT REQUIRED PRIOR TO OCCUPANCY) ON 1ST- 2ND FLOOR AND MULTI-FAMILY HOUSEHOLD LIVING TWO HUNDRED AND EIGHTY-SEVEN (287) DWELLING UNITS), BELOW-GRADE ACCESSORY PARKING WITH FORTY-FOUR (44) ON-SITE PARKING SPACES - TWO (2) ADA  ACCESSIBLE (INCLUDING ONE VAN ACCESSIBLE), THREE (3) ELECTRIC VEHICLE SPACES, NINE (9) AUTO-SHARE SPACES, AND NINETY-SIX (96) CLASS 1A BICYCLE SPACES, AND TWO (2) LOADING SPACES, AND THREE (3) RESERVOR SPACES Building to be fully sprinklered. Separate permits required for M.E.P.S Work. Separate use and fit-out permits required for the commercial vacant office spaces. Separate approval required from PA L&I for elevator installation.\n\nAmendment to change DPRC-SI for special inspections and add SOE plans.\nAMENDMENT TO INCREASE THE TOTAL THREE HUNDRED AND THIRTEEN (313) DWELLING UNITS) WITH UPDATED FLOOR LAYOUT AND STRUCTURAL PLANS."
+          }
+        ]
+      },
+      {
+        "station": "49th Street",
+        "district": "3",
+        "lat": 39.9436111,
+        "lon": -75.2166667,
+        "permits": 10,
+        "units": 167,
+        "permit_details": [
+          {
+            "lat": 39.94587125079416,
+            "lng": -75.21331865970973,
+            "address": "1103 S 47TH ST",
+            "units": 15,
+            "date": "2021-07-07 04:00:00+00",
+            "scope": "FOR THE ERECTION OF AN ATTACHED FOUR STORY STRUCTURE WITH ROOF ACCESS STRUCTURES FOR ACCESS TO ROOF DECK WITH THREE BALCONIES ON THE FRONT FACADE.  STRUCTURE FOR USE AS VACANT COMMERCIAL AT GROUND FLOOR (USE REGISTRATION REQUIRED PRIOR TO OCCUPANY) WITH MULTI-FAMILY HOUSEHOLD LIVING THROUGHOUT (15 DWELLING UNITS (10 BY RIGHT AND 5 USING THE MIXED INCOME BONUS)).  BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13 AND STANDPIPES TO BE PROVIDED IN THE EXIT STAIRWAYS PER NFPA 14. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 13 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT  REQUIRED PRIOR TO THE START OF ANY WORK.*** FIRE WATCH IS REQUIRED ONCE COMBUSTIBLE CONSTRUCTION IS OVER 40 FEET IN HEIGHT, A SITE SAFETY PLAN SHALL BE SUBMITED TO BUILDING INSPECTOR PRIOR TO THE START OF ANY CONSTRUCTION.*** SEPARATE PERMIITS TO BE OBTAINED FOR ALL OTHER WORK."
+          },
+          {
+            "lat": 39.943915660716755,
+            "lng": -75.22041425957673,
+            "address": "1047 S 51ST ST",
+            "units": 10,
+            "date": "2020-12-04 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A NEW FOUR STORY STRUCTURE WITH A ROOF DECK AND PILOT HOUSE.  STRUCTURE FOR USE AS EIGHT (8) DWELLING UNITS. SPRINKLERED THROUGH PER NFPA 13R. SEPARATE PERMITS REQUIRED FOR PLUMBING, MECHANICAL, ELECTRICAL AND FIRE SUPPRESSION.  A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 10 FEET OF BUILDING FA\u00c7ADE IN ACCORDANCE WITH SECTION 3306 OF THE IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMITS ARE REQUIRED.\n\n4/18/2022 AMENDMENT: AMEND ORIGINAL PERMIT FOR THE AMENDMENT TO THE NORTHERN PARTY WALL AND INTERIOR LAYOUT AS PER APPROVED PLAN. \n\n4/29/2024 AMENDMENT: AMEND PREVIOUS PERMIT FOR THE INSTALLATION OF SHAFT ENCLOSURE IN ORDER FOR THE STANDPIPE, AND MINOR CHANGES TO THE FRAMING ON THE SENCOND FLOOR. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. SEPARATE PERMITS TO BE OBTAINED FOR ALL OTHER WORK.\n\n8/30/2024 AMENDMENT: TO INCLUDE THE SHAFT ENCLOSURE FOR THE 2ND STANDPIPE."
+          },
+          {
+            "lat": 39.94406177112644,
+            "lng": -75.21615382952974,
+            "address": "4820 CHESTER AVE",
+            "units": 12,
+            "date": "2024-03-30 04:00:00+00",
+            "scope": "FOR THE CONSTRUCTURE OF AN ATTACHED STRUCTURE WITH ROOF DECK ACCESSED BY A ROOF DECK ACCESS STRUCTURE. FOR USE AS A \nMULTI-FAMILY (12 UNITS) HOUSEHOLD LIVING. AS PER APPROVED PLANS. \n********************SEPARATE PERMITS REQUIRED FOR ALL OTHER WORK. *********************\nAMENDMENT: PERMIT WAS AMENDED FOR THE UNDERPINNING REQUIRED AT REAR SECTION OF BUILDING. AS PER APPROVED PLANS."
+          },
+          {
+            "lat": 39.944955771238355,
+            "lng": -75.21378952954423,
+            "address": "4701-15 KINGSESSING AVE",
+            "units": 76,
+            "date": "2021-12-20 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A FOUR STORY DETACHED STRUCTURE FOR USE AS A MULTI-FAMILY HOUSEHOLD LIVING ( 76 DWELLING UNITS). STRUCTURE TO INCLUDE THE FOLLOWING: FIFTY-FIVE (55) ACCESSORY PARKING SPACES, TWO (2) ADA VAN ACCESSIBLE PARKING SPACES AND ONE (1) AUTO-SHARE PARKING SPACE ON THE SAME LOT WITH EXISTING TWENTY-ONE (21) PARKING SPACES AND TWO (2) ADA VAN ACCESSIBLE PARKING SPACES AND, TO INCLUDE TWENTY-SIX (26) ACCESSORY CLASS 1A BICYCLE PARKING SPACES AND TEN (10) BICYCLE SPACES. BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13 AND STANDPIPES TO BE PROVIDED IN THE EXIT STAIRWAYS PER NFPA 14. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 11 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT  REQUIRED PRIOR TO THE START OF ANY WORK.***AMENDED PERMIT TO BE OBTAINED FOR UNDER PINNING WORK.*** FIRE WATCH IS REQUIRED ONCE COMBUSTIBLE CONSTRUCTION IS OVER 40 FEET IN HEIGHT, A SITE SAFETY PLAN SHALL BE SUBMITED TO BUILDING INSPECTOR PRIOR TO THE START OF ANY CONSTRUCTION.*** SEPARATE PERMIITS TO BE OBTAINED FOR ALL OTHER WORK."
+          },
+          {
+            "lat": 39.94119655117918,
+            "lng": -75.22017096951532,
+            "address": "5200 CHESTER AVE",
+            "units": 10,
+            "date": "2021-09-01 04:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A FOUR (4) STORY, FORTY-FIVE (45) FAMILY DWELLING WITH COMMON ROOF DECKS & PILOT HOUSES AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+          }
+        ]
+      },
+      {
+        "station": "Angora",
+        "district": "3",
+        "lat": 39.9447222,
+        "lon": -75.2386111,
+        "permits": 1,
+        "units": 10,
+        "permit_details": [
+          {
+            "lat": 39.94271173067274,
+            "lng": -75.23579186025927,
+            "address": "5728 THOMAS AVE",
+            "units": 10,
+            "date": "2022-11-16 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A SEMI-DETACHED FOUR (4) STORY STRUCTURE. STRUCTURE FOR USE AS MULTI-FAMILY HOUSEHOLD LIVING CONTAINING SIX (6) DWELLING UNITS AND THREE (3) ACCESSORY OFF STREET SURFACE PARKING SPACES (ONE (1) VAN ACCESSIBLE SPACE). BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13 AND STANDPIPES TO BE PROVIDED IN THE EXIT STAIRWAYS PER NFPA 14. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A BARRIER SHALL BE REQUIRED WITHIN 10 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT REQUIRED PRIOR TO THE START OF ANY WORK.** SEPARATE PERMIITS TO BE OBTAINED FOR MECHANICAL, ELECTRICAL, PLUMBING, AND FIRE SUPPRESSION WORK."
+          }
+        ]
+      },
+      {
+        "station": "University City",
+        "district": "3",
+        "lat": 39.9480556,
+        "lon": -75.1902778,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      }
+    ],
+    "5": [
+      {
+        "station": "Temple University",
+        "district": "5",
+        "lat": 39.9813889,
+        "lon": -75.1494444,
+        "permits": 33,
+        "units": 322,
+        "permit_details": [
+          {
+            "lat": 39.98058245080207,
+            "lng": -75.14600450984759,
+            "address": "1909 N 7TH ST",
+            "units": 10,
+            "date": "2020-04-21 04:00:00+00",
+            "scope": "FOR THE ERECTION OF A NEW THREE (3) STORY ATTACHED STRUCTURE (W/ROOF DECK ACCESSED BY PILOT HOUSE ENCLOSING ACCESS STAIRS ONLY), TO BE USED AS GROUP R-2 (FOUR (4) DWELLING UNITS) THROUGHOUT, AS PER PLANS; SEPARATE PERMITS REQUIRED FOR ALL MEP/FSP WORK; BUILDING TO BE FULLY SPRINKLERED AS PER NFPA 13R MINIMUM OR BETTER; SEE AP#1016742 FOR ZONING/USE PERMIT."
+          },
+          {
+            "lat": 39.984681850598356,
+            "lng": -75.1475057194717,
+            "address": "2156 N DARIEN ST",
+            "units": 10,
+            "date": "2021-08-12 04:00:00+00",
+            "scope": "FOR THE ERECTION OF AN ATTACHED THREE (3) STORY STRUCTURE WITH A CELLAR AND A ROOF DECK WITH A ROOF ACCESS STRUCTURE AS PER PLANS. FOR THREE (3) DWELLING UNITS WITH LAYOUT AS SHOWN. "
+          },
+          {
+            "lat": 39.98349295094307,
+            "lng": -75.14594188057119,
+            "address": "2104 N 7TH ST",
+            "units": 10,
+            "date": "2024-02-13 05:00:00+00",
+            "scope": "FOR NEW CONSTRUCTION OF AN ATTACHED BUILDING WITH CELLAR, BALCONY, ROOF DECK AND ROOF-DECK ACCESS STRUCTURE.  BUILDING TO BE FULLY SPRINKLERED WITH NFPA 13R.  SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION.  "
+          },
+          {
+            "lat": 39.980769870774736,
+            "lng": -75.14488778039127,
+            "address": "1926 N 6TH ST",
+            "units": 10,
+            "date": "2020-07-01 04:00:00+00",
+            "scope": "FOR THE NEW CONSTRUCTION OF A THREE-STORY STRUCTURE WITH PILOTHOUSE ACCESSING A ROOF DECK, FOR USE AS A THREE (3) FAMILY DWELLING, AS PER APPRVED PLANS."
+          },
+          {
+            "lat": 39.9808558207793,
+            "lng": -75.14487113971738,
+            "address": "1930 N 6TH ST",
+            "units": 3,
+            "date": "2020-09-29 04:00:00+00",
+            "scope": "For the erection of a three (3) story structure with roof deck, roof deck access structure, and rear decks; for use as three family dwelling. Building to be fully sprinklered per NFPA 13R. Separate permit required for any MEP and fire suppression work."
+          }
+        ]
+      },
+      {
+        "station": "Suburban Station",
+        "district": "5",
+        "lat": 39.9538889,
+        "lon": -75.1677778,
+        "permits": 3,
+        "units": 293,
+        "permit_details": [
+          {
+            "lat": 39.95040728099492,
+            "lng": -75.16801776002367,
+            "address": "1608-34 SANSOM ST",
+            "units": 10,
+            "date": "2021-06-14 04:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A 28 STORY HIGH-RISE STRUCTURE FOR USE AS THREE HUNDRED SIX (306) DWELLING UNITS WITH ACCESSORY AMENITY SPACES AND ACCESSORY PARKING GARAGE WITH SHELL COMMERCIAL SPACES (USE REGISTRATION & FIT-OUT PERMITS REQUIRED PRIOR TO OCCUPANCY) AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. WORK TO INCLUDE SHEETING & SHORING AND UNDERPINNING TO BE MONITORED AT ALL TIMES BY PA LICENSED PE. *2018 IBC*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 12/14/21\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 FOR CHANGES TO BUILDING TO INCLUDE CHANGES TO PARKING LAYOUT AND BELOW GRADE CONSTRUCTION AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 2/2/22\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 FOR CHANGES TO ABOVE GROUND BUILDNG LAYOUTS AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 8/3/23\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 FOR CHANGES TO BUILDING LAYOUT TO INCLUDE INCREASE TO TWO-HUNDRED FIFTY-FIVE (255) DWELLING UNITS AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 1/29/24\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 FOR CHANGES TO BUILDING LAYOUT TO INCLUDE CREATION OF FITNESS CENTER ON LEVEL 2 AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 6/14/24\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 TO CHANGE DPRC-SI AND SPECIAL INSPECTIONS AGENCIES ASSIGNED AS PER REVISED DOCUMENTS. \n\nAMENDMENT APPROVED 10/12/24\nAMEND NEW CONSTRUCTION PERMIT NO. CP-2020-004463 TO RELOCATE AMENITY FITNESS CENTER TO 3RD FLOOR AND ASSOCIATED FLOOR LAYOUT CHANGES AS PER APPROVED PLANS.  "
+          },
+          {
+            "lat": 39.95248942099395,
+            "lng": -75.17070676022315,
+            "address": "1813 RANSTEAD ST",
+            "units": 10,
+            "date": "2024-12-06 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A TWELVE (12) STORY HIGH-RISE STRUCTURE OF TYPE I-B CONSTRUCTION WITH BASEMENT AND ROOF DECKS FOR USE AS EIGHTY-FOUR (84) DWELLING UNITS (GROUP R-2). ALL WORK TO BE DONE PER APPROVED PLANS AND IN ACCORDANCE WITH 2018 IBC. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND STANDPIPES TO BE INSTALLED IN INTERIOR EXIT STAIRWAY ENCLOSURES IN ACCORDANCE WITH NFPA 14. SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING, FIRE SUPPRESSION, AND EXCAVATION WORK.\n\n[AMENDMENT 4/22/2025 FOR REDUCTION IN OCCUPIED AREA AND G.F.A. AND FOR INCREASE IN FIRE SEPARATION DISTANCE AND EXTERIOR WALL OPENINGS AT SOUTHERN WALL AS PER APPROVED AMENDED PLANS. SEE ZP-2023-000418 AMENDMENT FOR ZONING APPROVAL OF CHANGES TO STRUCTURE BULKING AND MASSING.]"
+          },
+          {
+            "lat": 39.95715824052864,
+            "lng": -75.16785246965746,
+            "address": "1701L RACE ST",
+            "units": 273,
+            "date": "2020-11-06 05:00:00+00",
+            "scope": "FOR THE ERECTION OF ONE DETACHED STRUCTURE WITH BALCONIES AND AMENITIES.  STRUCTURE FOR USE AS VACANT COMMERCIAL SPACE ON GROUND FLOOR (USE REGISTRATION PERMIT REQUIRED PRIOR TO OCCUPANCY) WITH MULTI-FAMILY HOUSEHOLD LIVING (273 DWELLING UNITS) FROM SECOND FLOOR THROUGH 23RD FLOORS. SPRINKLERED THROUGH PER NFPA 13. SEPARATE PERMITS REQUIRED FOR PLUMBING, MECHANICAL, ELECTRICAL AND FIRE SUPPRESSION.  A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 10 FEET OF BUILDING FA\u00c7ADE IN ACCORDANCE WITH SECTION 3306 OF THE IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMITS ARE REQUIRED.\n\n3/29/2022 AMENDMENT: AMEND ORIGINAL PERMIT FOR THE MODIFICATION OF GROUND FLOOR COMMERCIAL SPACE AND 21ST - 22ND FLOOR (COMBINED UNIT 2101 AND UNIT 2103 TO UNIT 2114, COMBINED UNIT 2201 AND UNIT 2202 TO UNIT 2214) AS PER APPROVED PLAN AND ZP-2021-015718."
+          }
+        ]
+      },
+      {
+        "station": "North Broad",
+        "district": "5",
+        "lat": 39.9922222,
+        "lon": -75.1538889,
+        "permits": 10,
+        "units": 79,
+        "permit_details": [
+          {
+            "lat": 39.99378144054489,
+            "lng": -75.15165159035772,
+            "address": "1223 W LEHIGH AVE",
+            "units": 10,
+            "date": "2023-01-12 05:00:00+00",
+            "scope": "FOR THE ERECTION OF AN ATTACHED THREE STORY STRUCTURE WITH ROOF ACCESS STRUCTURE FOR ACCESS TO ROOF DECK.  STRUCTURE FOR USE AS MULTI-FAMILY HOUSEHOLD LIVING THREE (3) DWELLING UNITS.  BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN NINE (9) FEET (1/4TH OF HEIGHT OF BUILDING) OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT REQUIRED PRIOR TO THE START OF ANY WORK.** SEPARATE PERMIITS TO BE OBTAINED FOR ALL OTHER WORK.\n\n** A NEW DEED MUST BE RECORDED, AND INCLUDE ACCESS TO THE COMMON REAR ALLEY AS SHOWN ON THE APPROVED ZONING PERMIT PLANS \n"
+          },
+          {
+            "lat": 39.99377504112099,
+            "lng": -75.15159775966973,
+            "address": "1221 W LEHIGH AVE",
+            "units": 10,
+            "date": "2023-01-12 05:00:00+00",
+            "scope": "FOR THE ERECTION OF AN ATTACHED THREE (3) STORY STRUCTURE WITH ROOF DECK AND ROOF ACCESS STRUCTURE. FOR USE AS MULTI-FAMILY HOUSEHOLD LIVING CONTAINING THREE (3) DWELLING UNITS. BUILDING IS FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD CONDITIONS VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN NINE (9) FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT REQUIRED PRIOR TO THE START OF ANY WORK.** SEPARATE PERMIITS TO BE OBTAINED FOR ALL OTHER WORK.\n\n** A NEW DEED MUST BE RECORDED, AND INCLUDE ACCESS TO THE COMMON REAR ALLEY AS SHOWN ON THE APPROVED ZONING PERMIT PLANS **"
+          },
+          {
+            "lat": 39.988933531207465,
+            "lng": -75.15458330034346,
+            "address": "2348 N PARK AVE",
+            "units": 10,
+            "date": "2024-06-26 04:00:00+00",
+            "scope": "For the erection of an attached structure that includes a full basement with egress, and a roof deck with a pilot house. For four dwelling units. Building is fully sprinklered. Separate permits required for MEP and FP work."
+          },
+          {
+            "lat": 39.99243824090741,
+            "lng": -75.14963249994877,
+            "address": "2630 N 11TH ST",
+            "units": 10,
+            "date": "2021-10-18 04:00:00+00",
+            "scope": "For the erection of a new three (3) story attached structure (w/roof deck and pilot house enclosing access stairs only), to be used as Group R-2 (Three (3) Dwelling Units), as per plans; separate permits required for MEP/FSP work; building to be fully sprinklered as per NFPA 13R throughout; Covered walkway or sidewalk closure required "
+          },
+          {
+            "lat": 39.993976810711025,
+            "lng": -75.15155687951427,
+            "address": "1222 W SILVER ST",
+            "units": 10,
+            "date": "2023-01-12 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A THREE (3) STORY ATTACHED STRUCTURE OF TYPE V-B CONSTRUCTION WITH BASEMENT, ROOF DECK, AND ROOF DECK ACCESS STRUCTURE FOR USE AS A THREE (3) FAMILY DWELLING (GROUP R-2). BUILDING TO BE FULLY SPRINKLERED WITH A MINIMUM OF A NFPA 13R AUTOMATIC SPRINKLER SYSTEM. ALL WORK TO BE DONE PER APPROVED PLANS AND IN ACCORDANCE WITH 2018 IBC. SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING, AND FIRE SUPPRESSION WORK. IF SITE CONDITIONS VARY, CONTACT DESIGN ENGINEER PRIOR TO START OF WORK. **PRIOR TO ISSUANCE OF C.O., A NEW DEED MUST BE RECORDED AND INCLUDE THE NEW SHARED ALLEY EASEMENT AS SHOWN ON THE APPROVED ZONING PERMIT PLANS FOR ZP-2022-006749.**"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "station": "Overbrook",
+        "district": "4",
+        "lat": 39.9894444,
+        "lon": -75.2494444,
+        "permits": 1,
+        "units": 111,
+        "permit_details": [
+          {
+            "lat": 39.98807895070873,
+            "lng": -75.24918264055898,
+            "address": "2079 N 63RD ST",
+            "units": 111,
+            "date": "2020-05-11 04:00:00+00",
+            "scope": "FOR THE CONSTRUCTION OF ASEMI-ATTACHED, FIVE-STORY STRUCTURE OF TYPE IIIB CONSTRUCTION WITH 111 DWELLING UNITS AND ACCESSORY PARKING AS  PER PLANS. SEPARATE PERMITS REQUIRED FOR ALL MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION WORK. PHC TO REVIEW METAL RAILING SHOP DRAWINGS FOR RAILING ALONG 63RD ST.\n\nAMENDMENT (1/7/2021) UPDATE SPECIAL INSPECTION INFORMATION."
+          }
+        ]
+      },
+      {
+        "station": "East Falls",
+        "district": "4",
+        "lat": 40.0113889,
+        "lon": -75.1919444,
+        "permits": 2,
+        "units": 46,
+        "permit_details": [
+          {
+            "lat": 40.01393813068937,
+            "lng": -75.19246399948553,
+            "address": "3503 MIDVALE AVE",
+            "units": 10,
+            "date": "2021-05-10 04:00:00+00",
+            "scope": "FOR THE ERECTION OF A SEMI-DETACHED STRUCTURE FOR USE AS VACANT COMMERCIAL SPACES AS PERMITTED IN THE DISTRICT-NOT REQUIRING PARKING) ON THE FIRST FLOOR FRONT MINIMUM 30 FEET (SEPARATE USE AND FIT-OUT REQUIRED PRIOR TO OCCUPANCY), FOR THIRTY THREE(33) DWELLING UNITS WITH FIFTEEN(15) CLASS 1 A PARKING SPACES ON AN ACCESSIABLE ROUTE. BUILDING TO BE FULLY SPRINKLERED. HORIZONTAL EXIT TO BE PROVIDED AS PER APPROVED PLANS. SEPARATE PERMITS REQUIRED FOR MEPS WORK. SEPARATE APPROVAL REQUIRED FROM PA L&I FOR ELEVATOR INSTALLATION."
+          },
+          {
+            "lat": 40.013285781077116,
+            "lng": -75.1927273994606,
+            "address": "3515 MIDVALE AVE",
+            "units": 36,
+            "date": "2020-12-07 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A DETACHED BUILDING WITH A ROOF DECK AND THREE ROOF DECK ACCESS STRUCTURES. FOR THE USE AS THREE (3) VACANT NON-RESIDENTIAL SPACES AT THE GROUND FLOOR (USE REGISTRATION PERMIT REQUIRED PRIOR TO OCCUPANCY) AND MULTI-FAMILY HOUSEHOLD LIVING (36 UNITS) AND TO INCLUDE TWELVE (12) ACCESSORY BICYCLE PARKING SPACES. BUILDING TO BE FULLY SPRINKLERED. SEPARATE PERMITS REQUIRED FOR M.E.P.S WORK. SEPARATE APPROVAL REQUIRED FORM PA L&I FOR THE ELEVATOR INSTALLATION. A Site Safety Plan need to be devised submitted to the area building inspector prior to beginning construction.\nAmendments include relocation of the PECO vault and elimination of the sunken rear patio, as well as the associated revisions to the structural foundation details, egress paths, adjacent plan layouts, and window and door openings.\nAmendments include revised window openings at the upper residential floors, revisions to the exterior building assembly and facade materials, revised fire protection of steel members from GWB enclosures to spray applied fire resistive materials, revised structural floor framing details, elimination of fourth floor storage and associated revisions to adjacent residential units, elimination of roof deck pedestal pavers, coordination of the door schedule and coordination with building system elements as per approved revised plans."
+          }
+        ]
+      },
+      {
+        "station": "Manayunk",
+        "district": "4",
+        "lat": 40.0269444,
+        "lon": -75.225,
+        "permits": 5,
+        "units": 44,
+        "permit_details": [
+          {
+            "lat": 40.02505551094946,
+            "lng": -75.2231221197993,
+            "address": "4328 MAIN ST",
+            "units": 4,
+            "date": "2021-01-15 05:00:00+00",
+            "scope": "FOR THE ERECTION OF AN ATTACHED BUILDING WITH ROOF DECK AND ROOF DECK ACCESS STRUCTURE AS PER APPROVED PLANS. FOR VACANT COMMERCIAL SPACE ON THE GROUND FLOOR (SEPARATE FIT-OUT AND USE REGISTRATION PERMIT REUQIRED PRIOR TO OCCUPANCY) AND MULTIFAMILY HOUSEHOLD LIVING (4 DWELLING UNITS) IN SAME BUILDING. BUILDING TO BE FULLY SPRINKLERED. SEPARATE PERMITS REQUIRED FOR M.E.P.S WORK."
+          },
+          {
+            "lat": 40.02591766072004,
+            "lng": -75.22216856048502,
+            "address": "114 COTTON ST",
+            "units": 10,
+            "date": "2020-06-27 04:00:00+00",
+            "scope": "**Amendment dated 8/9/2022 to remove underpinning and spray-applied fire resistant materials & intumescent paint special inspections as per revised Statement of Special Inspections schedule and as per revised plans removing them from the scope of work**\nFor the erection of a new three (3) story attached structure to be used as vacant commercial space within the basement (separate use registration permit and fit-out/CO permit required prior to occupancy), with Group S-2 parking garage at the 1st floor, and Group R-2 (six (6) dwelling units) within the 1st through 3rd floors, as per plans; separate permits required for all MEP/FSP work; building to be fully sprinklered as per NFPA 13; see AP#874199 for zoning/use approval; includes underpinning of adjacent properties 120 Cotton Street and 4325 Cresson Street; pedestrian protection as per Section 3306 in the 2018 IBC required at all times during construction."
+          },
+          {
+            "lat": 40.02807857118875,
+            "lng": -75.22419332976922,
+            "address": "165 CARSON ST",
+            "units": 10,
+            "date": "2020-12-09 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A DETACHED STRUCTURE TO BE UTILIZED FOR TWELVE DWELLING UNITS TO INCLUDE MODIFICATION OF THE PREVIOUSLY APPROVED FOUNDATION SYSTEM, POST-INSTALLED CONCRETE ANCHORS, EXTERIOR DECK STRUCTURE, BALCONY STRUCTURE, PRIVATE GARAGE, RATED FLOOR/CEILING ASSEMBLIES, RATED DEMISING WALLS, AND ENGINEERED BRACED WALL CONFIGURATION. (IBC 2009) **SEPARATE PERMITS TO BE REQ'D FOR ELECTRICAL, PLUMBING, AND FIRE SUPPRESSION SYSTEM INSTALLATIONS.**"
+          },
+          {
+            "lat": 40.02780314088939,
+            "lng": -75.22402580974057,
+            "address": "156 CONARROE ST",
+            "units": 10,
+            "date": "2020-12-09 05:00:00+00",
+            "scope": "**AMENDMENT DATED 2/10/2021: Removal of standpipes granted by BBS variance; see MI-2020-000387**\nFor the erection of a four (4) story semi-detached structure (w/decks accessed from rear 2nd floor, and roof decks accessed from rear 4th floor), to be used as Group R-2 (six (6) dwelling units w/accessory parking garage), as per plans; includes mechanical work on sub-permit; separate permits required for all EP/FSP work; sprinklers to be installed throughout as per NFPA 13R (Minimum); see AP#957974 for foundation permit; see AP#928631 for zoning/use permit."
+          },
+          {
+            "lat": 40.02762495137984,
+            "lng": -75.22365612012165,
+            "address": "161 CONARROE ST",
+            "units": 10,
+            "date": "2020-12-09 05:00:00+00",
+            "scope": "For the erection of a four (4) story semi-detached structure (w/decks accessed from rear 2nd floor, and roof decks accessed from rear 4th floor), to be used as Group R-2 (three (3) dwelling units w/accessory parking garage), as per plans; includes mechanical work on sub-permit; separate permits required for all EP/FSP work; sprinklers to be installed throughout as per NFPA 13R (Minimum).\n\n**AMENDMENT DATED 2/19/2021: Removal of standpipes granted by BBS variance; see MI-2020-000388**"
+          }
+        ]
+      },
+      {
+        "station": "Wissahickon",
+        "district": "4",
+        "lat": 40.0166667,
+        "lon": -75.2102778,
+        "permits": 1,
+        "units": 10,
+        "permit_details": [
+          {
+            "lat": 40.017018191303904,
+            "lng": -75.2103926694035,
+            "address": "5105 ROCHELLE AVE",
+            "units": 10,
+            "date": "2020-03-11 14:49:00+00",
+            "scope": "FOR THE ERECTION OF A FOUR (4) STORY ATTACHED STRUCTURE AS PER APPROVED PLANS. FOR USE AS FOUR (4) DWELLING UNITS AND (1) ONE VACANT COMMERCIAL SPACE (CO/USE PERMIT REQUIRED PRIOR TO OCCUPANCY).. STRUCTURE TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13 MINIMUM. **SEPARATE PERMITS REQUIRED FOR MEP AND FIRE SUPPRESSION WORK.**  **2018 IBC**"
+          }
+        ]
+      },
+      {
+        "station": "Ivy Ridge",
+        "district": "4",
+        "lat": 40.0341667,
+        "lon": -75.2355556,
+        "permits": 1,
+        "units": 10,
+        "permit_details": [
+          {
+            "lat": 40.03629826065017,
+            "lng": -75.23542743996913,
+            "address": "5001 UMBRIA ST",
+            "units": 10,
+            "date": "2021-11-30 05:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A SIX (6) STORY STRUCTURE (PAOLI BUILDING) TO INCLUDE ROOF DECK AND PILOT HOUSES FOR USE AS ONE HUNDRED TWENTY-FIVE (125) DWELLING UNITS AND ACCESSORY PARKING AS PER APPROVED PLANS. BUILDING TO UTILIZE HORIZONTAL SEPARATIONS TO CREATE TWO (2) SEPARATE BUILDINGS WITH TWO (2) DIFFERENT CONSTRUCTION TYPES (BASEMENT, 1ST & 2ND FLOORS - TYPE IA AND 3ND THROUGH 6TH FLOORS - TYPE VA). BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 & 13 R AND INCLUDE STANDPIPES PER NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC REVIEW* \n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 1/30/23\nAMEND NEW CONSTRUCTION PERMIT CP-2021-004480 TO CHANGE CONSTRUCTION TYPE OF 2ND THROUGH 6TH FLOORS TO TYPE IIIB AS PER APPROVED PLANS.  ALL EXTERIOR WALLS OF TYPE IIIB CONSTRUCTION MUST BE FRT STUDS AND SHEATHING.\n\nAMENDMENT APPROVED 2/18/23\nAMEND NEW CONSTRUCTION PERMIT CP-2021-004480 TO CHANGE DPRC-SI AND SPECIAL INSPECTIONS AGENCY AS PER APPROVED REVISED SPECIAL INSPECTIONS DOCUMENTS. \n\nAMENDMENT APPROVED 9/30/23\nAMEND NEW CONSTRUCTION PERMIT CP-2021-004480 TO ADD ELECTRICAL ROOM AND RATED FIRE PUMP ROOM IN BASEMENT AS PER APPROVED PLANS. \n\nAMENDMENT APPROVED 11/20/23\nAMEND NEW CONSTRUCTION PERMIT CP-2021-004480 TO INCLUDE HORIZONTAL EXIT WITH REQUIRED AREAS OF REFUGE ON FLOORS 2-5 AS PER APPROVED PLANS. "
+          }
+        ]
+      },
+      {
+        "station": "Wynnefield Avenue",
+        "district": "4",
+        "lat": 39.99,
+        "lon": -75.2255556,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      }
+    ],
+    "8": [
+      {
+        "station": "North Philadelphia Amtrak",
+        "district": "8",
+        "lat": 39.9972222,
+        "lon": -75.155,
+        "permits": 8,
+        "units": 93,
+        "permit_details": [
+          {
+            "lat": 40.00022830113597,
+            "lng": -75.15353714954597,
+            "address": "3104 N BROAD ST",
+            "units": 3,
+            "date": "2021-01-07 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A THREE STORY ATTACHED STRUCTURE, TO INCLUDE THE ERECTION OF A FOUNDATION, STRUCTURAL FRAMING ELEMENTS, AND COMMON-ACCESS MEANS OF EGRESS STAIR. STRUCTURE IS MODULAR AND APPROVED BY A THIRD PARTY AGENCY. BUILDING FOR USE AS A THREE FAMILY DWELLING. BUILDING TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD  CONDITION VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 9 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT  REQUIRED PRIOR TO THE START OF ANY WORK. **"
+          },
+          {
+            "lat": 39.9991421006757,
+            "lng": -75.15375789972812,
+            "address": "3018 N BROAD ST",
+            "units": 10,
+            "date": "2022-03-17 04:00:00+00",
+            "scope": "FOR THE ERECTION OF A THREE (3) STORY ATTACHED STRUCTURE TO INCLUDE UNDERPINNING AS PER APPROVED PLANS. FOR USE AS FIVE (5) DWELLING UNITS. STRUCTURE TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R MINIMUM. **SEPARATE PERMITS REQUIRED FOR MEP AND FIRE SUPPRESSION WORK.**  **2018 IBC**\n\nAMENDMENT 2/1/23 TO REMOVE BASEMENT (& UNDERPINNING), AND CHANGE LAYOUT, NEW WINDOWS, PROPOSE NFPA 13 SYSTEM.\n\nAMENDMENT 4/28/23 TO MODIFY LAYOUT, STRUCTURAL/FOUNDATION CHANGES, REVISED CEILING HEIGHTS AS PER PLANS. "
+          },
+          {
+            "lat": 40.00018096086919,
+            "lng": -75.15354556046171,
+            "address": "3102 N BROAD ST",
+            "units": 10,
+            "date": "2021-01-13 05:00:00+00",
+            "scope": "For the erection of a foundation, structural framing elements, and common-access means of egress stair to facilitate the erection of a three (3) story attached modular structure to be used as Group R-2 (three (3) dwelling units), as per plans and third-party agency modular unit plans; separate permits required for electrical, plumbing, and fire suppression hook ups and non-modular areas; building to be fully sprinklered in accordance with NFPA 13R (minimum); see AP#1029940 for zoning/use approval."
+          },
+          {
+            "lat": 39.99947054134614,
+            "lng": -75.15533053042182,
+            "address": "3028 N 15TH ST",
+            "units": 10,
+            "date": "2022-08-06 04:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A THREE (3) STORY BUILDING WITH A FRONT PORCH AND REAR DECKS AT THE SECOND AND THIRD FLOOR LEVELS FOR USE AS A THREE (3) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED. WORK TO INCLUDE UNDERPINNING TO BE MONITORED BY A PA LICENSED PE AT ALL TIMES. *2018 IEBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+          },
+          {
+            "lat": 40.00047582128357,
+            "lng": -75.15348487033468,
+            "address": "3114 N BROAD ST",
+            "units": 10,
+            "date": "2024-11-02 04:00:00+00",
+            "scope": "For the erection of an attached structure used for six dwelling untis as per approved plans. Building to be fully sprinklered per minimum NFPA 13R. Separate permits required for MEP & FP works."
+          }
+        ]
+      },
+      {
+        "station": "North Philadelphia",
+        "district": "8",
+        "lat": 39.9977778,
+        "lon": -75.1563889,
+        "permits": 8,
+        "units": 93,
+        "permit_details": [
+          {
+            "lat": 40.00022830113597,
+            "lng": -75.15353714954597,
+            "address": "3104 N BROAD ST",
+            "units": 3,
+            "date": "2021-01-07 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A THREE STORY ATTACHED STRUCTURE, TO INCLUDE THE ERECTION OF A FOUNDATION, STRUCTURAL FRAMING ELEMENTS, AND COMMON-ACCESS MEANS OF EGRESS STAIR. STRUCTURE IS MODULAR AND APPROVED BY A THIRD PARTY AGENCY. BUILDING FOR USE AS A THREE FAMILY DWELLING. BUILDING TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R. ALL WORK TO BE DONE PER APPROVED PLANS. IF FIELD  CONDITION VARY CONTACT DESIGN ENGINEER PRIOR TO THE START OF ANY WORK. **A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 9 FEET OF THE BUILDING FACADE IN ACCORDANCE WITH SECTION 3306 OF THE 2018 IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMIT  REQUIRED PRIOR TO THE START OF ANY WORK. **"
+          },
+          {
+            "lat": 40.001024710802234,
+            "lng": -75.15598513039455,
+            "address": "3117 N 16TH ST",
+            "units": 10,
+            "date": "2025-11-21 05:00:00+00",
+            "scope": "NEW CONSTRUCTION (RE-CONSTRUCTION, MORE THAN 2/3RDS JOIST REPLACEMENT AND REAR ADDITION) OF A THREE-STORY BUILDING WITH CELLAR AND CRAWL SPACE FOR USE AS THREE (3) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+          },
+          {
+            "lat": 39.9991421006757,
+            "lng": -75.15375789972812,
+            "address": "3018 N BROAD ST",
+            "units": 10,
+            "date": "2022-03-17 04:00:00+00",
+            "scope": "FOR THE ERECTION OF A THREE (3) STORY ATTACHED STRUCTURE TO INCLUDE UNDERPINNING AS PER APPROVED PLANS. FOR USE AS FIVE (5) DWELLING UNITS. STRUCTURE TO BE FULLY SPRINKLERED IN ACCORDANCE WITH NFPA 13R MINIMUM. **SEPARATE PERMITS REQUIRED FOR MEP AND FIRE SUPPRESSION WORK.**  **2018 IBC**\n\nAMENDMENT 2/1/23 TO REMOVE BASEMENT (& UNDERPINNING), AND CHANGE LAYOUT, NEW WINDOWS, PROPOSE NFPA 13 SYSTEM.\n\nAMENDMENT 4/28/23 TO MODIFY LAYOUT, STRUCTURAL/FOUNDATION CHANGES, REVISED CEILING HEIGHTS AS PER PLANS. "
+          },
+          {
+            "lat": 40.00018096086919,
+            "lng": -75.15354556046171,
+            "address": "3102 N BROAD ST",
+            "units": 10,
+            "date": "2021-01-13 05:00:00+00",
+            "scope": "For the erection of a foundation, structural framing elements, and common-access means of egress stair to facilitate the erection of a three (3) story attached modular structure to be used as Group R-2 (three (3) dwelling units), as per plans and third-party agency modular unit plans; separate permits required for electrical, plumbing, and fire suppression hook ups and non-modular areas; building to be fully sprinklered in accordance with NFPA 13R (minimum); see AP#1029940 for zoning/use approval."
+          },
+          {
+            "lat": 39.99947054134614,
+            "lng": -75.15533053042182,
+            "address": "3028 N 15TH ST",
+            "units": 10,
+            "date": "2022-08-06 04:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A THREE (3) STORY BUILDING WITH A FRONT PORCH AND REAR DECKS AT THE SECOND AND THIRD FLOOR LEVELS FOR USE AS A THREE (3) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED. WORK TO INCLUDE UNDERPINNING TO BE MONITORED BY A PA LICENSED PE AT ALL TIMES. *2018 IEBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+          }
+        ]
+      },
+      {
+        "station": "Chelten Avenue",
+        "district": "8",
+        "lat": 40.03,
+        "lon": -75.1808333,
+        "permits": 6,
+        "units": 84,
+        "permit_details": [
+          {
+            "lat": 40.03069896123742,
+            "lng": -75.17922819000368,
+            "address": "226 W CHELTEN AVE",
+            "units": 10,
+            "date": "2021-12-16 05:00:00+00",
+            "scope": "**Amendment dated MM/DD/YYYY to change construction types from Type IIIA throughout to Type IA podium at 1st story with Type VA at 2nd through 5th stories, change foundation to include helical piles, eliminate basement, add horizontal exit at 2nd-5th floors, revise floor plans throughout, modifications to windows, and reduce size of roof deck, all as per revised plans and documents.**\nFor the erection of a new, five (5) story semi-detached structure (w/roof deck accessed by pilot houses enclosing access stairs only), to be used as Group U (Utilities only) within the basement, Vacant Commercial Space at the ground floor (separate use registration permit and fit-out/CO permit required prior to occupancy), with Group R-2 at second to fifth floors (forty-six (46) dwelling units; at least one (1) Type A Unit w/remaining to be Type B Units), and Group A-3 (shared roof deck for residential tenants only) above the fifth floor roof, and including site work for ten (10) accessory surface parking spaces (partially covered by building overhang), as per plans; separate permits required for all MEP/FSP work; building to be fully sprinklered throughout in accordance with NFPA 13 and with standpipes within the exit stairways in accordance with NFPA 14; covered walkway or sidewalk closure shall be required within 14 feet of building facade in accordance with 2018 IBC Section 3306; fire watch is required once combustible construction is over 40 feet in height; see ZP-2021-006487 for zoning/use approval."
+          },
+          {
+            "lat": 40.03012604126582,
+            "lng": -75.17899898011689,
+            "address": "5545 PULASKI AVE",
+            "units": 34,
+            "date": "2020-10-05 04:00:00+00",
+            "scope": "FOR THE ERECTION OF A DETACHED STRUCTURE OF TYPE VA CONSTRUCTION WITH A CELLAR AND A ROOF DECK WITH A ROOF ACCESS STRUCTURE. FOR THIRTY-FIVE (35) DWELLING UNITS WITH LAYOUT AS PER PLANS. SEPARATE PERMITS REQUIRED FOR ALL MECHAICANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION WORK.\n\nAMENDMENT (2/11/2021) AMENDMENT TO CHNAGE THE SPECIAL INSPECTION AGENCY AS PER NEW FORM.\nAMENDMENT (4/22/2021) TO REMOVE COMMERCIAL SPACE, REDUCTION OF DWELLINGS TO 34 UNITS, REVISED PARTITIONS, FIXTURES, FINISHES TO CREATE AMENITY SPACE. "
+          },
+          {
+            "lat": 40.03042490119201,
+            "lng": -75.1795497399974,
+            "address": "234-36 W CHELTEN AVE",
+            "units": 10,
+            "date": "2021-12-13 05:00:00+00",
+            "scope": "For the erection of a new four (4) story detached structure (w/roof deck accessed by pilot house enclosing roof access only), to be used as Vacant Commercial Space at front first floor (separate use registration permit and fit-out/CO permit required prior to occupancy), with Group R-2 (Forty-Nine (49) Dwelling Units w/amenities) at rear first floor and above, as per plans; separate permits required for all MEP/FSP work; building to be fully sprinklered throughout in accordance with NFPA 13 w/standpipes within the exit stairways installed as per NFPA 14; covered walkway or sidewalk closure required within 11.25 feet of building facade as per 2018 IBC Section 3306; fire watch is required once combustible construction is over 40 feet in height; see ZP-2021-010888 for zoning/use approval."
+          },
+          {
+            "lat": 40.029825711157194,
+            "lng": -75.18034629995611,
+            "address": "308 W CHELTEN AVE",
+            "units": 10,
+            "date": "2021-03-23 04:00:00+00",
+            "scope": "FOR THE COMPLETE DEMOLITION OF EXISTING BUILDING AND FOR THE ERECTION OF AN ATTACHED BUILDING WITH A ROOF DECK. FOR THE USE AS MULTI-FAMILY (FORTY-NINE (49) UNITS) HOUSEHOLD LIVING WITH ACCESSARY PARKING. BUILDING TO BE FULLY SPRINKLERED. SEPARATE PERMITS REQURIED FOR M.E.P.S WORK. SEPARATE APPROVAL REQUIRED FROM PA LABOR AND INDUSTRY FOR ELEVATOR INSTALLATION.\nAmendment to change the construction type of entire building to type IIIA and add horizontal exits fron 2nd to 5th floors as per approved plans."
+          },
+          {
+            "lat": 40.0311824311076,
+            "lng": -75.17713604010176,
+            "address": "5521 WAYNE AVE",
+            "units": 10,
+            "date": "2021-12-25 05:00:00+00",
+            "scope": "FOR THE ERECTION OF AN ATTACHED STRUCTURE WITH SEVENTEEN (17) 1A CLASS BICYCLE SPACES IN AN ACCESSIBLE ROUTE. FOR A VACANT COMMERCIAL SPACE AT FIRST FLOOR FRONT( USE REGISTRATION AND FIT-OUT PERMITS REQUIRED PRIOR TO OCCUPANCY) AT FIRST FLOOR WITH FIFTY(50) DWELLING UNITS.( NINE(9) UNITS USING MIXED INCOME HOUSING BONUS AS PER 14-702(7) AND FOR AN ADDITIONAL EIGHT(8) UNITS  USING  GREEN ROOF BONUS AS PER 14-702(16). BUILDING TO BE FULLY SPRINKLERED. SEPATATE PERMITS REQUIRED FOR MEP & FP WORK. SEPARATE APPROVAL REQUIRED FROM PA L&I FOR ELEVATOR INSTALLATION.\nAMENDMENT TO INCLUDE 5' SETBACK TO AVOID UNDERPINNING AND ADJUSTMENT TO FLOOR LAYOUT AND EXISTING WALL ALONG SIDE LOT LINE TO REMAIN AS PER APPROVED REVISED PLANS.\nGrant variance for exiting under the building with a 2-hour fire rating of exit passageway walls and ceilings where tenants must exit under the building.  Any gates or fences along exit passageways shall not be locked.\nAmendment to eliminates the previously provided backup generator in favor of horizontal exits above 1st floor, and the mail room on the ground floor has been relocated as per approved revised plans.\nAmendment limited to a single-door swing change at the basement. "
+          }
+        ]
+      },
+      {
+        "station": "Germantown",
+        "district": "8",
+        "lat": 40.0375,
+        "lon": -75.1716667,
+        "permits": 4,
+        "units": 40,
+        "permit_details": [
+          {
+            "lat": 40.03777823092123,
+            "lng": -75.17555651964635,
+            "address": "22 E RITTENHOUSE ST",
+            "units": 10,
+            "date": "2020-10-16 04:00:00+00",
+            "scope": "FOR THE NEW CONSTRUCTION OF A THREE-STORY STRUCTURE WITH PILOTHOUSE AND ROOF DECK, FOR USE AS A SIX-FAMILY DWELLING, AS PER APPROVED PLANS."
+          },
+          {
+            "lat": 40.03440020090175,
+            "lng": -75.17121771959967,
+            "address": "26-34 CHURCH LN",
+            "units": 10,
+            "date": "2025-06-30 04:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A FIVE (5) STORY STRUCTURE FOR USE AS A SHELL COMMERCIAL SPACE (USE REGISTRATION & FIT-OUT PERMITS REQUIRED PRIOR TO OCCUPANCY) AND THIRTY-THREE (33) DWELLING UNITS WITH ACCESSORY PARKING AS PER APPROVED PLANS. BUILDING TO UTILIZE HORIZONTAL SEPARATION TO CREATE TWO (2) SEPARATE BUILDINGS WITH TWO (2) DIFFERENT CONSTRUCTION TYPES (1ST FLOOR - TYPE IA AND 2ND THROUGH 5TH FLOORS - TYPE VA). BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC REVIEW* \n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 11/10/25\nAMEND NEW CONSTRUCTION PERMIT CP-2025-000079 FOR CHANGES TO FLOOR LAYOUTS AND STAIR CONSTRUCTION MATERIALS AND STRUCTURAL REVISIONS AS PER APPROVED PLANS. "
+          },
+          {
+            "lat": 40.03559705133267,
+            "lng": -75.17249288054964,
+            "address": "40 E ARMAT ST",
+            "units": 10,
+            "date": "2021-12-03 05:00:00+00",
+            "scope": "FOR THE ERECTION OF A SEMI-DETACHED STRUCTURE WITH A ROOF DECK (FOR RESIDENTIAL ONLY) AT THE FOURTH STORY LEVEL; TO USE AS ONE (1) VACANT COMMERCIAL SPACE (USE REGISTRATION REQUIRED PRIOR TO OCCUPANCY) AT THE FIRST FLOOR AND MULTI-FAMILY (FORTY-SEVEN (47) DWELLING UNITS) HOUSEHOLD LIVING ABOVE. BUILDING TO BE FULLY SPRINKLERED. SEPARATE PERMITS REQUIRED FOR M.E.P AND FP WORK. SEPARATE APPROVAL REQUIRED FROM PA L&I FOR ELEVATOR INSTALLATION."
+          },
+          {
+            "lat": 40.038444441299184,
+            "lng": -75.17166972975987,
+            "address": "174 E CHELTEN AVE",
+            "units": 10,
+            "date": "2025-12-22 05:00:00+00",
+            "scope": "FOR NEW CONSTRUCTION OF AN DETACHED BUILDING WITH CELLAR, BALCONIES, ROOF DECK AND ROOF-DECK ACCESS STRUCTURE.  BUILDING TO BE FULLY SPRINKLERED WITH NFPA 13.  SEPARATE BUILDING PERMITS REQUIRED FOR EXCAVATION, MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION."
+          }
+        ]
+      },
+      {
+        "station": "Wayne Junction",
+        "district": "8",
+        "lat": 40.0222222,
+        "lon": -75.16,
+        "permits": 3,
+        "units": 30,
+        "permit_details": [
+          {
+            "lat": 40.02389735127646,
+            "lng": -75.15722895026346,
+            "address": "4554 N UBER ST",
+            "units": 10,
+            "date": "2024-06-04 04:00:00+00",
+            "scope": "FOR THE ERECTION OF AN ATTACHED STRUCTURE.  STRUCTURE FOR USE AS THREE (3) DWELLING UNITS. SPRINKLERED THROUGH PER NFPA 13. SEPARATE PERMITS REQUIRED FOR PLUMBING, MECHANICAL, ELECTRICAL AND FIRE SUPPRESSION.  A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED IN ACCORDANCE WITH SECTION 3306 OF THE IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMITS ARE REQUIRED."
+          },
+          {
+            "lat": 40.02563790109748,
+            "lng": -75.15970322042695,
+            "address": "4637 GERMANTOWN AVE",
+            "units": 10,
+            "date": "2022-08-24 04:00:00+00",
+            "scope": "For the erection of a new, three (3) story attached structure, to be used as Group R-2 (Nine (9) Dwelling Units), as per plans; separate permits required for all MEP/FSP work; building to be fully sprinklered throughout in accordance with NFPA 13R; if field conditions vary, contact design engineer prior to the start of any work; covered walkway or sidewalk closure shall be required within eight (8) feet of the building facade in accordance with Section 3306 in the 2018 IBC (separate building and/or Streets Department permit required prior to start of any work); work includes underpinning of adjacent property 4641 GERMANTOWN AVE; see ZP-2020-001826 for zoning/use approval and unity-of-use agreement; see SR-2021-009784 for work within the public right-of-way."
+          },
+          {
+            "lat": 40.021207350835645,
+            "lng": -75.16385988965679,
+            "address": "4529 PULASKI AVE",
+            "units": 10,
+            "date": "2020-08-06 04:00:00+00",
+            "scope": "FOR THE ERECTION OF AN ATTACHED STRUCTURE WITH A ROOF DECK AND PILOT HOUSE.  STRUCTURE FOR USE AS FOURTEEN (14) DWELLING UNITS. SPRINKLERED THROUGH PER NFPA 13. SEPARATE PERMITS REQUIRED FOR PLUMBING, MECHANICAL, ELECTRICAL AND FIRE SUPPRESSION.  A COVERED WALKWAY OR SIDEWALK CLOSURE SHALL BE REQUIRED WITHIN 10 FEET OF BUILDING FA\u00c7ADE IN ACCORDANCE WITH SECTION 3306 OF THE IBC. SEPARATE BUILDING AND/OR STREETS DEPARTMENT PERMITS ARE REQUIRED."
+          }
+        ]
+      },
+      {
+        "station": "Upsal",
+        "district": "8",
+        "lat": 40.0425,
+        "lon": -75.19,
+        "permits": 3,
+        "units": 30,
+        "permit_details": [
+          {
+            "lat": 40.04410714105538,
+            "lng": -75.19121707001105,
+            "address": "367 W HORTTER ST",
+            "units": 10,
+            "date": "2021-12-23 05:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A FOUR (4) STORY, TWENTY FOUR (24) DWELLING UNITS AND VACANT COMMERCIAL SPACE (SEPARATE USE & OCCUPANCY REQUIRED PRIOR TO OCCUPANCY) WITH ROOF DECKS AND ROOF DECK ACCESS STRUCTURES AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13. SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK. *2018 IBC REVIEW*\n\nAMENDMENT 8/25/23 TO DOCUMENT FIELD CHANGE TO INCLUDE RETAINING WALL/FOUNDATION CHANGE, CHANGE OF LAYOUT AS PER APPROVED PLANS."
+          },
+          {
+            "lat": 40.044165491342255,
+            "lng": -75.18865056957422,
+            "address": "229 W UPSAL ST",
+            "units": 10,
+            "date": "2021-09-16 04:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A DETACHED, FOUR-STORY, FORTY-EIGHT (48) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE OF TYPE IIIB CONSTRUCTION, WITH FRT WOOD FRAMING AND SHEATHING IN ALL EXTERIOR WALLS. *AMENDED PERMIT REQUIRED TO SUBMIT ENGINEER SEALED, MANUFACTURER'S TRUSS DRAWINGS FOR APPROVAL PRIOR TO INSTALLATION* BUILDING TO BE FULLY SPRINKLERED WITH STANDPIPES IN ACCORDANCE WITH NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**"
+          },
+          {
+            "lat": 40.04220695092497,
+            "lng": -75.18686329040054,
+            "address": "231 W JOHNSON ST",
+            "units": 10,
+            "date": "2020-12-23 05:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A FIVE (5) STORY STRUCTURE TO INCLUDE GROUND FLOOR PARKING GARAGE AND THIRTY-TWO (32) DWELLING UNITS ABOVE AS PER APPROVED PLANS. BUILDING TO UTILIZE HORIZONTAL SEPARATIONS TO CREATE TWO (2) SEPARATE BUILDINGS WITH TWO (2) DIFFERENT CONSTRUCTION TYPES (1ST FLOOR - TYPE IB AND 2ND THROUGH 5TH FLOORS - TYPE VA). BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC REVIEW* \n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 10/29/21\nAMEND NEW CONSTRUCTION PERMIT CP-2020-004774 TO CHANGE SPECIAL INSPECTIONS AGENCY(S) AS PER SUBMITTED DOCUMENTS. "
+          }
+        ]
+      },
+      {
+        "station": "Queen Lane",
+        "district": "8",
+        "lat": 40.0233333,
+        "lon": -75.1780556,
+        "permits": 2,
+        "units": 20,
+        "permit_details": [
+          {
+            "lat": 40.02465970071446,
+            "lng": -75.17677489043136,
+            "address": "447 W QUEEN LN",
+            "units": 10,
+            "date": "2025-05-16 04:00:00+00",
+            "scope": "FOR THE CONSTRUCTION OF A NEW THREE-STORY, THREE (3) FAMILY DWELLING. TO CONTAIN ROOF DECKS, & 6 ACCESSORY PARKING STALLS @ FIRST FLOOR, ACCESSED BY A SHARED DRIVE AISLE. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13R. SEPARATE PERMITS REQUIRED FOR MEP AND FP WORK."
+          },
+          {
+            "lat": 40.025583750561005,
+            "lng": -75.17473243049167,
+            "address": "342 W QUEEN LN",
+            "units": 10,
+            "date": "2021-03-24 04:00:00+00",
+            "scope": "FOR NEW CONSTRUCTION OF A THREE-STORY ATTACHED BUILDING FOR USE AS VACANT COMMERCIAL AT FIRST-FLOOR FRONT AND MULTIFAMILY HOUSEHOLD LIVING (FIVE DWELLING UNITS) AT FIRST-FLOOR REAR THROUGH THIRD-FLOOR.  BUILDING TO BE FULLY SPRINKLERED WITH NFPA 13 THROUGHOUT.  SEPARATE PERMITS REQUIRED FOR MECHANICAL, ELECTRICAL, PLUMBING AND FIRE SUPPRESSION."
+          }
+        ]
+      },
+      {
+        "station": "Wister",
+        "district": "8",
+        "lat": 40.0361111,
+        "lon": -75.1611111,
+        "permits": 1,
+        "units": 10,
+        "permit_details": [
+          {
+            "lat": 40.03601557087931,
+            "lng": -75.16571422020338,
+            "address": "267 E PENN ST",
+            "units": 10,
+            "date": "2025-07-13 04:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A THREE (3) STORY BUILDING WITH BASEMENT FOR USE AS A FOUR (4) FAMILY DWELLING AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR EXCAVATION, MEP & FIRE SUPPRESSION WORK**"
+          }
+        ]
+      },
+      {
+        "station": "Tulpehocken",
+        "district": "8",
+        "lat": 40.0352778,
+        "lon": -75.1869444,
+        "permits": 1,
+        "units": 10,
+        "permit_details": [
+          {
+            "lat": 40.03824340102107,
+            "lng": -75.18933453941928,
+            "address": "370 W JOHNSON ST",
+            "units": 10,
+            "date": "2021-02-10 05:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A SIX (6) STORY STRUCTURE TO INCLUDE GROUND FLOOR PARKING GARAGE AND FIFTY (50) DWELLING UNITS ABOVE AS PER APPROVED PLANS. BUILDING TO UTILIZE HORIZONTAL SEPARATIONS TO CREATE TWO (2) SEPARATE BUILDINGS WITH TWO (2) DIFFERENT CONSTRUCTION TYPES (1ST FLOOR - TYPE IB AND 2ND THROUGH 6TH FLOORS - TYPE IIIB). FIRE RETARDANT TREATED STUDS AND SHEATHING REQUIRED FOR TYPE III CONSTRUCTION. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. FIRE WATCH REQUIRED PER CODE BULLETIN F-2001. *2018 IBC* \n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n"
+          }
+        ]
+      },
+      {
+        "station": "Carpenter",
+        "district": "8",
+        "lat": 40.0511111,
+        "lon": -75.1913889,
+        "permits": 1,
+        "units": 10,
+        "permit_details": [
+          {
+            "lat": 40.05294227132064,
+            "lng": -75.19511401045908,
+            "address": "360 W MOUNT PLEASANT AVE",
+            "units": 10,
+            "date": "2021-12-07 05:00:00+00",
+            "scope": "New construction mixed-use development comprised of a non-combustible ground structure of type IA construction with a four story of wood framed type VA structure on top and separated by three hour fired rated assemble. The ground floor structure is one story of commercial retail space at street level and one story of parking below. There are 34 total residential units and 29 total parking spaces proposed. All work as per plans. "
+          }
+        ]
+      },
+      {
+        "station": "Allen Lane",
+        "district": "8",
+        "lat": 40.0575,
+        "lon": -75.1947222,
+        "permits": 1,
+        "units": 10,
+        "permit_details": [
+          {
+            "lat": 40.060259970859434,
+            "lng": -75.19230352973081,
+            "address": "20 W ALLENS LN",
+            "units": 10,
+            "date": "2023-03-06 05:00:00+00",
+            "scope": "NEW CONSTRUCTION OF A FOUR (4) STORY BUILDING WITH GREEN ROOF AND ROOF ACCESS STRUCTURE FOR USE AS SEVENTY-SIX (76) DWELLING UNITS WITH ACCESSORY PARKING GARAGE AS PER APPROVED PLANS. BUILDING TO BE FULLY SPRINKLERED PER NFPA 13 AND INCLUDE STANDPIPES PER NFPA 14. BUILDING TO UTILIZE GREEN ROOF AND MIXED INCOME HOUSING BONUS (AFFORDABLE UNITS PROVIDED). FIRE WATCH REQUIRED PER DEPARTMENT CODE BULLETIN F-2001. *2018 IBC REVIEW*\n**SEPARATE PERMITS REQUIRED FOR MEP & FIRE SUPPRESSION WORK**\n\nAMENDMENT APPROVED 5/4/23\nAMEND NEW CONSTRUCTION PERMIT C-2022-006090 FOR CHANGES TO UNIT LAYOUTS AND OPENING LOCATIONS AS PER APPROVED PLANS. "
+          }
+        ]
+      },
+      {
+        "station": "Allegheny",
+        "district": "8",
+        "lat": 40.0036111,
+        "lon": -75.1647222,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      },
+      {
+        "station": "Washington Lane",
+        "district": "8",
+        "lat": 40.0508333,
+        "lon": -75.1713889,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      },
+      {
+        "station": "Stenton",
+        "district": "8",
+        "lat": 40.0605556,
+        "lon": -75.1786111,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      }
+    ],
+    "1": [
+      {
+        "station": "Market East",
+        "district": "1",
+        "lat": 39.9525,
+        "lon": -75.1580556,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      }
+    ],
+    "2": [
+      {
+        "station": "Eastwick",
+        "district": "2",
+        "lat": 39.8927778,
+        "lon": -75.2438889,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      },
+      {
+        "station": "Airport Terminal E F",
+        "district": "2",
+        "lat": 39.8794444,
+        "lon": -75.2397222,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      },
+      {
+        "station": "Airport Terminal C D",
+        "district": "2",
+        "lat": 39.8780556,
+        "lon": -75.24,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      },
+      {
+        "station": "Airport Terminal B",
+        "district": "2",
+        "lat": 39.8772222,
+        "lon": -75.2413889,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      },
+      {
+        "station": "Airport Terminal A",
+        "district": "2",
+        "lat": 39.8761111,
+        "lon": -75.2452778,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      }
+    ],
+    "9": [
+      {
+        "station": "Olney",
+        "district": "9",
+        "lat": 40.0333333,
+        "lon": -75.1227778,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      },
+      {
+        "station": "Fern Rock T C",
+        "district": "9",
+        "lat": 40.0405556,
+        "lon": -75.1347222,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      }
+    ],
+    "6": [
+      {
+        "station": "Bridesburg",
+        "district": "6",
+        "lat": 40.0105556,
+        "lon": -75.0697222,
+        "permits": 0,
+        "units": 0,
+        "permit_details": []
+      }
+    ]
+  }
+}
