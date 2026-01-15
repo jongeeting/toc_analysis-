@@ -1,0 +1,418 @@
+Rank_by_Units,Station_Stop_Name,Line_Route,Mode,District,Units_2020_2025,Permits_2020_2025,Score,Tier,BSL_MFL_Citywide_Rank,Existing_TOD_Overlay
+1,Girard,Broad Street Line,BSL/MFL,5,816,,77.0,Tier 1 - High Priority,4,No
+2,Girard,Market/Frankford Line,BSL/MFL,5,816,,76.4,Tier 1 - High Priority,5,No
+3,Berks,Market/Frankford Line,BSL/MFL,7,779,,91.3,Tier 1 - High Priority,2,Yes
+4,York-Dauphin,Market/Frankford Line,BSL/MFL,7,764,,95.5,Tier 1 - High Priority,1,No
+5,Lancaster Av & 41st St,Trolley T1,Trolley,3,660,70,,Trolley,,No
+6,Lancaster Av & 41st St,Trolley T1,Trolley,3,653,70,,Trolley,,No
+7,Girard Av & 16th St,Trolley G1,Trolley,5,622,54,,Trolley,,No
+8,Girard Av & 16th St,Trolley G1,Trolley,5,622,54,,Trolley,,No
+9,Lancaster Av & Wallace St,Trolley T1,Trolley,3,619,64,,Trolley,,No
+10,Lancaster Av & Haverford Av,Trolley T1,Trolley,3,588,62,,Trolley,,No
+11,Lancaster Av & 42nd St,Trolley T1,Trolley,3,583,64,,Trolley,,No
+12,Lancaster Av & Parrish St,Trolley T1,Trolley,3,577,62,,Trolley,,No
+13,Girard Av & 17th St,Trolley G1,Trolley,5,560,55,,Trolley,,No
+14,Lancaster Av & 40th St,Trolley T1,Trolley,3,551,57,,Trolley,,No
+15,Girard Av & 17th St,Trolley G1,Trolley,5,546,53,,Trolley,,No
+16,Lancaster Av & 42nd St,Trolley T1,Trolley,3,540,59,,Trolley,,No
+17,Lancaster Av & 43th St,Trolley T1,Trolley,3,527,57,,Trolley,,No
+18,Girard Av & 42nd St,Trolley G1,Trolley,3,526,57,,Trolley,,No
+19,46th Street,Market/Frankford Line,BSL/MFL,3,510,,78.5,Tier 1 - High Priority,3,Yes
+20,Girard Av & 42nd St,Trolley G1,Trolley,3,506,55,,Trolley,,No
+21,Girard Av & Ridge Av,Trolley G1,Trolley,5,502,48,,Trolley,,No
+22,Girard Av & Ridge Av,Trolley G1,Trolley,5,502,48,,Trolley,,No
+23,Lancaster Av & Spring Garden St,Trolley T1,Trolley,3,456,51,,Trolley,,No
+24,Ellsworth-Federal,Broad Street Line,BSL/MFL,1,452,,72.7,Tier 1 - High Priority,6,No
+25,Girard Av & 41st St,Trolley G1,Trolley,3,448,50,,Trolley,,No
+26,Girard Av & Broad St,Trolley G1,Trolley,5,442,25,,Trolley,,No
+27,Girard Av & 41st St,Trolley G1,Trolley,3,438,49,,Trolley,,No
+28,Lancaster Av & Spring Garden St,Trolley T1,Trolley,3,436,49,,Trolley,,No
+29,Girard Av & Broad St,Trolley G1,Trolley,5,422,23,,Trolley,,No
+30,Girard Av & 2nd St,Trolley G1,Trolley,5,406,22,,Trolley,,No
+31,Girard Av & 19th St,Trolley G1,Trolley,5,406,38,,Trolley,,No
+32,Girard Av & 2nd St,Trolley G1,Trolley,1,386,20,,Trolley,,No
+33,Girard Av & Front St,Trolley G1,Trolley,1,386,21,,Trolley,,No
+34,Lancaster Av & Ogden St,Trolley T1,Trolley,3,378,40,,Trolley,,No
+35,Girard Av & Front St,Trolley G1,Trolley,5,376,20,,Trolley,,No
+36,Girard Av & 7th St,Trolley G1,Trolley,5,363,31,,Trolley,,No
+37,30th Street Station,Regional Rail,Regional Rail,3,356,4,,Regional Rail,,No
+38,Girard Av & 7th St,Trolley G1,Trolley,5,353,30,,Trolley,,No
+39,Girard Av & 8th St,Trolley G1,Trolley,5,351,29,,Trolley,,No
+40,Frankford Av & Girard Av - FS,Trolley G1,Trolley,1,346,21,,Trolley,,No
+41,Frankford Av & Girard Av,Trolley G1,Trolley,1,346,21,,Trolley,,No
+42,Frankford Av & Girard Av - FS,Trolley G1,Trolley,1,346,21,,Trolley,,No
+43,Girard Av & 19th St,Trolley G1,Trolley,5,344,31,,Trolley,,No
+44,Lancaster Av & 44th St,Trolley T1,Trolley,3,339,36,,Trolley,,No
+45,Lancaster Av & Westminster St,Trolley T1,Trolley,3,337,35,,Trolley,,No
+46,Girard Av & Frankford Av- FS,Trolley G1,Trolley,1,336,20,,Trolley,,No
+47,Drexel Station at 30th St,Trolley T1,Trolley,3,336,2,,Trolley,,No
+48,Drexel Station at 30th St,Trolley T1,Trolley,3,336,2,,Trolley,,No
+49,Drexel Station at 30th St,Trolley T2,Trolley,3,336,2,,Trolley,,No
+50,Drexel Station at 30th St,Trolley T2,Trolley,3,336,2,,Trolley,,No
+51,Drexel Station at 30th St,Trolley T3,Trolley,3,336,2,,Trolley,,No
+52,Drexel Station at 30th St,Trolley T3,Trolley,3,336,2,,Trolley,,No
+53,Drexel Station at 30th St,Trolley T4,Trolley,3,336,2,,Trolley,,No
+54,Drexel Station at 30th St,Trolley T4,Trolley,3,336,2,,Trolley,,No
+55,Drexel Station at 30th St,Trolley T5,Trolley,3,336,2,,Trolley,,No
+56,Drexel Station at 30th St,Trolley T5,Trolley,3,336,2,,Trolley,,No
+57,Girard Av & 8th St,Trolley G1,Trolley,5,331,27,,Trolley,,No
+58,33rd St,Trolley T1,Trolley,3,326,1,,Trolley,,No
+59,33rd St,Trolley T2,Trolley,3,326,1,,Trolley,,No
+60,33rd St,Trolley T3,Trolley,3,326,1,,Trolley,,No
+61,33rd St,Trolley T4,Trolley,3,326,1,,Trolley,,No
+62,33rd St,Trolley T5,Trolley,3,326,1,,Trolley,,No
+63,Temple University,Regional Rail,Regional Rail,5,322,33,,Regional Rail,,No
+64,Frankford Av & Richmond St,Trolley G1,Trolley,1,306,17,,Trolley,,No
+65,Frankford Av & Richmond St,Trolley G1,Trolley,1,306,17,,Trolley,,No
+66,Frankford Av & Richmond St,Trolley G1,Trolley,1,306,17,,Trolley,,No
+67,Frankford Av & Richmond St,Trolley G1,Trolley,1,306,17,,Trolley,,No
+68,Girard Av & 20th St,Trolley G1,Trolley,5,296,26,,Trolley,,No
+69,Suburban Station,Regional Rail,Regional Rail,5,293,3,,Regional Rail,,No
+70,Lancaster Av & 45th St,Trolley T1,Trolley,3,291,31,,Trolley,,No
+71,Girard Av & Corinthian Av,Trolley G1,Trolley,5,287,30,,Trolley,,No
+72,Girard Av & 20th St,Trolley G1,Trolley,5,286,25,,Trolley,,No
+73,Girard Av & Corinthian Av,Trolley G1,Trolley,5,277,29,,Trolley,,No
+74,Girard Av & Belmont Av - FS,Trolley G1,Trolley,3,267,29,,Trolley,,No
+75,Erie,Broad Street Line,BSL/MFL,5,255,,61.0,Tier 2 - Strong Candidate,7,No
+76,Girard Av & Belmont Av,Trolley G1,Trolley,3,247,27,,Trolley,,No
+77,19th St,Trolley T1,Trolley,5,245,4,,Trolley,,No
+78,19th St,Trolley T2,Trolley,5,245,4,,Trolley,,No
+79,19th St,Trolley T3,Trolley,5,245,4,,Trolley,,No
+80,19th St,Trolley T4,Trolley,5,245,4,,Trolley,,No
+81,19th St,Trolley T5,Trolley,5,245,4,,Trolley,,No
+82,19th St,Trolley T1,Trolley,5,235,3,,Trolley,,No
+83,19th St,Trolley T2,Trolley,5,235,3,,Trolley,,No
+84,19th St,Trolley T3,Trolley,5,235,3,,Trolley,,No
+85,19th St,Trolley T4,Trolley,5,235,3,,Trolley,,No
+86,19th St,Trolley T5,Trolley,5,235,3,,Trolley,,No
+87,Girard Av & 40th St,Trolley G1,Trolley,3,228,26,,Trolley,,No
+88,Girard Av & 5th St,Trolley G1,Trolley,5,227,22,,Trolley,,No
+89,Girard Av & 40th St - FS,Trolley G1,Trolley,3,220,24,,Trolley,,No
+90,Girard Av & 5th St,Trolley G1,Trolley,5,217,21,,Trolley,,No
+91,Girard Av & 12th St,Trolley G1,Trolley,5,205,7,,Trolley,,No
+92,Girard Av & 12th St,Trolley G1,Trolley,5,205,7,,Trolley,,No
+93,Girard Av & 4th St,Trolley G1,Trolley,5,187,14,,Trolley,,No
+94,Frankford Av & Delaware Av - FS,Trolley G1,Trolley,1,179,14,,Trolley,,No
+95,Frankford Av & Delaware Av - FS,Trolley G1,Trolley,1,179,14,,Trolley,,No
+96,Girard Av & 3rd St,Trolley G1,Trolley,5,177,13,,Trolley,,No
+97,Girard Av & 3rd St,Trolley G1,Trolley,1,177,13,,Trolley,,No
+98,Lancaster Av & 38th St,Trolley T1,Trolley,3,174,19,,Trolley,,No
+99,Frankford Av & Delaware Av,Trolley G1,Trolley,1,169,13,,Trolley,,No
+100,Frankford Av & Delaware Av Loop,Trolley G1,Trolley,1,169,13,,Trolley,,No
+101,Frankford Av & Delaware Av,Trolley G1,Trolley,1,169,13,,Trolley,,No
+102,Frankford Av & Delaware Av Loop,Trolley G1,Trolley,1,169,13,,Trolley,,No
+103,49th Street,Regional Rail,Regional Rail,3,167,10,,Regional Rail,,No
+104,40th St & Filbert St,Trolley T1,Trolley,3,161,16,,Trolley,,No
+105,40th St & Filbert St,Trolley T1,Trolley,3,161,16,,Trolley,,No
+106,Lancaster Av & 38th St,Trolley T1,Trolley,3,158,17,,Trolley,,No
+107,Chester Av & 49th St,Trolley T3,Trolley,3,157,9,,Trolley,,No
+108,Huntingdon,Market/Frankford Line,BSL/MFL,7,156,,42.7,Tier 3 - Moderate Candidate,8,Yes
+109,Girard Av & 26th St,Trolley G1,Trolley,5,156,15,,Trolley,,No
+110,Girard Av & 26th St,Trolley G1,Trolley,5,156,15,,Trolley,,No
+111,Chester Av & 51st St,Trolley T3,Trolley,3,155,16,,Trolley,,No
+112,Chester Av & 51st St,Trolley T3,Trolley,3,155,16,,Trolley,,No
+113,40th-Market,Trolley T2,Trolley,3,151,15,,Trolley,,No
+114,40th-Market,Trolley T2,Trolley,3,151,15,,Trolley,,No
+115,40th-Market,Trolley T3,Trolley,3,151,15,,Trolley,,No
+116,40th-Market,Trolley T3,Trolley,3,151,15,,Trolley,,No
+117,40th-Market,Trolley T4,Trolley,3,151,15,,Trolley,,No
+118,40th-Market,Trolley T4,Trolley,3,151,15,,Trolley,,No
+119,40th-Market,Trolley T5,Trolley,3,151,15,,Trolley,,No
+120,40th-Market,Trolley T5,Trolley,3,151,15,,Trolley,,No
+121,Baltimore Av & 51st St,Trolley T2,Trolley,3,147,12,,Trolley,,No
+122,Girard Av & 11th St,Trolley G1,Trolley,5,146,6,,Trolley,,No
+123,Girard Av & 27th St,Trolley G1,Trolley,5,146,14,,Trolley,,No
+124,College Av & 24th St - FS,Trolley G1,Trolley,5,146,14,,Trolley,,No
+125,Girard Av & 11th St,Trolley G1,Trolley,5,146,6,,Trolley,,No
+126,Chester Av & 52nd St,Trolley T3,Trolley,3,143,15,,Trolley,,No
+127,Chester Av & 52nd St,Trolley T3,Trolley,3,143,15,,Trolley,,No
+128,Baltimore Av & 51st St,Trolley T2,Trolley,3,137,11,,Trolley,,No
+129,Baltimore Av & 53rd St,Trolley T2,Trolley,3,137,11,,Trolley,,No
+130,Chester Av & 49th St,Trolley T3,Trolley,3,137,7,,Trolley,,No
+131,Girard Av & 24th St,Trolley G1,Trolley,5,136,13,,Trolley,,No
+132,Poplar St & 25th St,Trolley G1,Trolley,5,136,13,,Trolley,,No
+133,Girard Av & 39th St,Trolley G1,Trolley,3,134,15,,Trolley,,No
+134,Baltimore Av & 53rd St,Trolley T2,Trolley,3,127,10,,Trolley,,No
+135,Baltimore Av & 52nd St,Trolley T2,Trolley,3,127,10,,Trolley,,No
+136,Poplar St & Stillman St,Trolley G1,Trolley,5,126,12,,Trolley,,No
+137,Chester Av & 53rd St,Trolley T3,Trolley,3,123,13,,Trolley,,No
+138,Chester Av & 53rd St,Trolley T3,Trolley,3,123,13,,Trolley,,No
+139,52nd Street,Market/Frankford Line,BSL/MFL,3,118,,37.6,Tier 3 - Moderate Candidate,9,Yes
+140,Baltimore Av & Broomall St,Trolley T2,Trolley,3,117,9,,Trolley,,No
+141,Baltimore Av & 54th St,Trolley T2,Trolley,3,117,9,,Trolley,,No
+142,Girard Av & 51st St,Trolley G1,Trolley,4,113,10,,Trolley,,No
+143,Girard Av & 52nd St,Trolley G1,Trolley,4,113,10,,Trolley,,No
+144,Girard Av & 52nd St,Trolley G1,Trolley,4,113,10,,Trolley,,No
+145,Girard Av & 51st St,Trolley G1,Trolley,3,113,10,,Trolley,,No
+146,Chester Av & 48th St,Trolley T3,Trolley,3,113,4,,Trolley,,No
+147,Chester Av & 47th St,Trolley T3,Trolley,3,113,4,,Trolley,,No
+148,Chester Av & 47th St,Trolley T3,Trolley,3,113,4,,Trolley,,No
+149,Chester Av & 48th St,Trolley T3,Trolley,3,113,4,,Trolley,,No
+150,Overbrook,Regional Rail,Regional Rail,4,111,1,,Regional Rail,,No
+151,Girard Av & 39th St,Trolley G1,Trolley,4,110,12,,Trolley,,No
+152,Baltimore Av & 54th St,Trolley T2,Trolley,3,107,8,,Trolley,,No
+153,Girard Av & 27th St,Trolley G1,Trolley,5,106,10,,Trolley,,No
+154,Woodland Av & 47th St,Trolley T4,Trolley,3,101,3,,Trolley,,No
+155,Woodland Av & 46th St,Trolley T4,Trolley,3,101,3,,Trolley,,No
+156,Woodland Av & 46th St,Trolley T4,Trolley,3,101,3,,Trolley,,No
+157,Woodland Av & 46th St,Trolley T5,Trolley,3,101,3,,Trolley,,No
+158,Woodland Av & 46th St,Trolley T5,Trolley,3,101,3,,Trolley,,No
+159,North Philadelphia Amtrak,Regional Rail,Regional Rail,8,93,8,,Regional Rail,,No
+160,North Philadelphia,Regional Rail,Regional Rail,8,93,8,,Regional Rail,,No
+161,Chester Av & 46th St,Trolley T3,Trolley,3,91,2,,Trolley,,No
+162,Chester Av & 45th St,Trolley T3,Trolley,3,91,2,,Trolley,,No
+163,Chester Av & 45th St,Trolley T3,Trolley,3,91,2,,Trolley,,No
+164,Chester Av & 46th St,Trolley T3,Trolley,3,91,2,,Trolley,,No
+165,Lancaster Av & Powelton Av,Trolley T1,Trolley,3,90,10,,Trolley,,No
+166,Baltimore Av & 50th St,Trolley T2,Trolley,3,90,9,,Trolley,,No
+167,Baltimore Av & 49th St,Trolley T2,Trolley,3,90,9,,Trolley,,No
+168,Baltimore Av & 49th St,Trolley T2,Trolley,3,90,9,,Trolley,,No
+169,Baltimore Av & 50th St,Trolley T2,Trolley,3,90,9,,Trolley,,No
+170,Woodland Av & 48th St,Trolley T4,Trolley,3,86,2,,Trolley,,No
+171,Woodland Av & 48th St,Trolley T4,Trolley,3,86,2,,Trolley,,No
+172,Woodland Av & 48th St,Trolley T5,Trolley,3,86,2,,Trolley,,No
+173,Woodland Av & 48th St,Trolley T5,Trolley,3,86,2,,Trolley,,No
+174,Chelten Avenue,Regional Rail,Regional Rail,8,84,6,,Regional Rail,,No
+175,Chester Av & 54th St,Trolley T3,Trolley,3,83,9,,Trolley,,No
+176,Lancaster Av & Bible Way,Trolley T1,Trolley,4,81,9,,Trolley,,No
+177,Lancaster Av & 52nd St,Trolley T1,Trolley,4,81,9,,Trolley,,No
+178,Baltimore Av & 49th St,Trolley T2,Trolley,3,80,8,,Trolley,,No
+179,Baltimore Av & 49th St,Trolley T2,Trolley,3,80,8,,Trolley,,No
+180,North Broad,Regional Rail,Regional Rail,5,79,10,,Regional Rail,,No
+181,Chester Av & 54th St,Trolley T3,Trolley,3,79,8,,Trolley,,No
+182,Susquehanna-Dauphin,Broad Street Line,BSL/MFL,5,77,,30.2,Tier 3 - Moderate Candidate,11,No
+183,Girard Av & 28th St,Trolley G1,Trolley,5,76,7,,Trolley,,No
+184,Girard Av & 28th St,Trolley G1,Trolley,5,76,7,,Trolley,,No
+185,26th St & Poplar St,Trolley G1,Trolley,5,76,7,,Trolley,,No
+186,Lansdowne Av & 63rd - FS,Trolley T1,Trolley,4,72,4,,Trolley,,No
+187,63rd St & Lansdowne Av - FS,Trolley T1,Trolley,4,72,4,,Trolley,,No
+188,Girard Av & 54th St,Trolley G1,Trolley,4,70,7,,Trolley,,No
+189,Girard Av & 54th St,Trolley G1,Trolley,4,70,7,,Trolley,,No
+190,Lansdowne Av & 55th St,Trolley T1,Trolley,4,68,7,,Trolley,,No
+191,Lansdowne Av & Lancaster Av,Trolley T1,Trolley,4,68,7,,Trolley,,No
+192,Lancaster Av & 47th St,Trolley T1,Trolley,3,68,8,,Trolley,,No
+193,Lancaster Av & 47th St,Trolley T1,Trolley,3,68,8,,Trolley,,No
+194,Girard Av & Berks St,Trolley G1,Trolley,1,66,7,,Trolley,,No
+195,Girard Av & Columbia Av,Trolley G1,Trolley,5,66,7,,Trolley,,No
+196,Girard Av & 29th St,Trolley G1,Trolley,5,66,6,,Trolley,,No
+197,Girard Av & 29th St,Trolley G1,Trolley,5,66,6,,Trolley,,No
+198,Girard Av & Berks St,Trolley G1,Trolley,1,66,7,,Trolley,,No
+199,Island Av & Tanager St - F,Trolley T5,Trolley,2,65,3,,Trolley,,No
+200,Island Av & Buist Av,Trolley T5,Trolley,2,65,3,,Trolley,,No
+201,Island Av & Buist Av - FS,Trolley T5,Trolley,2,65,3,,Trolley,,No
+202,Island Av & Tanager St,Trolley T5,Trolley,2,65,3,,Trolley,,No
+203,Lansdowne Av & 56th St,Trolley T1,Trolley,4,64,6,,Trolley,,No
+204,Lansdowne Av & 56th St,Trolley T1,Trolley,4,64,6,,Trolley,,No
+205,Richmond St & Clearfield St,Trolley G1,Trolley,1,61,4,,Trolley,,No
+206,Richmond St & Ann St,Trolley G1,Trolley,1,61,4,,Trolley,,No
+207,Richmond St & Ann St,Trolley G1,Trolley,1,61,4,,Trolley,,No
+208,Richmond St & Clearfield St,Trolley G1,Trolley,1,61,4,,Trolley,,No
+209,Girard Av & Columbia Av,Trolley G1,Trolley,1,60,6,,Trolley,,No
+210,22nd St,Trolley T1,Trolley,2,60,6,,Trolley,,No
+211,22nd St,Trolley T1,Trolley,5,60,6,,Trolley,,No
+212,Baltimore Av & 55th St,Trolley T2,Trolley,3,60,6,,Trolley,,No
+213,Baltimore Av & Florence Av,Trolley T2,Trolley,3,60,6,,Trolley,,No
+214,22nd St,Trolley T2,Trolley,2,60,6,,Trolley,,No
+215,22nd St,Trolley T2,Trolley,5,60,6,,Trolley,,No
+216,Baltimore Av & 55th St,Trolley T2,Trolley,3,60,6,,Trolley,,No
+217,22nd St,Trolley T3,Trolley,2,60,6,,Trolley,,No
+218,22nd St,Trolley T3,Trolley,5,60,6,,Trolley,,No
+219,22nd St,Trolley T4,Trolley,2,60,6,,Trolley,,No
+220,22nd St,Trolley T4,Trolley,5,60,6,,Trolley,,No
+221,22nd St,Trolley T5,Trolley,2,60,6,,Trolley,,No
+222,22nd St,Trolley T5,Trolley,5,60,6,,Trolley,,No
+223,Lansdowne Av & 54th St,Trolley T1,Trolley,4,58,6,,Trolley,,No
+224,Lansdowne Av & 54th St,Trolley T1,Trolley,4,58,6,,Trolley,,No
+225,Lansdowne Av & 55th St,Trolley T1,Trolley,4,58,6,,Trolley,,No
+226,Island Av & 76th St,Trolley T5,Trolley,2,55,2,,Trolley,,No
+227,Elmwood Av & Island Av - M,Trolley T5,Trolley,2,55,2,,Trolley,,No
+228,Elmwood Av & Island Av,Trolley T5,Trolley,2,55,2,,Trolley,,No
+229,Island Av & 76th St,Trolley T5,Trolley,2,55,2,,Trolley,,No
+230,Girard Av & Merion Av,Trolley G1,Trolley,4,54,6,,Trolley,,No
+231,Girard Av & Merion Av,Trolley G1,Trolley,3,54,6,,Trolley,,No
+232,Somerset,Market/Frankford Line,BSL/MFL,7,50,,32.0,Tier 3 - Moderate Candidate,10,Yes
+233,Richmond St & Girard Av,Trolley G1,Trolley,1,50,5,,Trolley,,No
+234,Girard Av & Richmond St,Trolley G1,Trolley,1,50,5,,Trolley,,No
+235,Baltimore Av & 56th St,Trolley T2,Trolley,3,50,5,,Trolley,,No
+236,Baltimore Av & 56th St,Trolley T2,Trolley,3,50,5,,Trolley,,No
+237,Lancaster Av & 48th St,Trolley T1,Trolley,3,48,6,,Trolley,,No
+238,East Falls,Regional Rail,Regional Rail,4,46,2,,Regional Rail,,No
+239,Lancaster Av & 36th St,Trolley T1,Trolley,3,46,5,,Trolley,,No
+240,Hunting Park,Broad Street Line,BSL/MFL,5,45,,27.4,Tier 4 - Lower Priority,16,No
+241,Manayunk,Regional Rail,Regional Rail,4,44,5,,Regional Rail,,No
+242,Church,Market/Frankford Line,BSL/MFL,7,42,,29.6,Tier 4 - Lower Priority,13,No
+243,Richmond St & Allegheny Av,Trolley G1,Trolley,6,41,2,,Trolley,,No
+244,Richmond St & Allegheny Av,Trolley G1,Trolley,1,41,2,,Trolley,,No
+245,63rd Street,Market/Frankford Line,BSL/MFL,3,40,,29.7,Tier 4 - Lower Priority,12,Yes
+246,Germantown,Regional Rail,Regional Rail,8,40,4,,Regional Rail,,No
+247,Woodland Av & 50th St,Trolley T2,Trolley,3,40,4,,Trolley,,No
+248,Woodland Av & 53rd St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+249,Woodland Av & 52nd St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+250,Woodland Av & 51st St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+251,Woodland Av & 50th St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+252,Woodland Av & 50th St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+253,Woodland Av & 51st St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+254,Woodland Av & 52nd St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+255,Woodland Av & 53rd St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+256,Woodland Av & 54th St,Trolley T4,Trolley,3,40,4,,Trolley,,No
+257,Chester Av & 55th St,Trolley T3,Trolley,3,39,4,,Trolley,,No
+258,Chester Av & 55th St,Trolley T3,Trolley,3,39,4,,Trolley,,No
+259,Olney Transportation Center,Broad Street Line,BSL/MFL,9,36,,28.5,Tier 4 - Lower Priority,14,No
+260,Girard Av & Palmer St,Trolley G1,Trolley,5,36,4,,Trolley,,No
+261,Girard Av & Palmer St,Trolley G1,Trolley,5,36,4,,Trolley,,No
+262,36th St & Lancaster Av,Trolley T1,Trolley,3,36,4,,Trolley,,No
+263,Lancaster Av & 50th St,Trolley T1,Trolley,4,33,4,,Trolley,,No
+264,Lancaster Av & 50th St,Trolley T1,Trolley,4,33,4,,Trolley,,No
+265,Arrott Transportation Center,Market/Frankford Line,BSL/MFL,7,30,,27.4,Tier 4 - Lower Priority,15,No
+266,Wayne Junction,Regional Rail,Regional Rail,8,30,3,,Regional Rail,,No
+267,Upsal,Regional Rail,Regional Rail,8,30,3,,Regional Rail,,No
+268,Girard Av & 31st St,Trolley G1,Trolley,4,30,3,,Trolley,,No
+269,Girard Av & 56th St,Trolley G1,Trolley,4,30,3,,Trolley,,No
+270,Girard Av & 61st St,Trolley G1,Trolley,4,30,3,,Trolley,,No
+271,Girard Av & 56th St,Trolley G1,Trolley,4,30,3,,Trolley,,No
+272,Baltimore Av & 48th St,Trolley T2,Trolley,3,30,3,,Trolley,,No
+273,Woodland Av & 54th St,Trolley T4,Trolley,3,30,3,,Trolley,,No
+274,Girard Av & 63rd St - MBFS,Trolley G1,Trolley,4,26,3,,Trolley,,No
+275,Girard Av & 63rd St - MBFS,Trolley G1,Trolley,4,26,3,,Trolley,,No
+276,Elmwood Av & 59th St,Trolley T5,Trolley,2,26,2,,Trolley,,No
+277,Elmwood Av & 58th St,Trolley T5,Trolley,2,26,2,,Trolley,,No
+278,Elmwood Av & 57th St,Trolley T5,Trolley,2,26,2,,Trolley,,No
+279,Elmwood Av & 56th St,Trolley T5,Trolley,2,26,2,,Trolley,,No
+280,Elmwood Av & 56th St,Trolley T5,Trolley,2,26,2,,Trolley,,No
+281,Elmwood Av & 57th St,Trolley T5,Trolley,2,26,2,,Trolley,,No
+282,Elmwood Av & 58th St,Trolley T5,Trolley,2,26,2,,Trolley,,No
+283,Elmwood Av & 59th St,Trolley T5,Trolley,2,26,2,,Trolley,,No
+284,Lancaster Av & Thompson St,Trolley T1,Trolley,4,23,3,,Trolley,,No
+285,60th Street,Market/Frankford Line,BSL/MFL,3,22,,26.2,Tier 4 - Lower Priority,17,Yes
+286,Queen Lane,Regional Rail,Regional Rail,8,20,2,,Regional Rail,,No
+287,Richmond St & Cambria St,Trolley G1,Trolley,1,20,2,,Trolley,,No
+288,Richmond St & Somerset St,Trolley G1,Trolley,1,20,2,,Trolley,,No
+289,Richmond St & Lehigh Av,Trolley G1,Trolley,1,20,2,,Trolley,,No
+290,Richmond St & Huntingdon St,Trolley G1,Trolley,1,20,2,,Trolley,,No
+291,Richmond St & Cumberland St,Trolley G1,Trolley,1,20,2,,Trolley,,No
+292,Girard Av & 57th St,Trolley G1,Trolley,4,20,2,,Trolley,,No
+293,Girard Av & 62nd St,Trolley G1,Trolley,4,20,2,,Trolley,,No
+294,Girard Av & 31st St,Trolley G1,Trolley,4,20,2,,Trolley,,No
+295,Richmond St & Cumberland St,Trolley G1,Trolley,1,20,2,,Trolley,,No
+296,Richmond St & Huntingdon St,Trolley G1,Trolley,1,20,2,,Trolley,,No
+297,Richmond St & Lehigh Av,Trolley G1,Trolley,1,20,2,,Trolley,,No
+298,Richmond St & Somerset St,Trolley G1,Trolley,1,20,2,,Trolley,,No
+299,Richmond St & Cambria St,Trolley G1,Trolley,1,20,2,,Trolley,,No
+300,63rd-Malvern,Trolley T1,Trolley,4,20,2,,Trolley,,No
+301,Malvern Av & 63rd St,Trolley T1,Trolley,4,20,2,,Trolley,,No
+302,63rd St & Lebanon Av,Trolley T1,Trolley,4,20,2,,Trolley,,No
+303,Lansdowne Av & 59th St,Trolley T1,Trolley,4,20,2,,Trolley,,No
+304,Lansdowne Av & 58th St,Trolley T1,Trolley,4,20,2,,Trolley,,No
+305,Lansdowne Av & 57th St,Trolley T1,Trolley,4,20,2,,Trolley,,No
+306,36th St & Market St,Trolley T1,Trolley,3,20,2,,Trolley,,No
+307,Lansdowne Av & 57th St,Trolley T1,Trolley,4,20,2,,Trolley,,No
+308,Lansdowne Av & 58th St,Trolley T1,Trolley,4,20,2,,Trolley,,No
+309,Lansdowne Av & 59th St,Trolley T1,Trolley,4,20,2,,Trolley,,No
+310,63rd St & Columbia Av,Trolley T1,Trolley,4,20,2,,Trolley,,No
+311,63rd-Malvern,Trolley T1,Trolley,4,20,2,,Trolley,,No
+312,Wyoming,Broad Street Line,BSL/MFL,8,17,,23.4,Tier 4 - Lower Priority,22,No
+313,Cecil B Moore,Broad Street Line,BSL/MFL,5,17,,21.6,Tier 4 - Lower Priority,28,No
+314,Baltimore Av & 46th St,Trolley T2,Trolley,3,15,1,,Trolley,,No
+315,Baltimore Av & 45th St,Trolley T2,Trolley,3,15,1,,Trolley,,No
+316,Baltimore Av & 45th St,Trolley T2,Trolley,3,15,1,,Trolley,,No
+317,Baltimore Av & 46th St,Trolley T2,Trolley,3,15,1,,Trolley,,No
+318,Angora,Regional Rail,Regional Rail,3,10,1,,Regional Rail,,No
+319,Wissahickon,Regional Rail,Regional Rail,4,10,1,,Regional Rail,,No
+320,Wister,Regional Rail,Regional Rail,8,10,1,,Regional Rail,,No
+321,Tulpehocken,Regional Rail,Regional Rail,8,10,1,,Regional Rail,,No
+322,Ivy Ridge,Regional Rail,Regional Rail,4,10,1,,Regional Rail,,No
+323,Carpenter,Regional Rail,Regional Rail,8,10,1,,Regional Rail,,No
+324,Allen Lane,Regional Rail,Regional Rail,8,10,1,,Regional Rail,,No
+325,Girard Av & 33rd St,Trolley G1,Trolley,4,10,1,,Trolley,,No
+326,Girard Av & 49th St,Trolley G1,Trolley,4,10,1,,Trolley,,No
+327,Girard Av & 59th St,Trolley G1,Trolley,4,10,1,,Trolley,,No
+328,Girard Av & 60th St,Trolley G1,Trolley,4,10,1,,Trolley,,No
+329,Girard Av & 60th St,Trolley G1,Trolley,4,10,1,,Trolley,,No
+330,Girard Av & 59th St,Trolley G1,Trolley,4,10,1,,Trolley,,No
+331,Girard Av & 57th St,Trolley G1,Trolley,4,10,1,,Trolley,,No
+332,Girard Av & Lancaster Av,Trolley G1,Trolley,3,10,1,,Trolley,,No
+333,Girard Av & 34th St - MBFS,Trolley G1,Trolley,3,10,1,,Trolley,,No
+334,63rd St & Jefferson St,Trolley T1,Trolley,4,10,1,,Trolley,,No
+335,Lansdowne Av & 62nd St,Trolley T1,Trolley,4,10,1,,Trolley,,No
+336,Lansdowne Av & 61st St,Trolley T1,Trolley,4,10,1,,Trolley,,No
+337,Lancaster Av & Girard Av,Trolley T1,Trolley,4,10,1,,Trolley,,No
+338,36th St Trolley Portal Station,Trolley T1,Trolley,3,10,1,,Trolley,,No
+339,15th St/City Hall,Trolley T1,Trolley,5,10,1,,Trolley,,No
+340,15th St/City Hall,Trolley T1,Trolley,5,10,1,,Trolley,,No
+341,36th St Trolley Portal Station,Trolley T1,Trolley,3,10,1,,Trolley,,No
+342,Lancaster Av & 49th St,Trolley T1,Trolley,4,10,1,,Trolley,,No
+343,Lansdowne Av & 61st St,Trolley T1,Trolley,4,10,1,,Trolley,,No
+344,Lansdowne Av & 62nd St,Trolley T1,Trolley,4,10,1,,Trolley,,No
+345,63rd St & Jefferson St,Trolley T1,Trolley,4,10,1,,Trolley,,No
+346,Elmwood Av & 73rd St,Trolley T2,Trolley,2,10,1,,Trolley,,No
+347,Woodland Av & Island Av,Trolley T2,Trolley,2,10,1,,Trolley,,No
+348,49th St & Woodland Av,Trolley T2,Trolley,3,10,1,,Trolley,,No
+349,Baltimore Av & 57th St,Trolley T2,Trolley,3,10,1,,Trolley,,No
+350,36th-Sansom,Trolley T2,Trolley,3,10,1,,Trolley,,No
+351,15th St/City Hall,Trolley T2,Trolley,5,10,1,,Trolley,,No
+352,15th St/City Hall,Trolley T2,Trolley,5,10,1,,Trolley,,No
+353,36th-Sansom,Trolley T2,Trolley,3,10,1,,Trolley,,No
+354,Woodland Av & Island Av,Trolley T2,Trolley,2,10,1,,Trolley,,No
+355,Elmwood Av & 73rd St,Trolley T2,Trolley,2,10,1,,Trolley,,No
+356,36th-Sansom,Trolley T3,Trolley,3,10,1,,Trolley,,No
+357,15th St/City Hall,Trolley T3,Trolley,5,10,1,,Trolley,,No
+358,15th St/City Hall,Trolley T3,Trolley,5,10,1,,Trolley,,No
+359,36th-Sansom,Trolley T3,Trolley,3,10,1,,Trolley,,No
+360,Chester Av & 56th St,Trolley T3,Trolley,3,10,1,,Trolley,,No
+361,Woodland Av & Island Av,Trolley T4,Trolley,2,10,1,,Trolley,,No
+362,Woodland Av & 72nd St,Trolley T4,Trolley,2,10,1,,Trolley,,No
+363,Woodland Av & 71st St,Trolley T4,Trolley,2,10,1,,Trolley,,No
+364,Woodland Av & 70th St,Trolley T4,Trolley,2,10,1,,Trolley,,No
+365,Woodland Av & 69th St,Trolley T4,Trolley,2,10,1,,Trolley,,No
+366,Woodland Av & 49th St,Trolley T4,Trolley,3,10,1,,Trolley,,No
+367,Woodland Av & 45th St,Trolley T4,Trolley,3,10,1,,Trolley,,No
+368,36th-Sansom,Trolley T4,Trolley,3,10,1,,Trolley,,No
+369,15th St/City Hall,Trolley T4,Trolley,5,10,1,,Trolley,,No
+370,15th St/City Hall,Trolley T4,Trolley,5,10,1,,Trolley,,No
+371,36th-Sansom,Trolley T4,Trolley,3,10,1,,Trolley,,No
+372,Woodland Av & 43rd St,Trolley T4,Trolley,3,10,1,,Trolley,,No
+373,Woodland Av & 49th St,Trolley T4,Trolley,3,10,1,,Trolley,,No
+374,Woodland Av & 69th St,Trolley T4,Trolley,2,10,1,,Trolley,,No
+375,Woodland Av & 70th St,Trolley T4,Trolley,2,10,1,,Trolley,,No
+376,Woodland Av & 71st St,Trolley T4,Trolley,2,10,1,,Trolley,,No
+377,Woodland Av & 72nd St,Trolley T4,Trolley,2,10,1,,Trolley,,No
+378,Woodland Av & Island Av,Trolley T4,Trolley,2,10,1,,Trolley,,No
+379,Elmwood Loop,Trolley T5,Trolley,2,10,1,,Trolley,,No
+380,Elmwood Av & 73rd St,Trolley T5,Trolley,2,10,1,,Trolley,,No
+381,49th St & Paschall Av,Trolley T5,Trolley,3,10,1,,Trolley,,No
+382,49th St & Woodland Av,Trolley T5,Trolley,3,10,1,,Trolley,,No
+383,Woodland Av & 45th St,Trolley T5,Trolley,3,10,1,,Trolley,,No
+384,36th-Sansom,Trolley T5,Trolley,3,10,1,,Trolley,,No
+385,15th St/City Hall,Trolley T5,Trolley,5,10,1,,Trolley,,No
+386,15th St/City Hall,Trolley T5,Trolley,5,10,1,,Trolley,,No
+387,36th-Sansom,Trolley T5,Trolley,3,10,1,,Trolley,,No
+388,Woodland Av & 43rd St,Trolley T5,Trolley,3,10,1,,Trolley,,No
+389,Woodland Av & 49th St,Trolley T5,Trolley,3,10,1,,Trolley,,No
+390,49th St & Paschall Av,Trolley T5,Trolley,3,10,1,,Trolley,,No
+391,Elmwood Av & 73rd St,Trolley T5,Trolley,2,10,1,,Trolley,,No
+392,Elmwood Loop,Trolley T5,Trolley,2,10,1,,Trolley,,No
+393,56th Street,Market/Frankford Line,BSL/MFL,4,9,,25.9,Tier 4 - Lower Priority,18,Yes
+394,Tasker-Morris,Broad Street Line,BSL/MFL,1,6,,22.7,Tier 4 - Lower Priority,25,No
+395,Snyder,Broad Street Line,BSL/MFL,1,3,,25.3,Tier 4 - Lower Priority,19,No
+396,Allegheny,Broad Street Line,BSL/MFL,5,3,,24.3,Tier 4 - Lower Priority,20,No
+397,Logan,Broad Street Line,BSL/MFL,9,3,,22.8,Tier 4 - Lower Priority,23,No
+398,Allegheny,Market/Frankford Line,BSL/MFL,7,3,,22.8,Tier 4 - Lower Priority,24,Yes
+399,Frankford Transportation Center,Market/Frankford Line,BSL/MFL,7,3,,22.0,Tier 4 - Lower Priority,26,Yes
+400,Oregon,Broad Street Line,BSL/MFL,2,0,,23.9,Tier 4 - Lower Priority,21,No
+401,Tioga,Market/Frankford Line,BSL/MFL,6,0,,21.9,Tier 4 - Lower Priority,27,Yes
+402,Erie-Torresdale,Market/Frankford Line,BSL/MFL,6,0,,21.3,Tier 4 - Lower Priority,29,Yes
+403,AT&T Station,Broad Street Line,BSL/MFL,2,0,,19.1,Tier 4 - Lower Priority,30,No
+404,Market East,Regional Rail,Regional Rail,1,0,,,Regional Rail,,No
+405,University City,Regional Rail,Regional Rail,3,0,,,Regional Rail,,No
+406,Allegheny,Regional Rail,Regional Rail,8,0,,,Regional Rail,,No
+407,Wynnefield Avenue,Regional Rail,Regional Rail,4,0,,,Regional Rail,,No
+408,Eastwick,Regional Rail,Regional Rail,2,0,,,Regional Rail,,No
+409,Olney,Regional Rail,Regional Rail,9,0,,,Regional Rail,,No
+410,Fern Rock T C,Regional Rail,Regional Rail,9,0,,,Regional Rail,,No
+411,Airport Terminal E F,Regional Rail,Regional Rail,2,0,,,Regional Rail,,No
+412,Bridesburg,Regional Rail,Regional Rail,6,0,,,Regional Rail,,No
+413,Airport Terminal C D,Regional Rail,Regional Rail,2,0,,,Regional Rail,,No
+414,Airport Terminal B,Regional Rail,Regional Rail,2,0,,,Regional Rail,,No
+415,Airport Terminal A,Regional Rail,Regional Rail,2,0,,,Regional Rail,,No
+416,Washington Lane,Regional Rail,Regional Rail,8,0,,,Regional Rail,,No
+417,Stenton,Regional Rail,Regional Rail,8,0,,,Regional Rail,,No

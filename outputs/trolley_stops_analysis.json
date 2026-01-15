@@ -1,0 +1,7044 @@
+{
+  "radius_meters": 402,
+  "radius_description": "1/4 mile (402 meters)",
+  "total_stops": 506,
+  "stops_with_activity": 351,
+  "total_permits_captured": 3488,
+  "total_units_captured": 46426,
+  "stop_rankings": [
+    {
+      "stop_id": 20634,
+      "stop_name": "Lancaster Av & 41st St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.965093,
+      "lon": -75.205564,
+      "permits": 70,
+      "units": 660
+    },
+    {
+      "stop_id": 20671,
+      "stop_name": "Lancaster Av & 41st St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.965102,
+      "lon": -75.205386,
+      "permits": 70,
+      "units": 653
+    },
+    {
+      "stop_id": 21005,
+      "stop_name": "Girard Av & 16th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.971908,
+      "lon": -75.162605,
+      "permits": 54,
+      "units": 622
+    },
+    {
+      "stop_id": 21083,
+      "stop_name": "Girard Av & 16th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.971828,
+      "lon": -75.162806,
+      "permits": 54,
+      "units": 622
+    },
+    {
+      "stop_id": 20670,
+      "stop_name": "Lancaster Av & Wallace St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.963857,
+      "lon": -75.203371,
+      "permits": 64,
+      "units": 619
+    },
+    {
+      "stop_id": 20669,
+      "stop_name": "Lancaster Av & Haverford Av",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.9629,
+      "lon": -75.201826,
+      "permits": 62,
+      "units": 588
+    },
+    {
+      "stop_id": 20672,
+      "stop_name": "Lancaster Av & 42nd St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.966399,
+      "lon": -75.207485,
+      "permits": 64,
+      "units": 583
+    },
+    {
+      "stop_id": 20673,
+      "stop_name": "Lancaster Av & Parrish St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.96767,
+      "lon": -75.20956,
+      "permits": 62,
+      "units": 577
+    },
+    {
+      "stop_id": 21082,
+      "stop_name": "Girard Av & 17th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972028,
+      "lon": -75.164352,
+      "permits": 55,
+      "units": 560
+    },
+    {
+      "stop_id": 20635,
+      "stop_name": "Lancaster Av & 40th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.963151,
+      "lon": -75.20244,
+      "permits": 57,
+      "units": 551
+    },
+    {
+      "stop_id": 21006,
+      "stop_name": "Girard Av & 17th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972116,
+      "lon": -75.164151,
+      "permits": 53,
+      "units": 546
+    },
+    {
+      "stop_id": 20633,
+      "stop_name": "Lancaster Av & 42nd St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.966391,
+      "lon": -75.207662,
+      "permits": 59,
+      "units": 540
+    },
+    {
+      "stop_id": 20632,
+      "stop_name": "Lancaster Av & 43th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.967725,
+      "lon": -75.209878,
+      "permits": 57,
+      "units": 527
+    },
+    {
+      "stop_id": 21061,
+      "stop_name": "Girard Av & 42nd St",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.973542,
+      "lon": -75.208975,
+      "permits": 57,
+      "units": 526
+    },
+    {
+      "stop_id": 21027,
+      "stop_name": "Girard Av & 42nd St",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.973658,
+      "lon": -75.208797,
+      "permits": 55,
+      "units": 506
+    },
+    {
+      "stop_id": 21008,
+      "stop_name": "Girard Av & Ridge Av",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.97238,
+      "lon": -75.166217,
+      "permits": 48,
+      "units": 502
+    },
+    {
+      "stop_id": 21081,
+      "stop_name": "Girard Av & Ridge Av",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972309,
+      "lon": -75.166572,
+      "permits": 48,
+      "units": 502
+    },
+    {
+      "stop_id": 20636,
+      "stop_name": "Lancaster Av & Spring Garden St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.962004,
+      "lon": -75.200353,
+      "permits": 51,
+      "units": 456
+    },
+    {
+      "stop_id": 21062,
+      "stop_name": "Girard Av & 41st St",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.973823,
+      "lon": -75.206528,
+      "permits": 50,
+      "units": 448
+    },
+    {
+      "stop_id": 352,
+      "stop_name": "Girard Av & Broad St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.971428,
+      "lon": -75.159594,
+      "permits": 25,
+      "units": 442
+    },
+    {
+      "stop_id": 21026,
+      "stop_name": "Girard Av & 41st St",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.973966,
+      "lon": -75.206268,
+      "permits": 49,
+      "units": 438
+    },
+    {
+      "stop_id": 20668,
+      "stop_name": "Lancaster Av & Spring Garden St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.961923,
+      "lon": -75.199952,
+      "permits": 49,
+      "units": 436
+    },
+    {
+      "stop_id": 343,
+      "stop_name": "Girard Av & Broad St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.971499,
+      "lon": -75.159275,
+      "permits": 23,
+      "units": 422
+    },
+    {
+      "stop_id": 20993,
+      "stop_name": "Girard Av & 2nd St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.9695,
+      "lon": -75.13945,
+      "permits": 22,
+      "units": 406
+    },
+    {
+      "stop_id": 30290,
+      "stop_name": "Girard Av & 19th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972507,
+      "lon": -75.167339,
+      "permits": 38,
+      "units": 406
+    },
+    {
+      "stop_id": 21096,
+      "stop_name": "Girard Av & 2nd St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.969439,
+      "lon": -75.139805,
+      "permits": 20,
+      "units": 386
+    },
+    {
+      "stop_id": 20978,
+      "stop_name": "Girard Av & Front St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.968851,
+      "lon": -75.136358,
+      "permits": 21,
+      "units": 386
+    },
+    {
+      "stop_id": 20674,
+      "stop_name": "Lancaster Av & Ogden St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.968565,
+      "lon": -75.210998,
+      "permits": 40,
+      "units": 378
+    },
+    {
+      "stop_id": 342,
+      "stop_name": "Girard Av & Front St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.968903,
+      "lon": -75.136075,
+      "permits": 20,
+      "units": 376
+    },
+    {
+      "stop_id": 20998,
+      "stop_name": "Girard Av & 7th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970484,
+      "lon": -75.148022,
+      "permits": 31,
+      "units": 363
+    },
+    {
+      "stop_id": 21091,
+      "stop_name": "Girard Av & 7th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970386,
+      "lon": -75.148211,
+      "permits": 30,
+      "units": 353
+    },
+    {
+      "stop_id": 20999,
+      "stop_name": "Girard Av & 8th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970568,
+      "lon": -75.149853,
+      "permits": 29,
+      "units": 351
+    },
+    {
+      "stop_id": 31540,
+      "stop_name": "Frankford Av & Girard Av - FS",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.96865,
+      "lon": -75.134493,
+      "permits": 21,
+      "units": 346
+    },
+    {
+      "stop_id": 481,
+      "stop_name": "Frankford Av & Girard Av",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.968774,
+      "lon": -75.134351,
+      "permits": 21,
+      "units": 346
+    },
+    {
+      "stop_id": 31540,
+      "stop_name": "Frankford Av & Girard Av - FS",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.96865,
+      "lon": -75.134493,
+      "permits": 21,
+      "units": 346
+    },
+    {
+      "stop_id": 21080,
+      "stop_name": "Girard Av & 19th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972427,
+      "lon": -75.16754,
+      "permits": 31,
+      "units": 344
+    },
+    {
+      "stop_id": 20631,
+      "stop_name": "Lancaster Av & 44th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.968772,
+      "lon": -75.211541,
+      "permits": 36,
+      "units": 339
+    },
+    {
+      "stop_id": 20675,
+      "stop_name": "Lancaster Av & Westminster St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.969353,
+      "lon": -75.212283,
+      "permits": 35,
+      "units": 337
+    },
+    {
+      "stop_id": 21098,
+      "stop_name": "Girard Av & Frankford Av- FS",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.968855,
+      "lon": -75.134244,
+      "permits": 20,
+      "units": 336
+    },
+    {
+      "stop_id": 20643,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.954815,
+      "lon": -75.1835,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20662,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.954894,
+      "lon": -75.183169,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20643,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.954815,
+      "lon": -75.1835,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20662,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.954894,
+      "lon": -75.183169,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20643,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.954815,
+      "lon": -75.1835,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20662,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.954894,
+      "lon": -75.183169,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20643,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.954815,
+      "lon": -75.1835,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20662,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.954894,
+      "lon": -75.183169,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20643,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.954815,
+      "lon": -75.1835,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 20662,
+      "stop_name": "Drexel Station at 30th St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.954894,
+      "lon": -75.183169,
+      "permits": 2,
+      "units": 336
+    },
+    {
+      "stop_id": 21090,
+      "stop_name": "Girard Av & 8th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.97047,
+      "lon": -75.150042,
+      "permits": 27,
+      "units": 331
+    },
+    {
+      "stop_id": 20658,
+      "stop_name": "33rd St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.954871,
+      "lon": -75.189499,
+      "permits": 1,
+      "units": 326
+    },
+    {
+      "stop_id": 20658,
+      "stop_name": "33rd St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.954871,
+      "lon": -75.189499,
+      "permits": 1,
+      "units": 326
+    },
+    {
+      "stop_id": 20658,
+      "stop_name": "33rd St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.954871,
+      "lon": -75.189499,
+      "permits": 1,
+      "units": 326
+    },
+    {
+      "stop_id": 20658,
+      "stop_name": "33rd St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.954871,
+      "lon": -75.189499,
+      "permits": 1,
+      "units": 326
+    },
+    {
+      "stop_id": 20658,
+      "stop_name": "33rd St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.954871,
+      "lon": -75.189499,
+      "permits": 1,
+      "units": 326
+    },
+    {
+      "stop_id": 24038,
+      "stop_name": "Frankford Av & Richmond St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.966124,
+      "lon": -75.134492,
+      "permits": 17,
+      "units": 306
+    },
+    {
+      "stop_id": 23992,
+      "stop_name": "Frankford Av & Richmond St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.966008,
+      "lon": -75.134338,
+      "permits": 17,
+      "units": 306
+    },
+    {
+      "stop_id": 24038,
+      "stop_name": "Frankford Av & Richmond St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.966124,
+      "lon": -75.134492,
+      "permits": 17,
+      "units": 306
+    },
+    {
+      "stop_id": 23992,
+      "stop_name": "Frankford Av & Richmond St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.966008,
+      "lon": -75.134338,
+      "permits": 17,
+      "units": 306
+    },
+    {
+      "stop_id": 21009,
+      "stop_name": "Girard Av & 20th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972715,
+      "lon": -75.168874,
+      "permits": 26,
+      "units": 296
+    },
+    {
+      "stop_id": 20630,
+      "stop_name": "Lancaster Av & 45th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.969667,
+      "lon": -75.212991,
+      "permits": 31,
+      "units": 291
+    },
+    {
+      "stop_id": 21010,
+      "stop_name": "Girard Av & Corinthian Av",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972888,
+      "lon": -75.17022,
+      "permits": 30,
+      "units": 287
+    },
+    {
+      "stop_id": 21079,
+      "stop_name": "Girard Av & 20th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972636,
+      "lon": -75.169087,
+      "permits": 25,
+      "units": 286
+    },
+    {
+      "stop_id": 21078,
+      "stop_name": "Girard Av & Corinthian Av",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972817,
+      "lon": -75.170421,
+      "permits": 29,
+      "units": 277
+    },
+    {
+      "stop_id": 21060,
+      "stop_name": "Girard Av & Belmont Av - FS",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.973208,
+      "lon": -75.211964,
+      "permits": 29,
+      "units": 267
+    },
+    {
+      "stop_id": 21028,
+      "stop_name": "Girard Av & Belmont Av",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.973315,
+      "lon": -75.212094,
+      "permits": 27,
+      "units": 247
+    },
+    {
+      "stop_id": 20646,
+      "stop_name": "19th St",
+      "route": "T1",
+      "district": "5",
+      "lat": 39.953327,
+      "lon": -75.171637,
+      "permits": 4,
+      "units": 245
+    },
+    {
+      "stop_id": 20646,
+      "stop_name": "19th St",
+      "route": "T2",
+      "district": "5",
+      "lat": 39.953327,
+      "lon": -75.171637,
+      "permits": 4,
+      "units": 245
+    },
+    {
+      "stop_id": 20646,
+      "stop_name": "19th St",
+      "route": "T3",
+      "district": "5",
+      "lat": 39.953327,
+      "lon": -75.171637,
+      "permits": 4,
+      "units": 245
+    },
+    {
+      "stop_id": 20646,
+      "stop_name": "19th St",
+      "route": "T4",
+      "district": "5",
+      "lat": 39.953327,
+      "lon": -75.171637,
+      "permits": 4,
+      "units": 245
+    },
+    {
+      "stop_id": 20646,
+      "stop_name": "19th St",
+      "route": "T5",
+      "district": "5",
+      "lat": 39.953327,
+      "lon": -75.171637,
+      "permits": 4,
+      "units": 245
+    },
+    {
+      "stop_id": 20660,
+      "stop_name": "19th St",
+      "route": "T1",
+      "district": "5",
+      "lat": 39.953425,
+      "lon": -75.171483,
+      "permits": 3,
+      "units": 235
+    },
+    {
+      "stop_id": 20660,
+      "stop_name": "19th St",
+      "route": "T2",
+      "district": "5",
+      "lat": 39.953425,
+      "lon": -75.171483,
+      "permits": 3,
+      "units": 235
+    },
+    {
+      "stop_id": 20660,
+      "stop_name": "19th St",
+      "route": "T3",
+      "district": "5",
+      "lat": 39.953425,
+      "lon": -75.171483,
+      "permits": 3,
+      "units": 235
+    },
+    {
+      "stop_id": 20660,
+      "stop_name": "19th St",
+      "route": "T4",
+      "district": "5",
+      "lat": 39.953425,
+      "lon": -75.171483,
+      "permits": 3,
+      "units": 235
+    },
+    {
+      "stop_id": 20660,
+      "stop_name": "19th St",
+      "route": "T5",
+      "district": "5",
+      "lat": 39.953425,
+      "lon": -75.171483,
+      "permits": 3,
+      "units": 235
+    },
+    {
+      "stop_id": 350,
+      "stop_name": "Girard Av & 40th St",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.974043,
+      "lon": -75.204531,
+      "permits": 26,
+      "units": 228
+    },
+    {
+      "stop_id": 21093,
+      "stop_name": "Girard Av & 5th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970129,
+      "lon": -75.145094,
+      "permits": 22,
+      "units": 227
+    },
+    {
+      "stop_id": 344,
+      "stop_name": "Girard Av & 40th St - FS",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.974159,
+      "lon": -75.204543,
+      "permits": 24,
+      "units": 220
+    },
+    {
+      "stop_id": 20996,
+      "stop_name": "Girard Av & 5th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970218,
+      "lon": -75.144905,
+      "permits": 21,
+      "units": 217
+    },
+    {
+      "stop_id": 21002,
+      "stop_name": "Girard Av & 12th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.971045,
+      "lon": -75.155603,
+      "permits": 7,
+      "units": 205
+    },
+    {
+      "stop_id": 21086,
+      "stop_name": "Girard Av & 12th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970965,
+      "lon": -75.155816,
+      "permits": 7,
+      "units": 205
+    },
+    {
+      "stop_id": 20995,
+      "stop_name": "Girard Av & 4th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.96999,
+      "lon": -75.142968,
+      "permits": 14,
+      "units": 187
+    },
+    {
+      "stop_id": 31289,
+      "stop_name": "Frankford Av & Delaware Av - FS",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.965205,
+      "lon": -75.134342,
+      "permits": 14,
+      "units": 179
+    },
+    {
+      "stop_id": 31289,
+      "stop_name": "Frankford Av & Delaware Av - FS",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.965205,
+      "lon": -75.134342,
+      "permits": 14,
+      "units": 179
+    },
+    {
+      "stop_id": 20994,
+      "stop_name": "Girard Av & 3rd St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.969799,
+      "lon": -75.141386,
+      "permits": 13,
+      "units": 177
+    },
+    {
+      "stop_id": 21095,
+      "stop_name": "Girard Av & 3rd St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.969711,
+      "lon": -75.141599,
+      "permits": 13,
+      "units": 177
+    },
+    {
+      "stop_id": 20638,
+      "stop_name": "Lancaster Av & 38th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.960267,
+      "lon": -75.197016,
+      "permits": 19,
+      "units": 174
+    },
+    {
+      "stop_id": 24039,
+      "stop_name": "Frankford Av & Delaware Av",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.964812,
+      "lon": -75.134485,
+      "permits": 13,
+      "units": 169
+    },
+    {
+      "stop_id": 31347,
+      "stop_name": "Frankford Av & Delaware Av Loop",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.964945,
+      "lon": -75.134154,
+      "permits": 13,
+      "units": 169
+    },
+    {
+      "stop_id": 24039,
+      "stop_name": "Frankford Av & Delaware Av",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.964812,
+      "lon": -75.134485,
+      "permits": 13,
+      "units": 169
+    },
+    {
+      "stop_id": 31347,
+      "stop_name": "Frankford Av & Delaware Av Loop",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.964945,
+      "lon": -75.134154,
+      "permits": 13,
+      "units": 169
+    },
+    {
+      "stop_id": 279,
+      "stop_name": "40th St & Filbert St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.957929,
+      "lon": -75.201901,
+      "permits": 16,
+      "units": 161
+    },
+    {
+      "stop_id": 279,
+      "stop_name": "40th St & Filbert St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.957929,
+      "lon": -75.201901,
+      "permits": 16,
+      "units": 161
+    },
+    {
+      "stop_id": 20663,
+      "stop_name": "Lancaster Av & 38th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.96024,
+      "lon": -75.196721,
+      "permits": 17,
+      "units": 158
+    },
+    {
+      "stop_id": 321,
+      "stop_name": "Chester Av & 49th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.944041,
+      "lon": -75.216622,
+      "permits": 9,
+      "units": 157
+    },
+    {
+      "stop_id": 21016,
+      "stop_name": "Girard Av & 26th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.973976,
+      "lon": -75.178733,
+      "permits": 15,
+      "units": 156
+    },
+    {
+      "stop_id": 21071,
+      "stop_name": "Girard Av & 26th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.973896,
+      "lon": -75.178946,
+      "permits": 15,
+      "units": 156
+    },
+    {
+      "stop_id": 20797,
+      "stop_name": "Chester Av & 51st St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.942349,
+      "lon": -75.219048,
+      "permits": 16,
+      "units": 155
+    },
+    {
+      "stop_id": 20814,
+      "stop_name": "Chester Av & 51st St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.942519,
+      "lon": -75.219012,
+      "permits": 16,
+      "units": 155
+    },
+    {
+      "stop_id": 21248,
+      "stop_name": "40th-Market",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.957259,
+      "lon": -75.202021,
+      "permits": 15,
+      "units": 151
+    },
+    {
+      "stop_id": 21248,
+      "stop_name": "40th-Market",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.957259,
+      "lon": -75.202021,
+      "permits": 15,
+      "units": 151
+    },
+    {
+      "stop_id": 21248,
+      "stop_name": "40th-Market",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.957259,
+      "lon": -75.202021,
+      "permits": 15,
+      "units": 151
+    },
+    {
+      "stop_id": 21248,
+      "stop_name": "40th-Market",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.957259,
+      "lon": -75.202021,
+      "permits": 15,
+      "units": 151
+    },
+    {
+      "stop_id": 21248,
+      "stop_name": "40th-Market",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.957259,
+      "lon": -75.202021,
+      "permits": 15,
+      "units": 151
+    },
+    {
+      "stop_id": 21248,
+      "stop_name": "40th-Market",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.957259,
+      "lon": -75.202021,
+      "permits": 15,
+      "units": 151
+    },
+    {
+      "stop_id": 21248,
+      "stop_name": "40th-Market",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.957259,
+      "lon": -75.202021,
+      "permits": 15,
+      "units": 151
+    },
+    {
+      "stop_id": 21248,
+      "stop_name": "40th-Market",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.957259,
+      "lon": -75.202021,
+      "permits": 15,
+      "units": 151
+    },
+    {
+      "stop_id": 20868,
+      "stop_name": "Baltimore Av & 51st St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947715,
+      "lon": -75.225456,
+      "permits": 12,
+      "units": 147
+    },
+    {
+      "stop_id": 21001,
+      "stop_name": "Girard Av & 11th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970845,
+      "lon": -75.154021,
+      "permits": 6,
+      "units": 146
+    },
+    {
+      "stop_id": 21017,
+      "stop_name": "Girard Av & 27th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.974202,
+      "lon": -75.18028,
+      "permits": 14,
+      "units": 146
+    },
+    {
+      "stop_id": 21075,
+      "stop_name": "College Av & 24th St - FS",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.97239,
+      "lon": -75.175384,
+      "permits": 14,
+      "units": 146
+    },
+    {
+      "stop_id": 21087,
+      "stop_name": "Girard Av & 11th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970756,
+      "lon": -75.154222,
+      "permits": 6,
+      "units": 146
+    },
+    {
+      "stop_id": 20796,
+      "stop_name": "Chester Av & 52nd St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.941539,
+      "lon": -75.220184,
+      "permits": 15,
+      "units": 143
+    },
+    {
+      "stop_id": 20815,
+      "stop_name": "Chester Av & 52nd St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.941726,
+      "lon": -75.220124,
+      "permits": 15,
+      "units": 143
+    },
+    {
+      "stop_id": 20887,
+      "stop_name": "Baltimore Av & 51st St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.94783,
+      "lon": -75.225266,
+      "permits": 11,
+      "units": 137
+    },
+    {
+      "stop_id": 20889,
+      "stop_name": "Baltimore Av & 53rd St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947846,
+      "lon": -75.229317,
+      "permits": 11,
+      "units": 137
+    },
+    {
+      "stop_id": 322,
+      "stop_name": "Chester Av & 49th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.944281,
+      "lon": -75.216527,
+      "permits": 7,
+      "units": 137
+    },
+    {
+      "stop_id": 30791,
+      "stop_name": "Girard Av & 24th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972453,
+      "lon": -75.175844,
+      "permits": 13,
+      "units": 136
+    },
+    {
+      "stop_id": 21014,
+      "stop_name": "Poplar St & 25th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972492,
+      "lon": -75.177403,
+      "permits": 13,
+      "units": 136
+    },
+    {
+      "stop_id": 21063,
+      "stop_name": "Girard Av & 39th St",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.974297,
+      "lon": -75.201802,
+      "permits": 15,
+      "units": 134
+    },
+    {
+      "stop_id": 20866,
+      "stop_name": "Baltimore Av & 53rd St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947766,
+      "lon": -75.229612,
+      "permits": 10,
+      "units": 127
+    },
+    {
+      "stop_id": 20888,
+      "stop_name": "Baltimore Av & 52nd St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947842,
+      "lon": -75.227309,
+      "permits": 10,
+      "units": 127
+    },
+    {
+      "stop_id": 21073,
+      "stop_name": "Poplar St & Stillman St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.97244,
+      "lon": -75.178171,
+      "permits": 12,
+      "units": 126
+    },
+    {
+      "stop_id": 20795,
+      "stop_name": "Chester Av & 53rd St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.940577,
+      "lon": -75.221556,
+      "permits": 13,
+      "units": 123
+    },
+    {
+      "stop_id": 20816,
+      "stop_name": "Chester Av & 53rd St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.940764,
+      "lon": -75.221485,
+      "permits": 13,
+      "units": 123
+    },
+    {
+      "stop_id": 20867,
+      "stop_name": "Baltimore Av & Broomall St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947727,
+      "lon": -75.227912,
+      "permits": 9,
+      "units": 117
+    },
+    {
+      "stop_id": 20890,
+      "stop_name": "Baltimore Av & 54th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947797,
+      "lon": -75.232139,
+      "permits": 9,
+      "units": 117
+    },
+    {
+      "stop_id": 21032,
+      "stop_name": "Girard Av & 51st St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.971987,
+      "lon": -75.223438,
+      "permits": 10,
+      "units": 113
+    },
+    {
+      "stop_id": 21033,
+      "stop_name": "Girard Av & 52nd St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.971473,
+      "lon": -75.22579,
+      "permits": 10,
+      "units": 113
+    },
+    {
+      "stop_id": 21055,
+      "stop_name": "Girard Av & 52nd St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.971357,
+      "lon": -75.225908,
+      "permits": 10,
+      "units": 113
+    },
+    {
+      "stop_id": 21056,
+      "stop_name": "Girard Av & 51st St",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.971845,
+      "lon": -75.223745,
+      "permits": 10,
+      "units": 113
+    },
+    {
+      "stop_id": 20789,
+      "stop_name": "Chester Av & 48th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.944958,
+      "lon": -75.215344,
+      "permits": 4,
+      "units": 113
+    },
+    {
+      "stop_id": 20790,
+      "stop_name": "Chester Av & 47th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.945901,
+      "lon": -75.213984,
+      "permits": 4,
+      "units": 113
+    },
+    {
+      "stop_id": 20811,
+      "stop_name": "Chester Av & 47th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.94608,
+      "lon": -75.213959,
+      "permits": 4,
+      "units": 113
+    },
+    {
+      "stop_id": 20812,
+      "stop_name": "Chester Av & 48th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.945154,
+      "lon": -75.215285,
+      "permits": 4,
+      "units": 113
+    },
+    {
+      "stop_id": 21025,
+      "stop_name": "Girard Av & 39th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.974511,
+      "lon": -75.201683,
+      "permits": 12,
+      "units": 110
+    },
+    {
+      "stop_id": 20865,
+      "stop_name": "Baltimore Av & 54th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947742,
+      "lon": -75.231466,
+      "permits": 8,
+      "units": 107
+    },
+    {
+      "stop_id": 21070,
+      "stop_name": "Girard Av & 27th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.974113,
+      "lon": -75.180504,
+      "permits": 10,
+      "units": 106
+    },
+    {
+      "stop_id": 20958,
+      "stop_name": "Woodland Av & 47th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.943245,
+      "lon": -75.210839,
+      "permits": 3,
+      "units": 101
+    },
+    {
+      "stop_id": 20727,
+      "stop_name": "Woodland Av & 46th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.944323,
+      "lon": -75.209797,
+      "permits": 3,
+      "units": 101
+    },
+    {
+      "stop_id": 20739,
+      "stop_name": "Woodland Av & 46th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.944537,
+      "lon": -75.209725,
+      "permits": 3,
+      "units": 101
+    },
+    {
+      "stop_id": 20727,
+      "stop_name": "Woodland Av & 46th St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.944323,
+      "lon": -75.209797,
+      "permits": 3,
+      "units": 101
+    },
+    {
+      "stop_id": 20739,
+      "stop_name": "Woodland Av & 46th St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.944537,
+      "lon": -75.209725,
+      "permits": 3,
+      "units": 101
+    },
+    {
+      "stop_id": 20799,
+      "stop_name": "Chester Av & 46th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.946827,
+      "lon": -75.212682,
+      "permits": 2,
+      "units": 91
+    },
+    {
+      "stop_id": 20800,
+      "stop_name": "Chester Av & 45th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.9477,
+      "lon": -75.211428,
+      "permits": 2,
+      "units": 91
+    },
+    {
+      "stop_id": 20809,
+      "stop_name": "Chester Av & 45th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.947878,
+      "lon": -75.211403,
+      "permits": 2,
+      "units": 91
+    },
+    {
+      "stop_id": 20810,
+      "stop_name": "Chester Av & 46th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.947006,
+      "lon": -75.212658,
+      "permits": 2,
+      "units": 91
+    },
+    {
+      "stop_id": 31488,
+      "stop_name": "Lancaster Av & Powelton Av",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.959631,
+      "lon": -75.195542,
+      "permits": 10,
+      "units": 90
+    },
+    {
+      "stop_id": 20869,
+      "stop_name": "Baltimore Av & 50th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947872,
+      "lon": -75.223377,
+      "permits": 9,
+      "units": 90
+    },
+    {
+      "stop_id": 600,
+      "stop_name": "Baltimore Av & 49th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948101,
+      "lon": -75.221404,
+      "permits": 9,
+      "units": 90
+    },
+    {
+      "stop_id": 600,
+      "stop_name": "Baltimore Av & 49th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948101,
+      "lon": -75.221404,
+      "permits": 9,
+      "units": 90
+    },
+    {
+      "stop_id": 20886,
+      "stop_name": "Baltimore Av & 50th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948041,
+      "lon": -75.223199,
+      "permits": 9,
+      "units": 90
+    },
+    {
+      "stop_id": 20726,
+      "stop_name": "Woodland Av & 48th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.941953,
+      "lon": -75.211728,
+      "permits": 2,
+      "units": 86
+    },
+    {
+      "stop_id": 20740,
+      "stop_name": "Woodland Av & 48th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.942176,
+      "lon": -75.211716,
+      "permits": 2,
+      "units": 86
+    },
+    {
+      "stop_id": 20726,
+      "stop_name": "Woodland Av & 48th St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.941953,
+      "lon": -75.211728,
+      "permits": 2,
+      "units": 86
+    },
+    {
+      "stop_id": 20740,
+      "stop_name": "Woodland Av & 48th St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.942176,
+      "lon": -75.211716,
+      "permits": 2,
+      "units": 86
+    },
+    {
+      "stop_id": 20817,
+      "stop_name": "Chester Av & 54th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.939785,
+      "lon": -75.222893,
+      "permits": 9,
+      "units": 83
+    },
+    {
+      "stop_id": 20625,
+      "stop_name": "Lancaster Av & Bible Way",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976855,
+      "lon": -75.226176,
+      "permits": 9,
+      "units": 81
+    },
+    {
+      "stop_id": 20681,
+      "stop_name": "Lancaster Av & 52nd St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.977186,
+      "lon": -75.2266,
+      "permits": 9,
+      "units": 81
+    },
+    {
+      "stop_id": 601,
+      "stop_name": "Baltimore Av & 49th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948261,
+      "lon": -75.221109,
+      "permits": 8,
+      "units": 80
+    },
+    {
+      "stop_id": 601,
+      "stop_name": "Baltimore Av & 49th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948261,
+      "lon": -75.221109,
+      "permits": 8,
+      "units": 80
+    },
+    {
+      "stop_id": 20794,
+      "stop_name": "Chester Av & 54th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.939607,
+      "lon": -75.222952,
+      "permits": 8,
+      "units": 79
+    },
+    {
+      "stop_id": 21018,
+      "stop_name": "Girard Av & 28th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.974375,
+      "lon": -75.181756,
+      "permits": 7,
+      "units": 76
+    },
+    {
+      "stop_id": 21069,
+      "stop_name": "Girard Av & 28th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.974286,
+      "lon": -75.181969,
+      "permits": 7,
+      "units": 76
+    },
+    {
+      "stop_id": 21072,
+      "stop_name": "26th St & Poplar St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.972701,
+      "lon": -75.179198,
+      "permits": 7,
+      "units": 76
+    },
+    {
+      "stop_id": 20613,
+      "stop_name": "Lansdowne Av & 63rd - FS",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.975332,
+      "lon": -75.244986,
+      "permits": 4,
+      "units": 72
+    },
+    {
+      "stop_id": 20692,
+      "stop_name": "63rd St & Lansdowne Av - FS",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.975582,
+      "lon": -75.245529,
+      "permits": 4,
+      "units": 72
+    },
+    {
+      "stop_id": 21035,
+      "stop_name": "Girard Av & 54th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.971165,
+      "lon": -75.228614,
+      "permits": 7,
+      "units": 70
+    },
+    {
+      "stop_id": 21053,
+      "stop_name": "Girard Av & 54th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.971041,
+      "lon": -75.228803,
+      "permits": 7,
+      "units": 70
+    },
+    {
+      "stop_id": 20622,
+      "stop_name": "Lansdowne Av & 55th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976811,
+      "lon": -75.231858,
+      "permits": 7,
+      "units": 68
+    },
+    {
+      "stop_id": 20624,
+      "stop_name": "Lansdowne Av & Lancaster Av",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.977295,
+      "lon": -75.227451,
+      "permits": 7,
+      "units": 68
+    },
+    {
+      "stop_id": 20628,
+      "stop_name": "Lancaster Av & 47th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.971555,
+      "lon": -75.216115,
+      "permits": 8,
+      "units": 68
+    },
+    {
+      "stop_id": 20677,
+      "stop_name": "Lancaster Av & 47th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.971564,
+      "lon": -75.215938,
+      "permits": 8,
+      "units": 68
+    },
+    {
+      "stop_id": 20986,
+      "stop_name": "Girard Av & Berks St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.971869,
+      "lon": -75.125833,
+      "permits": 7,
+      "units": 66
+    },
+    {
+      "stop_id": 20989,
+      "stop_name": "Girard Av & Columbia Av",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970265,
+      "lon": -75.130423,
+      "permits": 7,
+      "units": 66
+    },
+    {
+      "stop_id": 21019,
+      "stop_name": "Girard Av & 29th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.974574,
+      "lon": -75.183361,
+      "permits": 6,
+      "units": 66
+    },
+    {
+      "stop_id": 21068,
+      "stop_name": "Girard Av & 29th St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.974486,
+      "lon": -75.183622,
+      "permits": 6,
+      "units": 66
+    },
+    {
+      "stop_id": 21103,
+      "stop_name": "Girard Av & Berks St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.971709,
+      "lon": -75.125999,
+      "permits": 7,
+      "units": 66
+    },
+    {
+      "stop_id": 20929,
+      "stop_name": "Island Av & Tanager St - F",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.90915,
+      "lon": -75.242029,
+      "permits": 3,
+      "units": 65
+    },
+    {
+      "stop_id": 20930,
+      "stop_name": "Island Av & Buist Av",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.911186,
+      "lon": -75.242661,
+      "permits": 3,
+      "units": 65
+    },
+    {
+      "stop_id": 20920,
+      "stop_name": "Island Av & Buist Av - FS",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.911195,
+      "lon": -75.242744,
+      "permits": 3,
+      "units": 65
+    },
+    {
+      "stop_id": 20921,
+      "stop_name": "Island Av & Tanager St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.909132,
+      "lon": -75.2421,
+      "permits": 3,
+      "units": 65
+    },
+    {
+      "stop_id": 20619,
+      "stop_name": "Lansdowne Av & 56th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976591,
+      "lon": -75.233761,
+      "permits": 6,
+      "units": 64
+    },
+    {
+      "stop_id": 20685,
+      "stop_name": "Lansdowne Av & 56th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976707,
+      "lon": -75.233607,
+      "permits": 6,
+      "units": 64
+    },
+    {
+      "stop_id": 20979,
+      "stop_name": "Richmond St & Clearfield St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.981783,
+      "lon": -75.103782,
+      "permits": 4,
+      "units": 61
+    },
+    {
+      "stop_id": 20981,
+      "stop_name": "Richmond St & Ann St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.979945,
+      "lon": -75.107311,
+      "permits": 4,
+      "units": 61
+    },
+    {
+      "stop_id": 21111,
+      "stop_name": "Richmond St & Ann St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.979758,
+      "lon": -75.107536,
+      "permits": 4,
+      "units": 61
+    },
+    {
+      "stop_id": 21113,
+      "stop_name": "Richmond St & Clearfield St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.981605,
+      "lon": -75.104019,
+      "permits": 4,
+      "units": 61
+    },
+    {
+      "stop_id": 21100,
+      "stop_name": "Girard Av & Columbia Av",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.970122,
+      "lon": -75.130542,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20645,
+      "stop_name": "22nd St",
+      "route": "T1",
+      "district": "2",
+      "lat": 39.953962,
+      "lon": -75.176736,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20661,
+      "stop_name": "22nd St",
+      "route": "T1",
+      "district": "5",
+      "lat": 39.954051,
+      "lon": -75.176571,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20864,
+      "stop_name": "Baltimore Av & 55th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947246,
+      "lon": -75.233746,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20870,
+      "stop_name": "Baltimore Av & Florence Av",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948312,
+      "lon": -75.219503,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20645,
+      "stop_name": "22nd St",
+      "route": "T2",
+      "district": "2",
+      "lat": 39.953962,
+      "lon": -75.176736,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20661,
+      "stop_name": "22nd St",
+      "route": "T2",
+      "district": "5",
+      "lat": 39.954051,
+      "lon": -75.176571,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20891,
+      "stop_name": "Baltimore Av & 55th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.947442,
+      "lon": -75.233522,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20645,
+      "stop_name": "22nd St",
+      "route": "T3",
+      "district": "2",
+      "lat": 39.953962,
+      "lon": -75.176736,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20661,
+      "stop_name": "22nd St",
+      "route": "T3",
+      "district": "5",
+      "lat": 39.954051,
+      "lon": -75.176571,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20645,
+      "stop_name": "22nd St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.953962,
+      "lon": -75.176736,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20661,
+      "stop_name": "22nd St",
+      "route": "T4",
+      "district": "5",
+      "lat": 39.954051,
+      "lon": -75.176571,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20645,
+      "stop_name": "22nd St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.953962,
+      "lon": -75.176736,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20661,
+      "stop_name": "22nd St",
+      "route": "T5",
+      "district": "5",
+      "lat": 39.954051,
+      "lon": -75.176571,
+      "permits": 6,
+      "units": 60
+    },
+    {
+      "stop_id": 20623,
+      "stop_name": "Lansdowne Av & 54th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.977013,
+      "lon": -75.229908,
+      "permits": 6,
+      "units": 58
+    },
+    {
+      "stop_id": 20683,
+      "stop_name": "Lansdowne Av & 54th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.977129,
+      "lon": -75.229755,
+      "permits": 6,
+      "units": 58
+    },
+    {
+      "stop_id": 20684,
+      "stop_name": "Lansdowne Av & 55th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976927,
+      "lon": -75.231704,
+      "permits": 6,
+      "units": 58
+    },
+    {
+      "stop_id": 20928,
+      "stop_name": "Island Av & 76th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.907284,
+      "lon": -75.241432,
+      "permits": 2,
+      "units": 55
+    },
+    {
+      "stop_id": 20931,
+      "stop_name": "Elmwood Av & Island Av - M",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.913266,
+      "lon": -75.242998,
+      "permits": 2,
+      "units": 55
+    },
+    {
+      "stop_id": 20919,
+      "stop_name": "Elmwood Av & Island Av",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.913284,
+      "lon": -75.243092,
+      "permits": 2,
+      "units": 55
+    },
+    {
+      "stop_id": 20922,
+      "stop_name": "Island Av & 76th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.907391,
+      "lon": -75.24155,
+      "permits": 2,
+      "units": 55
+    },
+    {
+      "stop_id": 30550,
+      "stop_name": "Girard Av & Merion Av",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.972814,
+      "lon": -75.216277,
+      "permits": 6,
+      "units": 54
+    },
+    {
+      "stop_id": 30605,
+      "stop_name": "Girard Av & Merion Av",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.972725,
+      "lon": -75.216431,
+      "permits": 6,
+      "units": 54
+    },
+    {
+      "stop_id": 25779,
+      "stop_name": "Richmond St & Girard Av",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.973068,
+      "lon": -75.119591,
+      "permits": 5,
+      "units": 50
+    },
+    {
+      "stop_id": 21105,
+      "stop_name": "Girard Av & Richmond St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.972988,
+      "lon": -75.119769,
+      "permits": 5,
+      "units": 50
+    },
+    {
+      "stop_id": 20863,
+      "stop_name": "Baltimore Av & 56th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.946785,
+      "lon": -75.235602,
+      "permits": 5,
+      "units": 50
+    },
+    {
+      "stop_id": 20892,
+      "stop_name": "Baltimore Av & 56th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.946936,
+      "lon": -75.235519,
+      "permits": 5,
+      "units": 50
+    },
+    {
+      "stop_id": 290,
+      "stop_name": "Lancaster Av & 48th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.972244,
+      "lon": -75.217035,
+      "permits": 6,
+      "units": 48
+    },
+    {
+      "stop_id": 20639,
+      "stop_name": "Lancaster Av & 36th St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.958565,
+      "lon": -75.193786,
+      "permits": 5,
+      "units": 46
+    },
+    {
+      "stop_id": 12196,
+      "stop_name": "Richmond St & Allegheny Av",
+      "route": "G1",
+      "district": "6",
+      "lat": 39.983053,
+      "lon": -75.101437,
+      "permits": 2,
+      "units": 41
+    },
+    {
+      "stop_id": 21114,
+      "stop_name": "Richmond St & Allegheny Av",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.982875,
+      "lon": -75.101544,
+      "permits": 2,
+      "units": 41
+    },
+    {
+      "stop_id": 20725,
+      "stop_name": "Woodland Av & 50th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.939886,
+      "lon": -75.213907,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 21208,
+      "stop_name": "Woodland Av & 53rd St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.937242,
+      "lon": -75.217681,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 20723,
+      "stop_name": "Woodland Av & 52nd St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.938203,
+      "lon": -75.216297,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 20724,
+      "stop_name": "Woodland Av & 51st St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.938987,
+      "lon": -75.215197,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 20725,
+      "stop_name": "Woodland Av & 50th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.939886,
+      "lon": -75.213907,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 317,
+      "stop_name": "Woodland Av & 50th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.940064,
+      "lon": -75.213848,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 20741,
+      "stop_name": "Woodland Av & 51st St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.939192,
+      "lon": -75.215102,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 20742,
+      "stop_name": "Woodland Av & 52nd St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.938408,
+      "lon": -75.216214,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 20743,
+      "stop_name": "Woodland Av & 53rd St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.937438,
+      "lon": -75.217598,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 20744,
+      "stop_name": "Woodland Av & 54th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.936485,
+      "lon": -75.218947,
+      "permits": 4,
+      "units": 40
+    },
+    {
+      "stop_id": 20793,
+      "stop_name": "Chester Av & 55th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.938654,
+      "lon": -75.224301,
+      "permits": 4,
+      "units": 39
+    },
+    {
+      "stop_id": 20818,
+      "stop_name": "Chester Av & 55th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.938832,
+      "lon": -75.224253,
+      "permits": 4,
+      "units": 39
+    },
+    {
+      "stop_id": 20988,
+      "stop_name": "Girard Av & Palmer St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.970983,
+      "lon": -75.1284,
+      "permits": 4,
+      "units": 36
+    },
+    {
+      "stop_id": 21101,
+      "stop_name": "Girard Av & Palmer St",
+      "route": "G1",
+      "district": "5",
+      "lat": 39.97084,
+      "lon": -75.128519,
+      "permits": 4,
+      "units": 36
+    },
+    {
+      "stop_id": 20665,
+      "stop_name": "36th St & Lancaster Av",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.958404,
+      "lon": -75.193585,
+      "permits": 4,
+      "units": 36
+    },
+    {
+      "stop_id": 20626,
+      "stop_name": "Lancaster Av & 50th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.975207,
+      "lon": -75.22259,
+      "permits": 4,
+      "units": 33
+    },
+    {
+      "stop_id": 20679,
+      "stop_name": "Lancaster Av & 50th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.975234,
+      "lon": -75.222389,
+      "permits": 4,
+      "units": 33
+    },
+    {
+      "stop_id": 21021,
+      "stop_name": "Girard Av & 31st St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.975009,
+      "lon": -75.186549,
+      "permits": 3,
+      "units": 30
+    },
+    {
+      "stop_id": 21037,
+      "stop_name": "Girard Av & 56th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970761,
+      "lon": -75.232477,
+      "permits": 3,
+      "units": 30
+    },
+    {
+      "stop_id": 21047,
+      "stop_name": "Girard Av & 61st St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.969801,
+      "lon": -75.241221,
+      "permits": 3,
+      "units": 30
+    },
+    {
+      "stop_id": 21051,
+      "stop_name": "Girard Av & 56th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970636,
+      "lon": -75.232667,
+      "permits": 3,
+      "units": 30
+    },
+    {
+      "stop_id": 20885,
+      "stop_name": "Baltimore Av & 48th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948472,
+      "lon": -75.219101,
+      "permits": 3,
+      "units": 30
+    },
+    {
+      "stop_id": 20722,
+      "stop_name": "Woodland Av & 54th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.936262,
+      "lon": -75.219054,
+      "permits": 3,
+      "units": 30
+    },
+    {
+      "stop_id": 21044,
+      "stop_name": "Girard Av & 63rd St - MBFS",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970226,
+      "lon": -75.244598,
+      "permits": 3,
+      "units": 26
+    },
+    {
+      "stop_id": 21044,
+      "stop_name": "Girard Av & 63rd St - MBFS",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970226,
+      "lon": -75.244598,
+      "permits": 3,
+      "units": 26
+    },
+    {
+      "stop_id": 20946,
+      "stop_name": "Elmwood Av & 59th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.928039,
+      "lon": -75.221994,
+      "permits": 2,
+      "units": 26
+    },
+    {
+      "stop_id": 20947,
+      "stop_name": "Elmwood Av & 58th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.928964,
+      "lon": -75.220586,
+      "permits": 2,
+      "units": 26
+    },
+    {
+      "stop_id": 20948,
+      "stop_name": "Elmwood Av & 57th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.929935,
+      "lon": -75.219226,
+      "permits": 2,
+      "units": 26
+    },
+    {
+      "stop_id": 20949,
+      "stop_name": "Elmwood Av & 56th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.930986,
+      "lon": -75.217747,
+      "permits": 2,
+      "units": 26
+    },
+    {
+      "stop_id": 20902,
+      "stop_name": "Elmwood Av & 56th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.931173,
+      "lon": -75.217711,
+      "permits": 2,
+      "units": 26
+    },
+    {
+      "stop_id": 20903,
+      "stop_name": "Elmwood Av & 57th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.930131,
+      "lon": -75.219202,
+      "permits": 2,
+      "units": 26
+    },
+    {
+      "stop_id": 20904,
+      "stop_name": "Elmwood Av & 58th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.929152,
+      "lon": -75.220539,
+      "permits": 2,
+      "units": 26
+    },
+    {
+      "stop_id": 20905,
+      "stop_name": "Elmwood Av & 59th St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.928226,
+      "lon": -75.221958,
+      "permits": 2,
+      "units": 26
+    },
+    {
+      "stop_id": 20627,
+      "stop_name": "Lancaster Av & Thompson St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.973748,
+      "lon": -75.219747,
+      "permits": 3,
+      "units": 23
+    },
+    {
+      "stop_id": 20982,
+      "stop_name": "Richmond St & Cambria St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.979092,
+      "lon": -75.108862,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 12218,
+      "stop_name": "Richmond St & Somerset St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.978159,
+      "lon": -75.110697,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20983,
+      "stop_name": "Richmond St & Lehigh Av",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.976907,
+      "lon": -75.113101,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20984,
+      "stop_name": "Richmond St & Huntingdon St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.975628,
+      "lon": -75.115552,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 650,
+      "stop_name": "Richmond St & Cumberland St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.974331,
+      "lon": -75.118038,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 21038,
+      "stop_name": "Girard Av & 57th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970585,
+      "lon": -75.234096,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 31443,
+      "stop_name": "Girard Av & 62nd St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970063,
+      "lon": -75.243216,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 21067,
+      "stop_name": "Girard Av & 31st St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.974938,
+      "lon": -75.18675,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 649,
+      "stop_name": "Richmond St & Cumberland St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.974153,
+      "lon": -75.118181,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 21107,
+      "stop_name": "Richmond St & Huntingdon St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.975441,
+      "lon": -75.11573,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 21108,
+      "stop_name": "Richmond St & Lehigh Av",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.976729,
+      "lon": -75.113302,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 21109,
+      "stop_name": "Richmond St & Somerset St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.977981,
+      "lon": -75.110887,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 21110,
+      "stop_name": "Richmond St & Cambria St",
+      "route": "G1",
+      "district": "1",
+      "lat": 39.978914,
+      "lon": -75.109052,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 31294,
+      "stop_name": "63rd-Malvern",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.983838,
+      "lon": -75.245957,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20610,
+      "stop_name": "Malvern Av & 63rd St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.983697,
+      "lon": -75.247009,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20611,
+      "stop_name": "63rd St & Lebanon Av",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.980912,
+      "lon": -75.246661,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20616,
+      "stop_name": "Lansdowne Av & 59th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976054,
+      "lon": -75.238653,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20617,
+      "stop_name": "Lansdowne Av & 58th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976248,
+      "lon": -75.236904,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20618,
+      "stop_name": "Lansdowne Av & 57th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976406,
+      "lon": -75.235403,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20664,
+      "stop_name": "36th St & Market St",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.956058,
+      "lon": -75.194113,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20686,
+      "stop_name": "Lansdowne Av & 57th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976522,
+      "lon": -75.235249,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20687,
+      "stop_name": "Lansdowne Av & 58th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.976363,
+      "lon": -75.23675,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20688,
+      "stop_name": "Lansdowne Av & 59th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.97617,
+      "lon": -75.238499,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20695,
+      "stop_name": "63rd St & Columbia Av",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.980582,
+      "lon": -75.246461,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 31294,
+      "stop_name": "63rd-Malvern",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.983838,
+      "lon": -75.245957,
+      "permits": 2,
+      "units": 20
+    },
+    {
+      "stop_id": 20872,
+      "stop_name": "Baltimore Av & 46th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948786,
+      "lon": -75.215061,
+      "permits": 1,
+      "units": 15
+    },
+    {
+      "stop_id": 20873,
+      "stop_name": "Baltimore Av & 45th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.949006,
+      "lon": -75.213018,
+      "permits": 1,
+      "units": 15
+    },
+    {
+      "stop_id": 20882,
+      "stop_name": "Baltimore Av & 45th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.949148,
+      "lon": -75.212828,
+      "permits": 1,
+      "units": 15
+    },
+    {
+      "stop_id": 20883,
+      "stop_name": "Baltimore Av & 46th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.948937,
+      "lon": -75.214884,
+      "permits": 1,
+      "units": 15
+    },
+    {
+      "stop_id": 21022,
+      "stop_name": "Girard Av & 33rd St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.975199,
+      "lon": -75.188002,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 21030,
+      "stop_name": "Girard Av & 49th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.972917,
+      "lon": -75.219064,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 345,
+      "stop_name": "Girard Av & 59th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970224,
+      "lon": -75.237334,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 21040,
+      "stop_name": "Girard Av & 60th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970039,
+      "lon": -75.238988,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 21048,
+      "stop_name": "Girard Av & 60th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.969897,
+      "lon": -75.239366,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 349,
+      "stop_name": "Girard Av & 59th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.970099,
+      "lon": -75.237523,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 21050,
+      "stop_name": "Girard Av & 57th St",
+      "route": "G1",
+      "district": "4",
+      "lat": 39.97046,
+      "lon": -75.234285,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 21058,
+      "stop_name": "Girard Av & Lancaster Av",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.972978,
+      "lon": -75.218521,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 30292,
+      "stop_name": "Girard Av & 34th St - MBFS",
+      "route": "G1",
+      "district": "3",
+      "lat": 39.974841,
+      "lon": -75.196733,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20612,
+      "stop_name": "63rd St & Jefferson St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.97835,
+      "lon": -75.246184,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20614,
+      "stop_name": "Lansdowne Av & 62nd St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.975499,
+      "lon": -75.243651,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20615,
+      "stop_name": "Lansdowne Av & 61st St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.975693,
+      "lon": -75.241879,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 277,
+      "stop_name": "Lancaster Av & Girard Av",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.973059,
+      "lon": -75.218615,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20641,
+      "stop_name": "36th St Trolley Portal Station",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.955335,
+      "lon": -75.194162,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 31140,
+      "stop_name": "15th St/City Hall",
+      "route": "T1",
+      "district": "5",
+      "lat": 39.952502,
+      "lon": -75.165369,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20659,
+      "stop_name": "15th St/City Hall",
+      "route": "T1",
+      "district": "5",
+      "lat": 39.952672,
+      "lon": -75.165345,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 287,
+      "stop_name": "36th St Trolley Portal Station",
+      "route": "T1",
+      "district": "3",
+      "lat": 39.955451,
+      "lon": -75.194233,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20678,
+      "stop_name": "Lancaster Av & 49th St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.973703,
+      "lon": -75.219464,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20690,
+      "stop_name": "Lansdowne Av & 61st St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.975809,
+      "lon": -75.241725,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20691,
+      "stop_name": "Lansdowne Av & 62nd St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.975615,
+      "lon": -75.243497,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20693,
+      "stop_name": "63rd St & Jefferson St",
+      "route": "T1",
+      "district": "4",
+      "lat": 39.978234,
+      "lon": -75.24603,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20932,
+      "stop_name": "Elmwood Av & 73rd St",
+      "route": "T2",
+      "district": "2",
+      "lat": 39.914129,
+      "lon": -75.241816,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20704,
+      "stop_name": "Woodland Av & Island Av",
+      "route": "T2",
+      "district": "2",
+      "lat": 39.917099,
+      "lon": -75.246376,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20957,
+      "stop_name": "49th St & Woodland Av",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.940794,
+      "lon": -75.212429,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20862,
+      "stop_name": "Baltimore Av & 57th St",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.946386,
+      "lon": -75.237327,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20732,
+      "stop_name": "36th-Sansom",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.953854,
+      "lon": -75.194533,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 31140,
+      "stop_name": "15th St/City Hall",
+      "route": "T2",
+      "district": "5",
+      "lat": 39.952502,
+      "lon": -75.165369,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20659,
+      "stop_name": "15th St/City Hall",
+      "route": "T2",
+      "district": "5",
+      "lat": 39.952672,
+      "lon": -75.165345,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20733,
+      "stop_name": "36th-Sansom",
+      "route": "T2",
+      "district": "3",
+      "lat": 39.95389,
+      "lon": -75.194722,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 304,
+      "stop_name": "Woodland Av & Island Av",
+      "route": "T2",
+      "district": "2",
+      "lat": 39.917304,
+      "lon": -75.246245,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 610,
+      "stop_name": "Elmwood Av & 73rd St",
+      "route": "T2",
+      "district": "2",
+      "lat": 39.914335,
+      "lon": -75.241732,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20732,
+      "stop_name": "36th-Sansom",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.953854,
+      "lon": -75.194533,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 31140,
+      "stop_name": "15th St/City Hall",
+      "route": "T3",
+      "district": "5",
+      "lat": 39.952502,
+      "lon": -75.165369,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20659,
+      "stop_name": "15th St/City Hall",
+      "route": "T3",
+      "district": "5",
+      "lat": 39.952672,
+      "lon": -75.165345,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20733,
+      "stop_name": "36th-Sansom",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.95389,
+      "lon": -75.194722,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20819,
+      "stop_name": "Chester Av & 56th St",
+      "route": "T3",
+      "district": "3",
+      "lat": 39.937871,
+      "lon": -75.225625,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20704,
+      "stop_name": "Woodland Av & Island Av",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.917099,
+      "lon": -75.246376,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20705,
+      "stop_name": "Woodland Av & 72nd St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.918432,
+      "lon": -75.244412,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20706,
+      "stop_name": "Woodland Av & 71st St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.919361,
+      "lon": -75.243077,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20707,
+      "stop_name": "Woodland Av & 70th St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.920483,
+      "lon": -75.24148,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20708,
+      "stop_name": "Woodland Av & 69th St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.921463,
+      "lon": -75.240097,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 297,
+      "stop_name": "Woodland Av & 49th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.940767,
+      "lon": -75.212665,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20728,
+      "stop_name": "Woodland Av & 45th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.94541,
+      "lon": -75.208565,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20732,
+      "stop_name": "36th-Sansom",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.953854,
+      "lon": -75.194533,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 31140,
+      "stop_name": "15th St/City Hall",
+      "route": "T4",
+      "district": "5",
+      "lat": 39.952502,
+      "lon": -75.165369,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20659,
+      "stop_name": "15th St/City Hall",
+      "route": "T4",
+      "district": "5",
+      "lat": 39.952672,
+      "lon": -75.165345,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20733,
+      "stop_name": "36th-Sansom",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.95389,
+      "lon": -75.194722,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20737,
+      "stop_name": "Woodland Av & 43rd St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.945767,
+      "lon": -75.20834,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 302,
+      "stop_name": "Woodland Av & 49th St",
+      "route": "T4",
+      "district": "3",
+      "lat": 39.940955,
+      "lon": -75.212582,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20757,
+      "stop_name": "Woodland Av & 69th St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.921641,
+      "lon": -75.240037,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20758,
+      "stop_name": "Woodland Av & 70th St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.920688,
+      "lon": -75.241397,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20759,
+      "stop_name": "Woodland Av & 71st St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.919584,
+      "lon": -75.242958,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20760,
+      "stop_name": "Woodland Av & 72nd St",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.918622,
+      "lon": -75.244342,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 304,
+      "stop_name": "Woodland Av & Island Av",
+      "route": "T4",
+      "district": "2",
+      "lat": 39.917304,
+      "lon": -75.246245,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 611,
+      "stop_name": "Elmwood Loop",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.914015,
+      "lon": -75.242642,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20932,
+      "stop_name": "Elmwood Av & 73rd St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.914129,
+      "lon": -75.241816,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20955,
+      "stop_name": "49th St & Paschall Av",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.939819,
+      "lon": -75.211286,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20957,
+      "stop_name": "49th St & Woodland Av",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.940794,
+      "lon": -75.212429,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20728,
+      "stop_name": "Woodland Av & 45th St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.94541,
+      "lon": -75.208565,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20732,
+      "stop_name": "36th-Sansom",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.953854,
+      "lon": -75.194533,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 31140,
+      "stop_name": "15th St/City Hall",
+      "route": "T5",
+      "district": "5",
+      "lat": 39.952502,
+      "lon": -75.165369,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20659,
+      "stop_name": "15th St/City Hall",
+      "route": "T5",
+      "district": "5",
+      "lat": 39.952672,
+      "lon": -75.165345,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20733,
+      "stop_name": "36th-Sansom",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.95389,
+      "lon": -75.194722,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20737,
+      "stop_name": "Woodland Av & 43rd St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.945767,
+      "lon": -75.20834,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 302,
+      "stop_name": "Woodland Av & 49th St",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.940955,
+      "lon": -75.212582,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 20897,
+      "stop_name": "49th St & Paschall Av",
+      "route": "T5",
+      "district": "3",
+      "lat": 39.93998,
+      "lon": -75.211652,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 610,
+      "stop_name": "Elmwood Av & 73rd St",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.914335,
+      "lon": -75.241732,
+      "permits": 1,
+      "units": 10
+    },
+    {
+      "stop_id": 611,
+      "stop_name": "Elmwood Loop",
+      "route": "T5",
+      "district": "2",
+      "lat": 39.914015,
+      "lon": -75.242642,
+      "permits": 1,
+      "units": 10
+    }
+  ],
+  "by_district": {
+    "3": [
+      {
+        "stop_id": 20634,
+        "stop_name": "Lancaster Av & 41st St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.965093,
+        "lon": -75.205564,
+        "permits": 70,
+        "units": 660
+      },
+      {
+        "stop_id": 20671,
+        "stop_name": "Lancaster Av & 41st St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.965102,
+        "lon": -75.205386,
+        "permits": 70,
+        "units": 653
+      },
+      {
+        "stop_id": 20670,
+        "stop_name": "Lancaster Av & Wallace St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.963857,
+        "lon": -75.203371,
+        "permits": 64,
+        "units": 619
+      },
+      {
+        "stop_id": 20669,
+        "stop_name": "Lancaster Av & Haverford Av",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.9629,
+        "lon": -75.201826,
+        "permits": 62,
+        "units": 588
+      },
+      {
+        "stop_id": 20672,
+        "stop_name": "Lancaster Av & 42nd St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.966399,
+        "lon": -75.207485,
+        "permits": 64,
+        "units": 583
+      },
+      {
+        "stop_id": 20673,
+        "stop_name": "Lancaster Av & Parrish St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.96767,
+        "lon": -75.20956,
+        "permits": 62,
+        "units": 577
+      },
+      {
+        "stop_id": 20635,
+        "stop_name": "Lancaster Av & 40th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.963151,
+        "lon": -75.20244,
+        "permits": 57,
+        "units": 551
+      },
+      {
+        "stop_id": 20633,
+        "stop_name": "Lancaster Av & 42nd St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.966391,
+        "lon": -75.207662,
+        "permits": 59,
+        "units": 540
+      },
+      {
+        "stop_id": 20632,
+        "stop_name": "Lancaster Av & 43th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.967725,
+        "lon": -75.209878,
+        "permits": 57,
+        "units": 527
+      },
+      {
+        "stop_id": 21061,
+        "stop_name": "Girard Av & 42nd St",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.973542,
+        "lon": -75.208975,
+        "permits": 57,
+        "units": 526
+      },
+      {
+        "stop_id": 21027,
+        "stop_name": "Girard Av & 42nd St",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.973658,
+        "lon": -75.208797,
+        "permits": 55,
+        "units": 506
+      },
+      {
+        "stop_id": 20636,
+        "stop_name": "Lancaster Av & Spring Garden St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.962004,
+        "lon": -75.200353,
+        "permits": 51,
+        "units": 456
+      },
+      {
+        "stop_id": 21062,
+        "stop_name": "Girard Av & 41st St",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.973823,
+        "lon": -75.206528,
+        "permits": 50,
+        "units": 448
+      },
+      {
+        "stop_id": 21026,
+        "stop_name": "Girard Av & 41st St",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.973966,
+        "lon": -75.206268,
+        "permits": 49,
+        "units": 438
+      },
+      {
+        "stop_id": 20668,
+        "stop_name": "Lancaster Av & Spring Garden St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.961923,
+        "lon": -75.199952,
+        "permits": 49,
+        "units": 436
+      },
+      {
+        "stop_id": 20674,
+        "stop_name": "Lancaster Av & Ogden St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.968565,
+        "lon": -75.210998,
+        "permits": 40,
+        "units": 378
+      },
+      {
+        "stop_id": 20631,
+        "stop_name": "Lancaster Av & 44th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.968772,
+        "lon": -75.211541,
+        "permits": 36,
+        "units": 339
+      },
+      {
+        "stop_id": 20675,
+        "stop_name": "Lancaster Av & Westminster St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.969353,
+        "lon": -75.212283,
+        "permits": 35,
+        "units": 337
+      },
+      {
+        "stop_id": 20643,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.954815,
+        "lon": -75.1835,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20662,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.954894,
+        "lon": -75.183169,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20643,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.954815,
+        "lon": -75.1835,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20662,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.954894,
+        "lon": -75.183169,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20643,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.954815,
+        "lon": -75.1835,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20662,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.954894,
+        "lon": -75.183169,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20643,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.954815,
+        "lon": -75.1835,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20662,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.954894,
+        "lon": -75.183169,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20643,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.954815,
+        "lon": -75.1835,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20662,
+        "stop_name": "Drexel Station at 30th St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.954894,
+        "lon": -75.183169,
+        "permits": 2,
+        "units": 336
+      },
+      {
+        "stop_id": 20658,
+        "stop_name": "33rd St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.954871,
+        "lon": -75.189499,
+        "permits": 1,
+        "units": 326
+      },
+      {
+        "stop_id": 20658,
+        "stop_name": "33rd St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.954871,
+        "lon": -75.189499,
+        "permits": 1,
+        "units": 326
+      },
+      {
+        "stop_id": 20658,
+        "stop_name": "33rd St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.954871,
+        "lon": -75.189499,
+        "permits": 1,
+        "units": 326
+      },
+      {
+        "stop_id": 20658,
+        "stop_name": "33rd St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.954871,
+        "lon": -75.189499,
+        "permits": 1,
+        "units": 326
+      },
+      {
+        "stop_id": 20658,
+        "stop_name": "33rd St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.954871,
+        "lon": -75.189499,
+        "permits": 1,
+        "units": 326
+      },
+      {
+        "stop_id": 20630,
+        "stop_name": "Lancaster Av & 45th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.969667,
+        "lon": -75.212991,
+        "permits": 31,
+        "units": 291
+      },
+      {
+        "stop_id": 21060,
+        "stop_name": "Girard Av & Belmont Av - FS",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.973208,
+        "lon": -75.211964,
+        "permits": 29,
+        "units": 267
+      },
+      {
+        "stop_id": 21028,
+        "stop_name": "Girard Av & Belmont Av",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.973315,
+        "lon": -75.212094,
+        "permits": 27,
+        "units": 247
+      },
+      {
+        "stop_id": 350,
+        "stop_name": "Girard Av & 40th St",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.974043,
+        "lon": -75.204531,
+        "permits": 26,
+        "units": 228
+      },
+      {
+        "stop_id": 344,
+        "stop_name": "Girard Av & 40th St - FS",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.974159,
+        "lon": -75.204543,
+        "permits": 24,
+        "units": 220
+      },
+      {
+        "stop_id": 20638,
+        "stop_name": "Lancaster Av & 38th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.960267,
+        "lon": -75.197016,
+        "permits": 19,
+        "units": 174
+      },
+      {
+        "stop_id": 279,
+        "stop_name": "40th St & Filbert St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.957929,
+        "lon": -75.201901,
+        "permits": 16,
+        "units": 161
+      },
+      {
+        "stop_id": 279,
+        "stop_name": "40th St & Filbert St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.957929,
+        "lon": -75.201901,
+        "permits": 16,
+        "units": 161
+      },
+      {
+        "stop_id": 20663,
+        "stop_name": "Lancaster Av & 38th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.96024,
+        "lon": -75.196721,
+        "permits": 17,
+        "units": 158
+      },
+      {
+        "stop_id": 321,
+        "stop_name": "Chester Av & 49th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.944041,
+        "lon": -75.216622,
+        "permits": 9,
+        "units": 157
+      },
+      {
+        "stop_id": 20797,
+        "stop_name": "Chester Av & 51st St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.942349,
+        "lon": -75.219048,
+        "permits": 16,
+        "units": 155
+      },
+      {
+        "stop_id": 20814,
+        "stop_name": "Chester Av & 51st St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.942519,
+        "lon": -75.219012,
+        "permits": 16,
+        "units": 155
+      },
+      {
+        "stop_id": 21248,
+        "stop_name": "40th-Market",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.957259,
+        "lon": -75.202021,
+        "permits": 15,
+        "units": 151
+      },
+      {
+        "stop_id": 21248,
+        "stop_name": "40th-Market",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.957259,
+        "lon": -75.202021,
+        "permits": 15,
+        "units": 151
+      },
+      {
+        "stop_id": 21248,
+        "stop_name": "40th-Market",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.957259,
+        "lon": -75.202021,
+        "permits": 15,
+        "units": 151
+      },
+      {
+        "stop_id": 21248,
+        "stop_name": "40th-Market",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.957259,
+        "lon": -75.202021,
+        "permits": 15,
+        "units": 151
+      },
+      {
+        "stop_id": 21248,
+        "stop_name": "40th-Market",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.957259,
+        "lon": -75.202021,
+        "permits": 15,
+        "units": 151
+      },
+      {
+        "stop_id": 21248,
+        "stop_name": "40th-Market",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.957259,
+        "lon": -75.202021,
+        "permits": 15,
+        "units": 151
+      },
+      {
+        "stop_id": 21248,
+        "stop_name": "40th-Market",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.957259,
+        "lon": -75.202021,
+        "permits": 15,
+        "units": 151
+      },
+      {
+        "stop_id": 21248,
+        "stop_name": "40th-Market",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.957259,
+        "lon": -75.202021,
+        "permits": 15,
+        "units": 151
+      },
+      {
+        "stop_id": 20868,
+        "stop_name": "Baltimore Av & 51st St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947715,
+        "lon": -75.225456,
+        "permits": 12,
+        "units": 147
+      },
+      {
+        "stop_id": 20796,
+        "stop_name": "Chester Av & 52nd St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.941539,
+        "lon": -75.220184,
+        "permits": 15,
+        "units": 143
+      },
+      {
+        "stop_id": 20815,
+        "stop_name": "Chester Av & 52nd St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.941726,
+        "lon": -75.220124,
+        "permits": 15,
+        "units": 143
+      },
+      {
+        "stop_id": 20887,
+        "stop_name": "Baltimore Av & 51st St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.94783,
+        "lon": -75.225266,
+        "permits": 11,
+        "units": 137
+      },
+      {
+        "stop_id": 20889,
+        "stop_name": "Baltimore Av & 53rd St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947846,
+        "lon": -75.229317,
+        "permits": 11,
+        "units": 137
+      },
+      {
+        "stop_id": 322,
+        "stop_name": "Chester Av & 49th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.944281,
+        "lon": -75.216527,
+        "permits": 7,
+        "units": 137
+      },
+      {
+        "stop_id": 21063,
+        "stop_name": "Girard Av & 39th St",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.974297,
+        "lon": -75.201802,
+        "permits": 15,
+        "units": 134
+      },
+      {
+        "stop_id": 20866,
+        "stop_name": "Baltimore Av & 53rd St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947766,
+        "lon": -75.229612,
+        "permits": 10,
+        "units": 127
+      },
+      {
+        "stop_id": 20888,
+        "stop_name": "Baltimore Av & 52nd St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947842,
+        "lon": -75.227309,
+        "permits": 10,
+        "units": 127
+      },
+      {
+        "stop_id": 20795,
+        "stop_name": "Chester Av & 53rd St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.940577,
+        "lon": -75.221556,
+        "permits": 13,
+        "units": 123
+      },
+      {
+        "stop_id": 20816,
+        "stop_name": "Chester Av & 53rd St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.940764,
+        "lon": -75.221485,
+        "permits": 13,
+        "units": 123
+      },
+      {
+        "stop_id": 20867,
+        "stop_name": "Baltimore Av & Broomall St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947727,
+        "lon": -75.227912,
+        "permits": 9,
+        "units": 117
+      },
+      {
+        "stop_id": 20890,
+        "stop_name": "Baltimore Av & 54th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947797,
+        "lon": -75.232139,
+        "permits": 9,
+        "units": 117
+      },
+      {
+        "stop_id": 21056,
+        "stop_name": "Girard Av & 51st St",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.971845,
+        "lon": -75.223745,
+        "permits": 10,
+        "units": 113
+      },
+      {
+        "stop_id": 20789,
+        "stop_name": "Chester Av & 48th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.944958,
+        "lon": -75.215344,
+        "permits": 4,
+        "units": 113
+      },
+      {
+        "stop_id": 20790,
+        "stop_name": "Chester Av & 47th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.945901,
+        "lon": -75.213984,
+        "permits": 4,
+        "units": 113
+      },
+      {
+        "stop_id": 20811,
+        "stop_name": "Chester Av & 47th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.94608,
+        "lon": -75.213959,
+        "permits": 4,
+        "units": 113
+      },
+      {
+        "stop_id": 20812,
+        "stop_name": "Chester Av & 48th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.945154,
+        "lon": -75.215285,
+        "permits": 4,
+        "units": 113
+      },
+      {
+        "stop_id": 20865,
+        "stop_name": "Baltimore Av & 54th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947742,
+        "lon": -75.231466,
+        "permits": 8,
+        "units": 107
+      },
+      {
+        "stop_id": 20958,
+        "stop_name": "Woodland Av & 47th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.943245,
+        "lon": -75.210839,
+        "permits": 3,
+        "units": 101
+      },
+      {
+        "stop_id": 20727,
+        "stop_name": "Woodland Av & 46th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.944323,
+        "lon": -75.209797,
+        "permits": 3,
+        "units": 101
+      },
+      {
+        "stop_id": 20739,
+        "stop_name": "Woodland Av & 46th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.944537,
+        "lon": -75.209725,
+        "permits": 3,
+        "units": 101
+      },
+      {
+        "stop_id": 20727,
+        "stop_name": "Woodland Av & 46th St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.944323,
+        "lon": -75.209797,
+        "permits": 3,
+        "units": 101
+      },
+      {
+        "stop_id": 20739,
+        "stop_name": "Woodland Av & 46th St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.944537,
+        "lon": -75.209725,
+        "permits": 3,
+        "units": 101
+      },
+      {
+        "stop_id": 20799,
+        "stop_name": "Chester Av & 46th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.946827,
+        "lon": -75.212682,
+        "permits": 2,
+        "units": 91
+      },
+      {
+        "stop_id": 20800,
+        "stop_name": "Chester Av & 45th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.9477,
+        "lon": -75.211428,
+        "permits": 2,
+        "units": 91
+      },
+      {
+        "stop_id": 20809,
+        "stop_name": "Chester Av & 45th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.947878,
+        "lon": -75.211403,
+        "permits": 2,
+        "units": 91
+      },
+      {
+        "stop_id": 20810,
+        "stop_name": "Chester Av & 46th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.947006,
+        "lon": -75.212658,
+        "permits": 2,
+        "units": 91
+      },
+      {
+        "stop_id": 31488,
+        "stop_name": "Lancaster Av & Powelton Av",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.959631,
+        "lon": -75.195542,
+        "permits": 10,
+        "units": 90
+      },
+      {
+        "stop_id": 20869,
+        "stop_name": "Baltimore Av & 50th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947872,
+        "lon": -75.223377,
+        "permits": 9,
+        "units": 90
+      },
+      {
+        "stop_id": 600,
+        "stop_name": "Baltimore Av & 49th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948101,
+        "lon": -75.221404,
+        "permits": 9,
+        "units": 90
+      },
+      {
+        "stop_id": 600,
+        "stop_name": "Baltimore Av & 49th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948101,
+        "lon": -75.221404,
+        "permits": 9,
+        "units": 90
+      },
+      {
+        "stop_id": 20886,
+        "stop_name": "Baltimore Av & 50th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948041,
+        "lon": -75.223199,
+        "permits": 9,
+        "units": 90
+      },
+      {
+        "stop_id": 20726,
+        "stop_name": "Woodland Av & 48th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.941953,
+        "lon": -75.211728,
+        "permits": 2,
+        "units": 86
+      },
+      {
+        "stop_id": 20740,
+        "stop_name": "Woodland Av & 48th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.942176,
+        "lon": -75.211716,
+        "permits": 2,
+        "units": 86
+      },
+      {
+        "stop_id": 20726,
+        "stop_name": "Woodland Av & 48th St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.941953,
+        "lon": -75.211728,
+        "permits": 2,
+        "units": 86
+      },
+      {
+        "stop_id": 20740,
+        "stop_name": "Woodland Av & 48th St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.942176,
+        "lon": -75.211716,
+        "permits": 2,
+        "units": 86
+      },
+      {
+        "stop_id": 20817,
+        "stop_name": "Chester Av & 54th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.939785,
+        "lon": -75.222893,
+        "permits": 9,
+        "units": 83
+      },
+      {
+        "stop_id": 601,
+        "stop_name": "Baltimore Av & 49th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948261,
+        "lon": -75.221109,
+        "permits": 8,
+        "units": 80
+      },
+      {
+        "stop_id": 601,
+        "stop_name": "Baltimore Av & 49th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948261,
+        "lon": -75.221109,
+        "permits": 8,
+        "units": 80
+      },
+      {
+        "stop_id": 20794,
+        "stop_name": "Chester Av & 54th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.939607,
+        "lon": -75.222952,
+        "permits": 8,
+        "units": 79
+      },
+      {
+        "stop_id": 20628,
+        "stop_name": "Lancaster Av & 47th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.971555,
+        "lon": -75.216115,
+        "permits": 8,
+        "units": 68
+      },
+      {
+        "stop_id": 20677,
+        "stop_name": "Lancaster Av & 47th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.971564,
+        "lon": -75.215938,
+        "permits": 8,
+        "units": 68
+      },
+      {
+        "stop_id": 20864,
+        "stop_name": "Baltimore Av & 55th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947246,
+        "lon": -75.233746,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20870,
+        "stop_name": "Baltimore Av & Florence Av",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948312,
+        "lon": -75.219503,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20891,
+        "stop_name": "Baltimore Av & 55th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.947442,
+        "lon": -75.233522,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 30605,
+        "stop_name": "Girard Av & Merion Av",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.972725,
+        "lon": -75.216431,
+        "permits": 6,
+        "units": 54
+      },
+      {
+        "stop_id": 20863,
+        "stop_name": "Baltimore Av & 56th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.946785,
+        "lon": -75.235602,
+        "permits": 5,
+        "units": 50
+      },
+      {
+        "stop_id": 20892,
+        "stop_name": "Baltimore Av & 56th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.946936,
+        "lon": -75.235519,
+        "permits": 5,
+        "units": 50
+      },
+      {
+        "stop_id": 290,
+        "stop_name": "Lancaster Av & 48th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.972244,
+        "lon": -75.217035,
+        "permits": 6,
+        "units": 48
+      },
+      {
+        "stop_id": 20639,
+        "stop_name": "Lancaster Av & 36th St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.958565,
+        "lon": -75.193786,
+        "permits": 5,
+        "units": 46
+      },
+      {
+        "stop_id": 20725,
+        "stop_name": "Woodland Av & 50th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.939886,
+        "lon": -75.213907,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 21208,
+        "stop_name": "Woodland Av & 53rd St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.937242,
+        "lon": -75.217681,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 20723,
+        "stop_name": "Woodland Av & 52nd St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.938203,
+        "lon": -75.216297,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 20724,
+        "stop_name": "Woodland Av & 51st St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.938987,
+        "lon": -75.215197,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 20725,
+        "stop_name": "Woodland Av & 50th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.939886,
+        "lon": -75.213907,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 317,
+        "stop_name": "Woodland Av & 50th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.940064,
+        "lon": -75.213848,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 20741,
+        "stop_name": "Woodland Av & 51st St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.939192,
+        "lon": -75.215102,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 20742,
+        "stop_name": "Woodland Av & 52nd St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.938408,
+        "lon": -75.216214,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 20743,
+        "stop_name": "Woodland Av & 53rd St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.937438,
+        "lon": -75.217598,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 20744,
+        "stop_name": "Woodland Av & 54th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.936485,
+        "lon": -75.218947,
+        "permits": 4,
+        "units": 40
+      },
+      {
+        "stop_id": 20793,
+        "stop_name": "Chester Av & 55th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.938654,
+        "lon": -75.224301,
+        "permits": 4,
+        "units": 39
+      },
+      {
+        "stop_id": 20818,
+        "stop_name": "Chester Av & 55th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.938832,
+        "lon": -75.224253,
+        "permits": 4,
+        "units": 39
+      },
+      {
+        "stop_id": 20665,
+        "stop_name": "36th St & Lancaster Av",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.958404,
+        "lon": -75.193585,
+        "permits": 4,
+        "units": 36
+      },
+      {
+        "stop_id": 20885,
+        "stop_name": "Baltimore Av & 48th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948472,
+        "lon": -75.219101,
+        "permits": 3,
+        "units": 30
+      },
+      {
+        "stop_id": 20722,
+        "stop_name": "Woodland Av & 54th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.936262,
+        "lon": -75.219054,
+        "permits": 3,
+        "units": 30
+      },
+      {
+        "stop_id": 20664,
+        "stop_name": "36th St & Market St",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.956058,
+        "lon": -75.194113,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20872,
+        "stop_name": "Baltimore Av & 46th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948786,
+        "lon": -75.215061,
+        "permits": 1,
+        "units": 15
+      },
+      {
+        "stop_id": 20873,
+        "stop_name": "Baltimore Av & 45th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.949006,
+        "lon": -75.213018,
+        "permits": 1,
+        "units": 15
+      },
+      {
+        "stop_id": 20882,
+        "stop_name": "Baltimore Av & 45th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.949148,
+        "lon": -75.212828,
+        "permits": 1,
+        "units": 15
+      },
+      {
+        "stop_id": 20883,
+        "stop_name": "Baltimore Av & 46th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.948937,
+        "lon": -75.214884,
+        "permits": 1,
+        "units": 15
+      },
+      {
+        "stop_id": 21058,
+        "stop_name": "Girard Av & Lancaster Av",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.972978,
+        "lon": -75.218521,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 30292,
+        "stop_name": "Girard Av & 34th St - MBFS",
+        "route": "G1",
+        "district": "3",
+        "lat": 39.974841,
+        "lon": -75.196733,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20641,
+        "stop_name": "36th St Trolley Portal Station",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.955335,
+        "lon": -75.194162,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 287,
+        "stop_name": "36th St Trolley Portal Station",
+        "route": "T1",
+        "district": "3",
+        "lat": 39.955451,
+        "lon": -75.194233,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20957,
+        "stop_name": "49th St & Woodland Av",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.940794,
+        "lon": -75.212429,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20862,
+        "stop_name": "Baltimore Av & 57th St",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.946386,
+        "lon": -75.237327,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20732,
+        "stop_name": "36th-Sansom",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.953854,
+        "lon": -75.194533,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20733,
+        "stop_name": "36th-Sansom",
+        "route": "T2",
+        "district": "3",
+        "lat": 39.95389,
+        "lon": -75.194722,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20732,
+        "stop_name": "36th-Sansom",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.953854,
+        "lon": -75.194533,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20733,
+        "stop_name": "36th-Sansom",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.95389,
+        "lon": -75.194722,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20819,
+        "stop_name": "Chester Av & 56th St",
+        "route": "T3",
+        "district": "3",
+        "lat": 39.937871,
+        "lon": -75.225625,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 297,
+        "stop_name": "Woodland Av & 49th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.940767,
+        "lon": -75.212665,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20728,
+        "stop_name": "Woodland Av & 45th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.94541,
+        "lon": -75.208565,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20732,
+        "stop_name": "36th-Sansom",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.953854,
+        "lon": -75.194533,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20733,
+        "stop_name": "36th-Sansom",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.95389,
+        "lon": -75.194722,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20737,
+        "stop_name": "Woodland Av & 43rd St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.945767,
+        "lon": -75.20834,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 302,
+        "stop_name": "Woodland Av & 49th St",
+        "route": "T4",
+        "district": "3",
+        "lat": 39.940955,
+        "lon": -75.212582,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20955,
+        "stop_name": "49th St & Paschall Av",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.939819,
+        "lon": -75.211286,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20957,
+        "stop_name": "49th St & Woodland Av",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.940794,
+        "lon": -75.212429,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20728,
+        "stop_name": "Woodland Av & 45th St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.94541,
+        "lon": -75.208565,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20732,
+        "stop_name": "36th-Sansom",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.953854,
+        "lon": -75.194533,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20733,
+        "stop_name": "36th-Sansom",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.95389,
+        "lon": -75.194722,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20737,
+        "stop_name": "Woodland Av & 43rd St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.945767,
+        "lon": -75.20834,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 302,
+        "stop_name": "Woodland Av & 49th St",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.940955,
+        "lon": -75.212582,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20897,
+        "stop_name": "49th St & Paschall Av",
+        "route": "T5",
+        "district": "3",
+        "lat": 39.93998,
+        "lon": -75.211652,
+        "permits": 1,
+        "units": 10
+      }
+    ],
+    "5": [
+      {
+        "stop_id": 21005,
+        "stop_name": "Girard Av & 16th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.971908,
+        "lon": -75.162605,
+        "permits": 54,
+        "units": 622
+      },
+      {
+        "stop_id": 21083,
+        "stop_name": "Girard Av & 16th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.971828,
+        "lon": -75.162806,
+        "permits": 54,
+        "units": 622
+      },
+      {
+        "stop_id": 21082,
+        "stop_name": "Girard Av & 17th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972028,
+        "lon": -75.164352,
+        "permits": 55,
+        "units": 560
+      },
+      {
+        "stop_id": 21006,
+        "stop_name": "Girard Av & 17th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972116,
+        "lon": -75.164151,
+        "permits": 53,
+        "units": 546
+      },
+      {
+        "stop_id": 21008,
+        "stop_name": "Girard Av & Ridge Av",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.97238,
+        "lon": -75.166217,
+        "permits": 48,
+        "units": 502
+      },
+      {
+        "stop_id": 21081,
+        "stop_name": "Girard Av & Ridge Av",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972309,
+        "lon": -75.166572,
+        "permits": 48,
+        "units": 502
+      },
+      {
+        "stop_id": 352,
+        "stop_name": "Girard Av & Broad St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.971428,
+        "lon": -75.159594,
+        "permits": 25,
+        "units": 442
+      },
+      {
+        "stop_id": 343,
+        "stop_name": "Girard Av & Broad St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.971499,
+        "lon": -75.159275,
+        "permits": 23,
+        "units": 422
+      },
+      {
+        "stop_id": 20993,
+        "stop_name": "Girard Av & 2nd St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.9695,
+        "lon": -75.13945,
+        "permits": 22,
+        "units": 406
+      },
+      {
+        "stop_id": 30290,
+        "stop_name": "Girard Av & 19th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972507,
+        "lon": -75.167339,
+        "permits": 38,
+        "units": 406
+      },
+      {
+        "stop_id": 342,
+        "stop_name": "Girard Av & Front St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.968903,
+        "lon": -75.136075,
+        "permits": 20,
+        "units": 376
+      },
+      {
+        "stop_id": 20998,
+        "stop_name": "Girard Av & 7th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970484,
+        "lon": -75.148022,
+        "permits": 31,
+        "units": 363
+      },
+      {
+        "stop_id": 21091,
+        "stop_name": "Girard Av & 7th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970386,
+        "lon": -75.148211,
+        "permits": 30,
+        "units": 353
+      },
+      {
+        "stop_id": 20999,
+        "stop_name": "Girard Av & 8th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970568,
+        "lon": -75.149853,
+        "permits": 29,
+        "units": 351
+      },
+      {
+        "stop_id": 21080,
+        "stop_name": "Girard Av & 19th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972427,
+        "lon": -75.16754,
+        "permits": 31,
+        "units": 344
+      },
+      {
+        "stop_id": 21090,
+        "stop_name": "Girard Av & 8th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.97047,
+        "lon": -75.150042,
+        "permits": 27,
+        "units": 331
+      },
+      {
+        "stop_id": 21009,
+        "stop_name": "Girard Av & 20th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972715,
+        "lon": -75.168874,
+        "permits": 26,
+        "units": 296
+      },
+      {
+        "stop_id": 21010,
+        "stop_name": "Girard Av & Corinthian Av",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972888,
+        "lon": -75.17022,
+        "permits": 30,
+        "units": 287
+      },
+      {
+        "stop_id": 21079,
+        "stop_name": "Girard Av & 20th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972636,
+        "lon": -75.169087,
+        "permits": 25,
+        "units": 286
+      },
+      {
+        "stop_id": 21078,
+        "stop_name": "Girard Av & Corinthian Av",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972817,
+        "lon": -75.170421,
+        "permits": 29,
+        "units": 277
+      },
+      {
+        "stop_id": 20646,
+        "stop_name": "19th St",
+        "route": "T1",
+        "district": "5",
+        "lat": 39.953327,
+        "lon": -75.171637,
+        "permits": 4,
+        "units": 245
+      },
+      {
+        "stop_id": 20646,
+        "stop_name": "19th St",
+        "route": "T2",
+        "district": "5",
+        "lat": 39.953327,
+        "lon": -75.171637,
+        "permits": 4,
+        "units": 245
+      },
+      {
+        "stop_id": 20646,
+        "stop_name": "19th St",
+        "route": "T3",
+        "district": "5",
+        "lat": 39.953327,
+        "lon": -75.171637,
+        "permits": 4,
+        "units": 245
+      },
+      {
+        "stop_id": 20646,
+        "stop_name": "19th St",
+        "route": "T4",
+        "district": "5",
+        "lat": 39.953327,
+        "lon": -75.171637,
+        "permits": 4,
+        "units": 245
+      },
+      {
+        "stop_id": 20646,
+        "stop_name": "19th St",
+        "route": "T5",
+        "district": "5",
+        "lat": 39.953327,
+        "lon": -75.171637,
+        "permits": 4,
+        "units": 245
+      },
+      {
+        "stop_id": 20660,
+        "stop_name": "19th St",
+        "route": "T1",
+        "district": "5",
+        "lat": 39.953425,
+        "lon": -75.171483,
+        "permits": 3,
+        "units": 235
+      },
+      {
+        "stop_id": 20660,
+        "stop_name": "19th St",
+        "route": "T2",
+        "district": "5",
+        "lat": 39.953425,
+        "lon": -75.171483,
+        "permits": 3,
+        "units": 235
+      },
+      {
+        "stop_id": 20660,
+        "stop_name": "19th St",
+        "route": "T3",
+        "district": "5",
+        "lat": 39.953425,
+        "lon": -75.171483,
+        "permits": 3,
+        "units": 235
+      },
+      {
+        "stop_id": 20660,
+        "stop_name": "19th St",
+        "route": "T4",
+        "district": "5",
+        "lat": 39.953425,
+        "lon": -75.171483,
+        "permits": 3,
+        "units": 235
+      },
+      {
+        "stop_id": 20660,
+        "stop_name": "19th St",
+        "route": "T5",
+        "district": "5",
+        "lat": 39.953425,
+        "lon": -75.171483,
+        "permits": 3,
+        "units": 235
+      },
+      {
+        "stop_id": 21093,
+        "stop_name": "Girard Av & 5th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970129,
+        "lon": -75.145094,
+        "permits": 22,
+        "units": 227
+      },
+      {
+        "stop_id": 20996,
+        "stop_name": "Girard Av & 5th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970218,
+        "lon": -75.144905,
+        "permits": 21,
+        "units": 217
+      },
+      {
+        "stop_id": 21002,
+        "stop_name": "Girard Av & 12th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.971045,
+        "lon": -75.155603,
+        "permits": 7,
+        "units": 205
+      },
+      {
+        "stop_id": 21086,
+        "stop_name": "Girard Av & 12th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970965,
+        "lon": -75.155816,
+        "permits": 7,
+        "units": 205
+      },
+      {
+        "stop_id": 20995,
+        "stop_name": "Girard Av & 4th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.96999,
+        "lon": -75.142968,
+        "permits": 14,
+        "units": 187
+      },
+      {
+        "stop_id": 20994,
+        "stop_name": "Girard Av & 3rd St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.969799,
+        "lon": -75.141386,
+        "permits": 13,
+        "units": 177
+      },
+      {
+        "stop_id": 21016,
+        "stop_name": "Girard Av & 26th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.973976,
+        "lon": -75.178733,
+        "permits": 15,
+        "units": 156
+      },
+      {
+        "stop_id": 21071,
+        "stop_name": "Girard Av & 26th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.973896,
+        "lon": -75.178946,
+        "permits": 15,
+        "units": 156
+      },
+      {
+        "stop_id": 21001,
+        "stop_name": "Girard Av & 11th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970845,
+        "lon": -75.154021,
+        "permits": 6,
+        "units": 146
+      },
+      {
+        "stop_id": 21017,
+        "stop_name": "Girard Av & 27th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.974202,
+        "lon": -75.18028,
+        "permits": 14,
+        "units": 146
+      },
+      {
+        "stop_id": 21075,
+        "stop_name": "College Av & 24th St - FS",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.97239,
+        "lon": -75.175384,
+        "permits": 14,
+        "units": 146
+      },
+      {
+        "stop_id": 21087,
+        "stop_name": "Girard Av & 11th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970756,
+        "lon": -75.154222,
+        "permits": 6,
+        "units": 146
+      },
+      {
+        "stop_id": 30791,
+        "stop_name": "Girard Av & 24th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972453,
+        "lon": -75.175844,
+        "permits": 13,
+        "units": 136
+      },
+      {
+        "stop_id": 21014,
+        "stop_name": "Poplar St & 25th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972492,
+        "lon": -75.177403,
+        "permits": 13,
+        "units": 136
+      },
+      {
+        "stop_id": 21073,
+        "stop_name": "Poplar St & Stillman St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.97244,
+        "lon": -75.178171,
+        "permits": 12,
+        "units": 126
+      },
+      {
+        "stop_id": 21070,
+        "stop_name": "Girard Av & 27th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.974113,
+        "lon": -75.180504,
+        "permits": 10,
+        "units": 106
+      },
+      {
+        "stop_id": 21018,
+        "stop_name": "Girard Av & 28th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.974375,
+        "lon": -75.181756,
+        "permits": 7,
+        "units": 76
+      },
+      {
+        "stop_id": 21069,
+        "stop_name": "Girard Av & 28th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.974286,
+        "lon": -75.181969,
+        "permits": 7,
+        "units": 76
+      },
+      {
+        "stop_id": 21072,
+        "stop_name": "26th St & Poplar St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.972701,
+        "lon": -75.179198,
+        "permits": 7,
+        "units": 76
+      },
+      {
+        "stop_id": 20989,
+        "stop_name": "Girard Av & Columbia Av",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970265,
+        "lon": -75.130423,
+        "permits": 7,
+        "units": 66
+      },
+      {
+        "stop_id": 21019,
+        "stop_name": "Girard Av & 29th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.974574,
+        "lon": -75.183361,
+        "permits": 6,
+        "units": 66
+      },
+      {
+        "stop_id": 21068,
+        "stop_name": "Girard Av & 29th St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.974486,
+        "lon": -75.183622,
+        "permits": 6,
+        "units": 66
+      },
+      {
+        "stop_id": 20661,
+        "stop_name": "22nd St",
+        "route": "T1",
+        "district": "5",
+        "lat": 39.954051,
+        "lon": -75.176571,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20661,
+        "stop_name": "22nd St",
+        "route": "T2",
+        "district": "5",
+        "lat": 39.954051,
+        "lon": -75.176571,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20661,
+        "stop_name": "22nd St",
+        "route": "T3",
+        "district": "5",
+        "lat": 39.954051,
+        "lon": -75.176571,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20661,
+        "stop_name": "22nd St",
+        "route": "T4",
+        "district": "5",
+        "lat": 39.954051,
+        "lon": -75.176571,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20661,
+        "stop_name": "22nd St",
+        "route": "T5",
+        "district": "5",
+        "lat": 39.954051,
+        "lon": -75.176571,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20988,
+        "stop_name": "Girard Av & Palmer St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.970983,
+        "lon": -75.1284,
+        "permits": 4,
+        "units": 36
+      },
+      {
+        "stop_id": 21101,
+        "stop_name": "Girard Av & Palmer St",
+        "route": "G1",
+        "district": "5",
+        "lat": 39.97084,
+        "lon": -75.128519,
+        "permits": 4,
+        "units": 36
+      },
+      {
+        "stop_id": 31140,
+        "stop_name": "15th St/City Hall",
+        "route": "T1",
+        "district": "5",
+        "lat": 39.952502,
+        "lon": -75.165369,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20659,
+        "stop_name": "15th St/City Hall",
+        "route": "T1",
+        "district": "5",
+        "lat": 39.952672,
+        "lon": -75.165345,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 31140,
+        "stop_name": "15th St/City Hall",
+        "route": "T2",
+        "district": "5",
+        "lat": 39.952502,
+        "lon": -75.165369,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20659,
+        "stop_name": "15th St/City Hall",
+        "route": "T2",
+        "district": "5",
+        "lat": 39.952672,
+        "lon": -75.165345,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 31140,
+        "stop_name": "15th St/City Hall",
+        "route": "T3",
+        "district": "5",
+        "lat": 39.952502,
+        "lon": -75.165369,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20659,
+        "stop_name": "15th St/City Hall",
+        "route": "T3",
+        "district": "5",
+        "lat": 39.952672,
+        "lon": -75.165345,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 31140,
+        "stop_name": "15th St/City Hall",
+        "route": "T4",
+        "district": "5",
+        "lat": 39.952502,
+        "lon": -75.165369,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20659,
+        "stop_name": "15th St/City Hall",
+        "route": "T4",
+        "district": "5",
+        "lat": 39.952672,
+        "lon": -75.165345,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 31140,
+        "stop_name": "15th St/City Hall",
+        "route": "T5",
+        "district": "5",
+        "lat": 39.952502,
+        "lon": -75.165369,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20659,
+        "stop_name": "15th St/City Hall",
+        "route": "T5",
+        "district": "5",
+        "lat": 39.952672,
+        "lon": -75.165345,
+        "permits": 1,
+        "units": 10
+      }
+    ],
+    "1": [
+      {
+        "stop_id": 21096,
+        "stop_name": "Girard Av & 2nd St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.969439,
+        "lon": -75.139805,
+        "permits": 20,
+        "units": 386
+      },
+      {
+        "stop_id": 20978,
+        "stop_name": "Girard Av & Front St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.968851,
+        "lon": -75.136358,
+        "permits": 21,
+        "units": 386
+      },
+      {
+        "stop_id": 31540,
+        "stop_name": "Frankford Av & Girard Av - FS",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.96865,
+        "lon": -75.134493,
+        "permits": 21,
+        "units": 346
+      },
+      {
+        "stop_id": 481,
+        "stop_name": "Frankford Av & Girard Av",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.968774,
+        "lon": -75.134351,
+        "permits": 21,
+        "units": 346
+      },
+      {
+        "stop_id": 31540,
+        "stop_name": "Frankford Av & Girard Av - FS",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.96865,
+        "lon": -75.134493,
+        "permits": 21,
+        "units": 346
+      },
+      {
+        "stop_id": 21098,
+        "stop_name": "Girard Av & Frankford Av- FS",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.968855,
+        "lon": -75.134244,
+        "permits": 20,
+        "units": 336
+      },
+      {
+        "stop_id": 24038,
+        "stop_name": "Frankford Av & Richmond St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.966124,
+        "lon": -75.134492,
+        "permits": 17,
+        "units": 306
+      },
+      {
+        "stop_id": 23992,
+        "stop_name": "Frankford Av & Richmond St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.966008,
+        "lon": -75.134338,
+        "permits": 17,
+        "units": 306
+      },
+      {
+        "stop_id": 24038,
+        "stop_name": "Frankford Av & Richmond St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.966124,
+        "lon": -75.134492,
+        "permits": 17,
+        "units": 306
+      },
+      {
+        "stop_id": 23992,
+        "stop_name": "Frankford Av & Richmond St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.966008,
+        "lon": -75.134338,
+        "permits": 17,
+        "units": 306
+      },
+      {
+        "stop_id": 31289,
+        "stop_name": "Frankford Av & Delaware Av - FS",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.965205,
+        "lon": -75.134342,
+        "permits": 14,
+        "units": 179
+      },
+      {
+        "stop_id": 31289,
+        "stop_name": "Frankford Av & Delaware Av - FS",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.965205,
+        "lon": -75.134342,
+        "permits": 14,
+        "units": 179
+      },
+      {
+        "stop_id": 21095,
+        "stop_name": "Girard Av & 3rd St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.969711,
+        "lon": -75.141599,
+        "permits": 13,
+        "units": 177
+      },
+      {
+        "stop_id": 24039,
+        "stop_name": "Frankford Av & Delaware Av",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.964812,
+        "lon": -75.134485,
+        "permits": 13,
+        "units": 169
+      },
+      {
+        "stop_id": 31347,
+        "stop_name": "Frankford Av & Delaware Av Loop",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.964945,
+        "lon": -75.134154,
+        "permits": 13,
+        "units": 169
+      },
+      {
+        "stop_id": 24039,
+        "stop_name": "Frankford Av & Delaware Av",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.964812,
+        "lon": -75.134485,
+        "permits": 13,
+        "units": 169
+      },
+      {
+        "stop_id": 31347,
+        "stop_name": "Frankford Av & Delaware Av Loop",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.964945,
+        "lon": -75.134154,
+        "permits": 13,
+        "units": 169
+      },
+      {
+        "stop_id": 20986,
+        "stop_name": "Girard Av & Berks St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.971869,
+        "lon": -75.125833,
+        "permits": 7,
+        "units": 66
+      },
+      {
+        "stop_id": 21103,
+        "stop_name": "Girard Av & Berks St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.971709,
+        "lon": -75.125999,
+        "permits": 7,
+        "units": 66
+      },
+      {
+        "stop_id": 20979,
+        "stop_name": "Richmond St & Clearfield St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.981783,
+        "lon": -75.103782,
+        "permits": 4,
+        "units": 61
+      },
+      {
+        "stop_id": 20981,
+        "stop_name": "Richmond St & Ann St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.979945,
+        "lon": -75.107311,
+        "permits": 4,
+        "units": 61
+      },
+      {
+        "stop_id": 21111,
+        "stop_name": "Richmond St & Ann St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.979758,
+        "lon": -75.107536,
+        "permits": 4,
+        "units": 61
+      },
+      {
+        "stop_id": 21113,
+        "stop_name": "Richmond St & Clearfield St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.981605,
+        "lon": -75.104019,
+        "permits": 4,
+        "units": 61
+      },
+      {
+        "stop_id": 21100,
+        "stop_name": "Girard Av & Columbia Av",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.970122,
+        "lon": -75.130542,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 25779,
+        "stop_name": "Richmond St & Girard Av",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.973068,
+        "lon": -75.119591,
+        "permits": 5,
+        "units": 50
+      },
+      {
+        "stop_id": 21105,
+        "stop_name": "Girard Av & Richmond St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.972988,
+        "lon": -75.119769,
+        "permits": 5,
+        "units": 50
+      },
+      {
+        "stop_id": 21114,
+        "stop_name": "Richmond St & Allegheny Av",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.982875,
+        "lon": -75.101544,
+        "permits": 2,
+        "units": 41
+      },
+      {
+        "stop_id": 20982,
+        "stop_name": "Richmond St & Cambria St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.979092,
+        "lon": -75.108862,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 12218,
+        "stop_name": "Richmond St & Somerset St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.978159,
+        "lon": -75.110697,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20983,
+        "stop_name": "Richmond St & Lehigh Av",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.976907,
+        "lon": -75.113101,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20984,
+        "stop_name": "Richmond St & Huntingdon St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.975628,
+        "lon": -75.115552,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 650,
+        "stop_name": "Richmond St & Cumberland St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.974331,
+        "lon": -75.118038,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 649,
+        "stop_name": "Richmond St & Cumberland St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.974153,
+        "lon": -75.118181,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 21107,
+        "stop_name": "Richmond St & Huntingdon St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.975441,
+        "lon": -75.11573,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 21108,
+        "stop_name": "Richmond St & Lehigh Av",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.976729,
+        "lon": -75.113302,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 21109,
+        "stop_name": "Richmond St & Somerset St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.977981,
+        "lon": -75.110887,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 21110,
+        "stop_name": "Richmond St & Cambria St",
+        "route": "G1",
+        "district": "1",
+        "lat": 39.978914,
+        "lon": -75.109052,
+        "permits": 2,
+        "units": 20
+      }
+    ],
+    "4": [
+      {
+        "stop_id": 21032,
+        "stop_name": "Girard Av & 51st St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.971987,
+        "lon": -75.223438,
+        "permits": 10,
+        "units": 113
+      },
+      {
+        "stop_id": 21033,
+        "stop_name": "Girard Av & 52nd St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.971473,
+        "lon": -75.22579,
+        "permits": 10,
+        "units": 113
+      },
+      {
+        "stop_id": 21055,
+        "stop_name": "Girard Av & 52nd St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.971357,
+        "lon": -75.225908,
+        "permits": 10,
+        "units": 113
+      },
+      {
+        "stop_id": 21025,
+        "stop_name": "Girard Av & 39th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.974511,
+        "lon": -75.201683,
+        "permits": 12,
+        "units": 110
+      },
+      {
+        "stop_id": 20625,
+        "stop_name": "Lancaster Av & Bible Way",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976855,
+        "lon": -75.226176,
+        "permits": 9,
+        "units": 81
+      },
+      {
+        "stop_id": 20681,
+        "stop_name": "Lancaster Av & 52nd St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.977186,
+        "lon": -75.2266,
+        "permits": 9,
+        "units": 81
+      },
+      {
+        "stop_id": 20613,
+        "stop_name": "Lansdowne Av & 63rd - FS",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.975332,
+        "lon": -75.244986,
+        "permits": 4,
+        "units": 72
+      },
+      {
+        "stop_id": 20692,
+        "stop_name": "63rd St & Lansdowne Av - FS",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.975582,
+        "lon": -75.245529,
+        "permits": 4,
+        "units": 72
+      },
+      {
+        "stop_id": 21035,
+        "stop_name": "Girard Av & 54th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.971165,
+        "lon": -75.228614,
+        "permits": 7,
+        "units": 70
+      },
+      {
+        "stop_id": 21053,
+        "stop_name": "Girard Av & 54th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.971041,
+        "lon": -75.228803,
+        "permits": 7,
+        "units": 70
+      },
+      {
+        "stop_id": 20622,
+        "stop_name": "Lansdowne Av & 55th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976811,
+        "lon": -75.231858,
+        "permits": 7,
+        "units": 68
+      },
+      {
+        "stop_id": 20624,
+        "stop_name": "Lansdowne Av & Lancaster Av",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.977295,
+        "lon": -75.227451,
+        "permits": 7,
+        "units": 68
+      },
+      {
+        "stop_id": 20619,
+        "stop_name": "Lansdowne Av & 56th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976591,
+        "lon": -75.233761,
+        "permits": 6,
+        "units": 64
+      },
+      {
+        "stop_id": 20685,
+        "stop_name": "Lansdowne Av & 56th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976707,
+        "lon": -75.233607,
+        "permits": 6,
+        "units": 64
+      },
+      {
+        "stop_id": 20623,
+        "stop_name": "Lansdowne Av & 54th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.977013,
+        "lon": -75.229908,
+        "permits": 6,
+        "units": 58
+      },
+      {
+        "stop_id": 20683,
+        "stop_name": "Lansdowne Av & 54th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.977129,
+        "lon": -75.229755,
+        "permits": 6,
+        "units": 58
+      },
+      {
+        "stop_id": 20684,
+        "stop_name": "Lansdowne Av & 55th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976927,
+        "lon": -75.231704,
+        "permits": 6,
+        "units": 58
+      },
+      {
+        "stop_id": 30550,
+        "stop_name": "Girard Av & Merion Av",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.972814,
+        "lon": -75.216277,
+        "permits": 6,
+        "units": 54
+      },
+      {
+        "stop_id": 20626,
+        "stop_name": "Lancaster Av & 50th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.975207,
+        "lon": -75.22259,
+        "permits": 4,
+        "units": 33
+      },
+      {
+        "stop_id": 20679,
+        "stop_name": "Lancaster Av & 50th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.975234,
+        "lon": -75.222389,
+        "permits": 4,
+        "units": 33
+      },
+      {
+        "stop_id": 21021,
+        "stop_name": "Girard Av & 31st St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.975009,
+        "lon": -75.186549,
+        "permits": 3,
+        "units": 30
+      },
+      {
+        "stop_id": 21037,
+        "stop_name": "Girard Av & 56th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970761,
+        "lon": -75.232477,
+        "permits": 3,
+        "units": 30
+      },
+      {
+        "stop_id": 21047,
+        "stop_name": "Girard Av & 61st St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.969801,
+        "lon": -75.241221,
+        "permits": 3,
+        "units": 30
+      },
+      {
+        "stop_id": 21051,
+        "stop_name": "Girard Av & 56th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970636,
+        "lon": -75.232667,
+        "permits": 3,
+        "units": 30
+      },
+      {
+        "stop_id": 21044,
+        "stop_name": "Girard Av & 63rd St - MBFS",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970226,
+        "lon": -75.244598,
+        "permits": 3,
+        "units": 26
+      },
+      {
+        "stop_id": 21044,
+        "stop_name": "Girard Av & 63rd St - MBFS",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970226,
+        "lon": -75.244598,
+        "permits": 3,
+        "units": 26
+      },
+      {
+        "stop_id": 20627,
+        "stop_name": "Lancaster Av & Thompson St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.973748,
+        "lon": -75.219747,
+        "permits": 3,
+        "units": 23
+      },
+      {
+        "stop_id": 21038,
+        "stop_name": "Girard Av & 57th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970585,
+        "lon": -75.234096,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 31443,
+        "stop_name": "Girard Av & 62nd St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970063,
+        "lon": -75.243216,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 21067,
+        "stop_name": "Girard Av & 31st St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.974938,
+        "lon": -75.18675,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 31294,
+        "stop_name": "63rd-Malvern",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.983838,
+        "lon": -75.245957,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20610,
+        "stop_name": "Malvern Av & 63rd St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.983697,
+        "lon": -75.247009,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20611,
+        "stop_name": "63rd St & Lebanon Av",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.980912,
+        "lon": -75.246661,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20616,
+        "stop_name": "Lansdowne Av & 59th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976054,
+        "lon": -75.238653,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20617,
+        "stop_name": "Lansdowne Av & 58th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976248,
+        "lon": -75.236904,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20618,
+        "stop_name": "Lansdowne Av & 57th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976406,
+        "lon": -75.235403,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20686,
+        "stop_name": "Lansdowne Av & 57th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976522,
+        "lon": -75.235249,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20687,
+        "stop_name": "Lansdowne Av & 58th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.976363,
+        "lon": -75.23675,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20688,
+        "stop_name": "Lansdowne Av & 59th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.97617,
+        "lon": -75.238499,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 20695,
+        "stop_name": "63rd St & Columbia Av",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.980582,
+        "lon": -75.246461,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 31294,
+        "stop_name": "63rd-Malvern",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.983838,
+        "lon": -75.245957,
+        "permits": 2,
+        "units": 20
+      },
+      {
+        "stop_id": 21022,
+        "stop_name": "Girard Av & 33rd St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.975199,
+        "lon": -75.188002,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 21030,
+        "stop_name": "Girard Av & 49th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.972917,
+        "lon": -75.219064,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 345,
+        "stop_name": "Girard Av & 59th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970224,
+        "lon": -75.237334,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 21040,
+        "stop_name": "Girard Av & 60th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970039,
+        "lon": -75.238988,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 21048,
+        "stop_name": "Girard Av & 60th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.969897,
+        "lon": -75.239366,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 349,
+        "stop_name": "Girard Av & 59th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.970099,
+        "lon": -75.237523,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 21050,
+        "stop_name": "Girard Av & 57th St",
+        "route": "G1",
+        "district": "4",
+        "lat": 39.97046,
+        "lon": -75.234285,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20612,
+        "stop_name": "63rd St & Jefferson St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.97835,
+        "lon": -75.246184,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20614,
+        "stop_name": "Lansdowne Av & 62nd St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.975499,
+        "lon": -75.243651,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20615,
+        "stop_name": "Lansdowne Av & 61st St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.975693,
+        "lon": -75.241879,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 277,
+        "stop_name": "Lancaster Av & Girard Av",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.973059,
+        "lon": -75.218615,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20678,
+        "stop_name": "Lancaster Av & 49th St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.973703,
+        "lon": -75.219464,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20690,
+        "stop_name": "Lansdowne Av & 61st St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.975809,
+        "lon": -75.241725,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20691,
+        "stop_name": "Lansdowne Av & 62nd St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.975615,
+        "lon": -75.243497,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20693,
+        "stop_name": "63rd St & Jefferson St",
+        "route": "T1",
+        "district": "4",
+        "lat": 39.978234,
+        "lon": -75.24603,
+        "permits": 1,
+        "units": 10
+      }
+    ],
+    "2": [
+      {
+        "stop_id": 20929,
+        "stop_name": "Island Av & Tanager St - F",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.90915,
+        "lon": -75.242029,
+        "permits": 3,
+        "units": 65
+      },
+      {
+        "stop_id": 20930,
+        "stop_name": "Island Av & Buist Av",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.911186,
+        "lon": -75.242661,
+        "permits": 3,
+        "units": 65
+      },
+      {
+        "stop_id": 20920,
+        "stop_name": "Island Av & Buist Av - FS",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.911195,
+        "lon": -75.242744,
+        "permits": 3,
+        "units": 65
+      },
+      {
+        "stop_id": 20921,
+        "stop_name": "Island Av & Tanager St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.909132,
+        "lon": -75.2421,
+        "permits": 3,
+        "units": 65
+      },
+      {
+        "stop_id": 20645,
+        "stop_name": "22nd St",
+        "route": "T1",
+        "district": "2",
+        "lat": 39.953962,
+        "lon": -75.176736,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20645,
+        "stop_name": "22nd St",
+        "route": "T2",
+        "district": "2",
+        "lat": 39.953962,
+        "lon": -75.176736,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20645,
+        "stop_name": "22nd St",
+        "route": "T3",
+        "district": "2",
+        "lat": 39.953962,
+        "lon": -75.176736,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20645,
+        "stop_name": "22nd St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.953962,
+        "lon": -75.176736,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20645,
+        "stop_name": "22nd St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.953962,
+        "lon": -75.176736,
+        "permits": 6,
+        "units": 60
+      },
+      {
+        "stop_id": 20928,
+        "stop_name": "Island Av & 76th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.907284,
+        "lon": -75.241432,
+        "permits": 2,
+        "units": 55
+      },
+      {
+        "stop_id": 20931,
+        "stop_name": "Elmwood Av & Island Av - M",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.913266,
+        "lon": -75.242998,
+        "permits": 2,
+        "units": 55
+      },
+      {
+        "stop_id": 20919,
+        "stop_name": "Elmwood Av & Island Av",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.913284,
+        "lon": -75.243092,
+        "permits": 2,
+        "units": 55
+      },
+      {
+        "stop_id": 20922,
+        "stop_name": "Island Av & 76th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.907391,
+        "lon": -75.24155,
+        "permits": 2,
+        "units": 55
+      },
+      {
+        "stop_id": 20946,
+        "stop_name": "Elmwood Av & 59th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.928039,
+        "lon": -75.221994,
+        "permits": 2,
+        "units": 26
+      },
+      {
+        "stop_id": 20947,
+        "stop_name": "Elmwood Av & 58th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.928964,
+        "lon": -75.220586,
+        "permits": 2,
+        "units": 26
+      },
+      {
+        "stop_id": 20948,
+        "stop_name": "Elmwood Av & 57th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.929935,
+        "lon": -75.219226,
+        "permits": 2,
+        "units": 26
+      },
+      {
+        "stop_id": 20949,
+        "stop_name": "Elmwood Av & 56th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.930986,
+        "lon": -75.217747,
+        "permits": 2,
+        "units": 26
+      },
+      {
+        "stop_id": 20902,
+        "stop_name": "Elmwood Av & 56th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.931173,
+        "lon": -75.217711,
+        "permits": 2,
+        "units": 26
+      },
+      {
+        "stop_id": 20903,
+        "stop_name": "Elmwood Av & 57th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.930131,
+        "lon": -75.219202,
+        "permits": 2,
+        "units": 26
+      },
+      {
+        "stop_id": 20904,
+        "stop_name": "Elmwood Av & 58th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.929152,
+        "lon": -75.220539,
+        "permits": 2,
+        "units": 26
+      },
+      {
+        "stop_id": 20905,
+        "stop_name": "Elmwood Av & 59th St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.928226,
+        "lon": -75.221958,
+        "permits": 2,
+        "units": 26
+      },
+      {
+        "stop_id": 20932,
+        "stop_name": "Elmwood Av & 73rd St",
+        "route": "T2",
+        "district": "2",
+        "lat": 39.914129,
+        "lon": -75.241816,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20704,
+        "stop_name": "Woodland Av & Island Av",
+        "route": "T2",
+        "district": "2",
+        "lat": 39.917099,
+        "lon": -75.246376,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 304,
+        "stop_name": "Woodland Av & Island Av",
+        "route": "T2",
+        "district": "2",
+        "lat": 39.917304,
+        "lon": -75.246245,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 610,
+        "stop_name": "Elmwood Av & 73rd St",
+        "route": "T2",
+        "district": "2",
+        "lat": 39.914335,
+        "lon": -75.241732,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20704,
+        "stop_name": "Woodland Av & Island Av",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.917099,
+        "lon": -75.246376,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20705,
+        "stop_name": "Woodland Av & 72nd St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.918432,
+        "lon": -75.244412,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20706,
+        "stop_name": "Woodland Av & 71st St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.919361,
+        "lon": -75.243077,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20707,
+        "stop_name": "Woodland Av & 70th St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.920483,
+        "lon": -75.24148,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20708,
+        "stop_name": "Woodland Av & 69th St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.921463,
+        "lon": -75.240097,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20757,
+        "stop_name": "Woodland Av & 69th St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.921641,
+        "lon": -75.240037,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20758,
+        "stop_name": "Woodland Av & 70th St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.920688,
+        "lon": -75.241397,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20759,
+        "stop_name": "Woodland Av & 71st St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.919584,
+        "lon": -75.242958,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20760,
+        "stop_name": "Woodland Av & 72nd St",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.918622,
+        "lon": -75.244342,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 304,
+        "stop_name": "Woodland Av & Island Av",
+        "route": "T4",
+        "district": "2",
+        "lat": 39.917304,
+        "lon": -75.246245,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 611,
+        "stop_name": "Elmwood Loop",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.914015,
+        "lon": -75.242642,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 20932,
+        "stop_name": "Elmwood Av & 73rd St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.914129,
+        "lon": -75.241816,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 610,
+        "stop_name": "Elmwood Av & 73rd St",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.914335,
+        "lon": -75.241732,
+        "permits": 1,
+        "units": 10
+      },
+      {
+        "stop_id": 611,
+        "stop_name": "Elmwood Loop",
+        "route": "T5",
+        "district": "2",
+        "lat": 39.914015,
+        "lon": -75.242642,
+        "permits": 1,
+        "units": 10
+      }
+    ],
+    "6": [
+      {
+        "stop_id": 12196,
+        "stop_name": "Richmond St & Allegheny Av",
+        "route": "G1",
+        "district": "6",
+        "lat": 39.983053,
+        "lon": -75.101437,
+        "permits": 2,
+        "units": 41
+      }
+    ]
+  }
+}
