@@ -1,0 +1,352 @@
+Trolley_Rank,Stop_Name,Route,District,Units_2020_2025,Permits_2020_2025,Development_Score,Frequency_Score,Total_Score
+1,Lancaster Av & 41st St,T1,3,660,70,57.8,25.5,83.2
+2,Lancaster Av & 41st St,T1,3,653,70,57.1,25.5,82.6
+3,Girard Av & 16th St,G1,5,622,54,54.4,25.5,79.9
+4,Girard Av & 16th St,G1,5,622,54,54.4,25.5,79.9
+5,Lancaster Av & Wallace St,T1,3,619,64,54.2,25.5,79.7
+6,Lancaster Av & Haverford Av,T1,3,588,62,51.4,25.5,76.9
+7,Lancaster Av & 42nd St,T1,3,583,64,51.0,25.5,76.5
+8,Lancaster Av & Parrish St,T1,3,577,62,50.5,25.5,76.0
+9,Girard Av & 17th St,G1,5,560,55,49.0,25.5,74.5
+10,Lancaster Av & 40th St,T1,3,551,57,48.2,25.5,73.7
+11,Girard Av & 17th St,G1,5,546,53,47.8,25.5,73.3
+12,Lancaster Av & 42nd St,T1,3,540,59,47.2,25.5,72.8
+13,Lancaster Av & 43th St,T1,3,527,57,46.1,25.5,71.6
+14,Girard Av & 42nd St,G1,3,526,57,46.0,25.5,71.5
+15,Girard Av & 42nd St,G1,3,506,55,44.3,25.5,69.8
+16,Girard Av & Ridge Av,G1,5,502,48,43.9,25.5,69.4
+17,Girard Av & Ridge Av,G1,5,502,48,43.9,25.5,69.4
+18,Lancaster Av & Spring Garden St,T1,3,456,51,39.9,25.5,65.4
+19,Girard Av & 41st St,G1,3,448,50,39.2,25.5,64.7
+20,Girard Av & Broad St,G1,5,442,25,38.7,25.5,64.2
+21,Girard Av & 41st St,G1,3,438,49,38.3,25.5,63.8
+22,Lancaster Av & Spring Garden St,T1,3,436,49,38.2,25.5,63.7
+23,Girard Av & Broad St,G1,5,422,23,36.9,25.5,62.4
+24,Girard Av & 2nd St,G1,5,406,22,35.5,25.5,61.0
+25,Girard Av & 19th St,G1,5,406,38,35.5,25.5,61.0
+26,Girard Av & 2nd St,G1,1,386,20,33.8,25.5,59.3
+27,Girard Av & Front St,G1,1,386,21,33.8,25.5,59.3
+28,Lancaster Av & Ogden St,T1,3,378,40,33.1,25.5,58.6
+29,Girard Av & Front St,G1,5,376,20,32.9,25.5,58.4
+30,Girard Av & 7th St,G1,5,363,31,31.8,25.5,57.3
+31,Girard Av & 7th St,G1,5,353,30,30.9,25.5,56.4
+32,Girard Av & 8th St,G1,5,351,29,30.7,25.5,56.2
+33,Frankford Av & Girard Av - FS,G1,1,346,21,30.3,25.5,55.8
+34,Frankford Av & Girard Av,G1,1,346,21,30.3,25.5,55.8
+35,Frankford Av & Girard Av - FS,G1,1,346,21,30.3,25.5,55.8
+36,Girard Av & 19th St,G1,5,344,31,30.1,25.5,55.6
+37,Lancaster Av & 44th St,T1,3,339,36,29.7,25.5,55.2
+38,Lancaster Av & Westminster St,T1,3,337,35,29.5,25.5,55.0
+39,Girard Av & Frankford Av- FS,G1,1,336,20,29.4,25.5,54.9
+40,Drexel Station at 30th St,T1,3,336,2,29.4,25.5,54.9
+41,Drexel Station at 30th St,T1,3,336,2,29.4,25.5,54.9
+42,Drexel Station at 30th St,T2,3,336,2,29.4,25.5,54.9
+43,Drexel Station at 30th St,T2,3,336,2,29.4,25.5,54.9
+44,Drexel Station at 30th St,T3,3,336,2,29.4,25.5,54.9
+45,Drexel Station at 30th St,T3,3,336,2,29.4,25.5,54.9
+46,Drexel Station at 30th St,T4,3,336,2,29.4,25.5,54.9
+47,Drexel Station at 30th St,T4,3,336,2,29.4,25.5,54.9
+48,Drexel Station at 30th St,T5,3,336,2,29.4,25.5,54.9
+49,Drexel Station at 30th St,T5,3,336,2,29.4,25.5,54.9
+50,Girard Av & 8th St,G1,5,331,27,29.0,25.5,54.5
+51,33rd St,T1,3,326,1,28.5,25.5,54.0
+52,33rd St,T2,3,326,1,28.5,25.5,54.0
+53,33rd St,T3,3,326,1,28.5,25.5,54.0
+54,33rd St,T4,3,326,1,28.5,25.5,54.0
+55,33rd St,T5,3,326,1,28.5,25.5,54.0
+56,Frankford Av & Richmond St,G1,1,306,17,26.8,25.5,52.3
+57,Frankford Av & Richmond St,G1,1,306,17,26.8,25.5,52.3
+58,Frankford Av & Richmond St,G1,1,306,17,26.8,25.5,52.3
+59,Frankford Av & Richmond St,G1,1,306,17,26.8,25.5,52.3
+60,Girard Av & 20th St,G1,5,296,26,25.9,25.5,51.4
+61,Lancaster Av & 45th St,T1,3,291,31,25.5,25.5,51.0
+62,Girard Av & Corinthian Av,G1,5,287,30,25.1,25.5,50.6
+63,Girard Av & 20th St,G1,5,286,25,25.0,25.5,50.5
+64,Girard Av & Corinthian Av,G1,5,277,29,24.2,25.5,49.7
+65,Girard Av & Belmont Av - FS,G1,3,267,29,23.4,25.5,48.9
+66,Girard Av & Belmont Av,G1,3,247,27,21.6,25.5,47.1
+67,19th St,T1,5,245,4,21.4,25.5,46.9
+68,19th St,T2,5,245,4,21.4,25.5,46.9
+69,19th St,T3,5,245,4,21.4,25.5,46.9
+70,19th St,T4,5,245,4,21.4,25.5,46.9
+71,19th St,T5,5,245,4,21.4,25.5,46.9
+72,19th St,T1,5,235,3,20.6,25.5,46.1
+73,19th St,T2,5,235,3,20.6,25.5,46.1
+74,19th St,T3,5,235,3,20.6,25.5,46.1
+75,19th St,T4,5,235,3,20.6,25.5,46.1
+76,19th St,T5,5,235,3,20.6,25.5,46.1
+77,Girard Av & 40th St,G1,3,228,26,19.9,25.5,45.5
+78,Girard Av & 5th St,G1,5,227,22,19.9,25.5,45.4
+79,Girard Av & 40th St - FS,G1,3,220,24,19.2,25.5,44.8
+80,Girard Av & 5th St,G1,5,217,21,19.0,25.5,44.5
+81,Girard Av & 12th St,G1,5,205,7,17.9,25.5,43.4
+82,Girard Av & 12th St,G1,5,205,7,17.9,25.5,43.4
+83,Girard Av & 4th St,G1,5,187,14,16.4,25.5,41.9
+84,Frankford Av & Delaware Av - FS,G1,1,179,14,15.7,25.5,41.2
+85,Frankford Av & Delaware Av - FS,G1,1,179,14,15.7,25.5,41.2
+86,Girard Av & 3rd St,G1,5,177,13,15.5,25.5,41.0
+87,Girard Av & 3rd St,G1,1,177,13,15.5,25.5,41.0
+88,Lancaster Av & 38th St,T1,3,174,19,15.2,25.5,40.7
+89,Frankford Av & Delaware Av,G1,1,169,13,14.8,25.5,40.3
+90,Frankford Av & Delaware Av Loop,G1,1,169,13,14.8,25.5,40.3
+91,Frankford Av & Delaware Av,G1,1,169,13,14.8,25.5,40.3
+92,Frankford Av & Delaware Av Loop,G1,1,169,13,14.8,25.5,40.3
+93,40th St & Filbert St,T1,3,161,16,14.1,25.5,39.6
+94,40th St & Filbert St,T1,3,161,16,14.1,25.5,39.6
+95,Lancaster Av & 38th St,T1,3,158,17,13.8,25.5,39.3
+96,Chester Av & 49th St,T3,3,157,9,13.7,25.5,39.2
+97,Girard Av & 26th St,G1,5,156,15,13.7,25.5,39.1
+98,Girard Av & 26th St,G1,5,156,15,13.7,25.5,39.1
+99,Chester Av & 51st St,T3,3,155,16,13.6,25.5,39.1
+100,Chester Av & 51st St,T3,3,155,16,13.6,25.5,39.1
+101,40th-Market,T2,3,151,15,13.2,25.5,38.7
+102,40th-Market,T2,3,151,15,13.2,25.5,38.7
+103,40th-Market,T3,3,151,15,13.2,25.5,38.7
+104,40th-Market,T3,3,151,15,13.2,25.5,38.7
+105,40th-Market,T4,3,151,15,13.2,25.5,38.7
+106,40th-Market,T4,3,151,15,13.2,25.5,38.7
+107,40th-Market,T5,3,151,15,13.2,25.5,38.7
+108,40th-Market,T5,3,151,15,13.2,25.5,38.7
+109,Baltimore Av & 51st St,T2,3,147,12,12.9,25.5,38.4
+110,Girard Av & 11th St,G1,5,146,6,12.8,25.5,38.3
+111,Girard Av & 27th St,G1,5,146,14,12.8,25.5,38.3
+112,College Av & 24th St - FS,G1,5,146,14,12.8,25.5,38.3
+113,Girard Av & 11th St,G1,5,146,6,12.8,25.5,38.3
+114,Chester Av & 52nd St,T3,3,143,15,12.5,25.5,38.0
+115,Chester Av & 52nd St,T3,3,143,15,12.5,25.5,38.0
+116,Baltimore Av & 51st St,T2,3,137,11,12.0,25.5,37.5
+117,Baltimore Av & 53rd St,T2,3,137,11,12.0,25.5,37.5
+118,Chester Av & 49th St,T3,3,137,7,12.0,25.5,37.5
+119,Girard Av & 24th St,G1,5,136,13,11.9,25.5,37.4
+120,Poplar St & 25th St,G1,5,136,13,11.9,25.5,37.4
+121,Girard Av & 39th St,G1,3,134,15,11.7,25.5,37.2
+122,Baltimore Av & 53rd St,T2,3,127,10,11.1,25.5,36.6
+123,Baltimore Av & 52nd St,T2,3,127,10,11.1,25.5,36.6
+124,Poplar St & Stillman St,G1,5,126,12,11.0,25.5,36.5
+125,Chester Av & 53rd St,T3,3,123,13,10.8,25.5,36.3
+126,Chester Av & 53rd St,T3,3,123,13,10.8,25.5,36.3
+127,Baltimore Av & Broomall St,T2,3,117,9,10.2,25.5,35.7
+128,Baltimore Av & 54th St,T2,3,117,9,10.2,25.5,35.7
+129,Girard Av & 51st St,G1,4,113,10,9.9,25.5,35.4
+130,Girard Av & 52nd St,G1,4,113,10,9.9,25.5,35.4
+131,Girard Av & 52nd St,G1,4,113,10,9.9,25.5,35.4
+132,Girard Av & 51st St,G1,3,113,10,9.9,25.5,35.4
+133,Chester Av & 48th St,T3,3,113,4,9.9,25.5,35.4
+134,Chester Av & 47th St,T3,3,113,4,9.9,25.5,35.4
+135,Chester Av & 47th St,T3,3,113,4,9.9,25.5,35.4
+136,Chester Av & 48th St,T3,3,113,4,9.9,25.5,35.4
+137,Girard Av & 39th St,G1,4,110,12,9.6,25.5,35.1
+138,Baltimore Av & 54th St,T2,3,107,8,9.4,25.5,34.9
+139,Girard Av & 27th St,G1,5,106,10,9.3,25.5,34.8
+140,Woodland Av & 47th St,T4,3,101,3,8.8,25.5,34.3
+141,Woodland Av & 46th St,T4,3,101,3,8.8,25.5,34.3
+142,Woodland Av & 46th St,T4,3,101,3,8.8,25.5,34.3
+143,Woodland Av & 46th St,T5,3,101,3,8.8,25.5,34.3
+144,Woodland Av & 46th St,T5,3,101,3,8.8,25.5,34.3
+145,Chester Av & 46th St,T3,3,91,2,8.0,25.5,33.5
+146,Chester Av & 45th St,T3,3,91,2,8.0,25.5,33.5
+147,Chester Av & 45th St,T3,3,91,2,8.0,25.5,33.5
+148,Chester Av & 46th St,T3,3,91,2,8.0,25.5,33.5
+149,Lancaster Av & Powelton Av,T1,3,90,10,7.9,25.5,33.4
+150,Baltimore Av & 50th St,T2,3,90,9,7.9,25.5,33.4
+151,Baltimore Av & 49th St,T2,3,90,9,7.9,25.5,33.4
+152,Baltimore Av & 49th St,T2,3,90,9,7.9,25.5,33.4
+153,Baltimore Av & 50th St,T2,3,90,9,7.9,25.5,33.4
+154,Woodland Av & 48th St,T4,3,86,2,7.5,25.5,33.0
+155,Woodland Av & 48th St,T4,3,86,2,7.5,25.5,33.0
+156,Woodland Av & 48th St,T5,3,86,2,7.5,25.5,33.0
+157,Woodland Av & 48th St,T5,3,86,2,7.5,25.5,33.0
+158,Chester Av & 54th St,T3,3,83,9,7.3,25.5,32.8
+159,Lancaster Av & Bible Way,T1,4,81,9,7.1,25.5,32.6
+160,Lancaster Av & 52nd St,T1,4,81,9,7.1,25.5,32.6
+161,Baltimore Av & 49th St,T2,3,80,8,7.0,25.5,32.5
+162,Baltimore Av & 49th St,T2,3,80,8,7.0,25.5,32.5
+163,Chester Av & 54th St,T3,3,79,8,6.9,25.5,32.4
+164,Girard Av & 28th St,G1,5,76,7,6.7,25.5,32.1
+165,Girard Av & 28th St,G1,5,76,7,6.7,25.5,32.1
+166,26th St & Poplar St,G1,5,76,7,6.7,25.5,32.1
+167,Lansdowne Av & 63rd - FS,T1,4,72,4,6.3,25.5,31.8
+168,63rd St & Lansdowne Av - FS,T1,4,72,4,6.3,25.5,31.8
+169,Girard Av & 54th St,G1,4,70,7,6.1,25.5,31.6
+170,Girard Av & 54th St,G1,4,70,7,6.1,25.5,31.6
+171,Lansdowne Av & 55th St,T1,4,68,7,6.0,25.5,31.4
+172,Lansdowne Av & Lancaster Av,T1,4,68,7,6.0,25.5,31.4
+173,Lancaster Av & 47th St,T1,3,68,8,6.0,25.5,31.4
+174,Lancaster Av & 47th St,T1,3,68,8,6.0,25.5,31.4
+175,Girard Av & Berks St,G1,1,66,7,5.8,25.5,31.3
+176,Girard Av & Columbia Av,G1,5,66,7,5.8,25.5,31.3
+177,Girard Av & 29th St,G1,5,66,6,5.8,25.5,31.3
+178,Girard Av & 29th St,G1,5,66,6,5.8,25.5,31.3
+179,Girard Av & Berks St,G1,1,66,7,5.8,25.5,31.3
+180,Island Av & Tanager St - F,T5,2,65,3,5.7,25.5,31.2
+181,Island Av & Buist Av,T5,2,65,3,5.7,25.5,31.2
+182,Island Av & Buist Av - FS,T5,2,65,3,5.7,25.5,31.2
+183,Island Av & Tanager St,T5,2,65,3,5.7,25.5,31.2
+184,Lansdowne Av & 56th St,T1,4,64,6,5.6,25.5,31.1
+185,Lansdowne Av & 56th St,T1,4,64,6,5.6,25.5,31.1
+186,Richmond St & Clearfield St,G1,1,61,4,5.3,25.5,30.8
+187,Richmond St & Ann St,G1,1,61,4,5.3,25.5,30.8
+188,Richmond St & Ann St,G1,1,61,4,5.3,25.5,30.8
+189,Richmond St & Clearfield St,G1,1,61,4,5.3,25.5,30.8
+190,Girard Av & Columbia Av,G1,1,60,6,5.2,25.5,30.8
+191,22nd St,T1,2,60,6,5.2,25.5,30.8
+192,22nd St,T1,5,60,6,5.2,25.5,30.8
+193,Baltimore Av & 55th St,T2,3,60,6,5.2,25.5,30.8
+194,Baltimore Av & Florence Av,T2,3,60,6,5.2,25.5,30.8
+195,22nd St,T2,2,60,6,5.2,25.5,30.8
+196,22nd St,T2,5,60,6,5.2,25.5,30.8
+197,Baltimore Av & 55th St,T2,3,60,6,5.2,25.5,30.8
+198,22nd St,T3,2,60,6,5.2,25.5,30.8
+199,22nd St,T3,5,60,6,5.2,25.5,30.8
+200,22nd St,T4,2,60,6,5.2,25.5,30.8
+201,22nd St,T4,5,60,6,5.2,25.5,30.8
+202,22nd St,T5,2,60,6,5.2,25.5,30.8
+203,22nd St,T5,5,60,6,5.2,25.5,30.8
+204,Lansdowne Av & 54th St,T1,4,58,6,5.1,25.5,30.6
+205,Lansdowne Av & 54th St,T1,4,58,6,5.1,25.5,30.6
+206,Lansdowne Av & 55th St,T1,4,58,6,5.1,25.5,30.6
+207,Island Av & 76th St,T5,2,55,2,4.8,25.5,30.3
+208,Elmwood Av & Island Av - M,T5,2,55,2,4.8,25.5,30.3
+209,Elmwood Av & Island Av,T5,2,55,2,4.8,25.5,30.3
+210,Island Av & 76th St,T5,2,55,2,4.8,25.5,30.3
+211,Girard Av & Merion Av,G1,4,54,6,4.7,25.5,30.2
+212,Girard Av & Merion Av,G1,3,54,6,4.7,25.5,30.2
+213,Richmond St & Girard Av,G1,1,50,5,4.4,25.5,29.9
+214,Girard Av & Richmond St,G1,1,50,5,4.4,25.5,29.9
+215,Baltimore Av & 56th St,T2,3,50,5,4.4,25.5,29.9
+216,Baltimore Av & 56th St,T2,3,50,5,4.4,25.5,29.9
+217,Lancaster Av & 48th St,T1,3,48,6,4.2,25.5,29.7
+218,Lancaster Av & 36th St,T1,3,46,5,4.0,25.5,29.5
+219,Richmond St & Allegheny Av,G1,6,41,2,3.6,25.5,29.1
+220,Richmond St & Allegheny Av,G1,1,41,2,3.6,25.5,29.1
+221,Woodland Av & 50th St,T2,3,40,4,3.5,25.5,29.0
+222,Woodland Av & 53rd St,T4,3,40,4,3.5,25.5,29.0
+223,Woodland Av & 52nd St,T4,3,40,4,3.5,25.5,29.0
+224,Woodland Av & 51st St,T4,3,40,4,3.5,25.5,29.0
+225,Woodland Av & 50th St,T4,3,40,4,3.5,25.5,29.0
+226,Woodland Av & 50th St,T4,3,40,4,3.5,25.5,29.0
+227,Woodland Av & 51st St,T4,3,40,4,3.5,25.5,29.0
+228,Woodland Av & 52nd St,T4,3,40,4,3.5,25.5,29.0
+229,Woodland Av & 53rd St,T4,3,40,4,3.5,25.5,29.0
+230,Woodland Av & 54th St,T4,3,40,4,3.5,25.5,29.0
+231,Chester Av & 55th St,T3,3,39,4,3.4,25.5,28.9
+232,Chester Av & 55th St,T3,3,39,4,3.4,25.5,28.9
+233,Girard Av & Palmer St,G1,5,36,4,3.1,25.5,28.6
+234,Girard Av & Palmer St,G1,5,36,4,3.1,25.5,28.6
+235,36th St & Lancaster Av,T1,3,36,4,3.1,25.5,28.6
+236,Lancaster Av & 50th St,T1,4,33,4,2.9,25.5,28.4
+237,Lancaster Av & 50th St,T1,4,33,4,2.9,25.5,28.4
+238,Girard Av & 31st St,G1,4,30,3,2.6,25.5,28.1
+239,Girard Av & 56th St,G1,4,30,3,2.6,25.5,28.1
+240,Girard Av & 61st St,G1,4,30,3,2.6,25.5,28.1
+241,Girard Av & 56th St,G1,4,30,3,2.6,25.5,28.1
+242,Baltimore Av & 48th St,T2,3,30,3,2.6,25.5,28.1
+243,Woodland Av & 54th St,T4,3,30,3,2.6,25.5,28.1
+244,Girard Av & 63rd St - MBFS,G1,4,26,3,2.3,25.5,27.8
+245,Girard Av & 63rd St - MBFS,G1,4,26,3,2.3,25.5,27.8
+246,Elmwood Av & 59th St,T5,2,26,2,2.3,25.5,27.8
+247,Elmwood Av & 58th St,T5,2,26,2,2.3,25.5,27.8
+248,Elmwood Av & 57th St,T5,2,26,2,2.3,25.5,27.8
+249,Elmwood Av & 56th St,T5,2,26,2,2.3,25.5,27.8
+250,Elmwood Av & 56th St,T5,2,26,2,2.3,25.5,27.8
+251,Elmwood Av & 57th St,T5,2,26,2,2.3,25.5,27.8
+252,Elmwood Av & 58th St,T5,2,26,2,2.3,25.5,27.8
+253,Elmwood Av & 59th St,T5,2,26,2,2.3,25.5,27.8
+254,Lancaster Av & Thompson St,T1,4,23,3,2.0,25.5,27.5
+255,Richmond St & Cambria St,G1,1,20,2,1.8,25.5,27.2
+256,Richmond St & Somerset St,G1,1,20,2,1.8,25.5,27.2
+257,Richmond St & Lehigh Av,G1,1,20,2,1.8,25.5,27.2
+258,Richmond St & Huntingdon St,G1,1,20,2,1.8,25.5,27.2
+259,Richmond St & Cumberland St,G1,1,20,2,1.8,25.5,27.2
+260,Girard Av & 57th St,G1,4,20,2,1.8,25.5,27.2
+261,Girard Av & 62nd St,G1,4,20,2,1.8,25.5,27.2
+262,Girard Av & 31st St,G1,4,20,2,1.8,25.5,27.2
+263,Richmond St & Cumberland St,G1,1,20,2,1.8,25.5,27.2
+264,Richmond St & Huntingdon St,G1,1,20,2,1.8,25.5,27.2
+265,Richmond St & Lehigh Av,G1,1,20,2,1.8,25.5,27.2
+266,Richmond St & Somerset St,G1,1,20,2,1.8,25.5,27.2
+267,Richmond St & Cambria St,G1,1,20,2,1.8,25.5,27.2
+268,63rd-Malvern,T1,4,20,2,1.8,25.5,27.2
+269,Malvern Av & 63rd St,T1,4,20,2,1.8,25.5,27.2
+270,63rd St & Lebanon Av,T1,4,20,2,1.8,25.5,27.2
+271,Lansdowne Av & 59th St,T1,4,20,2,1.8,25.5,27.2
+272,Lansdowne Av & 58th St,T1,4,20,2,1.8,25.5,27.2
+273,Lansdowne Av & 57th St,T1,4,20,2,1.8,25.5,27.2
+274,36th St & Market St,T1,3,20,2,1.8,25.5,27.2
+275,Lansdowne Av & 57th St,T1,4,20,2,1.8,25.5,27.2
+276,Lansdowne Av & 58th St,T1,4,20,2,1.8,25.5,27.2
+277,Lansdowne Av & 59th St,T1,4,20,2,1.8,25.5,27.2
+278,63rd St & Columbia Av,T1,4,20,2,1.8,25.5,27.2
+279,63rd-Malvern,T1,4,20,2,1.8,25.5,27.2
+280,Baltimore Av & 46th St,T2,3,15,1,1.3,25.5,26.8
+281,Baltimore Av & 45th St,T2,3,15,1,1.3,25.5,26.8
+282,Baltimore Av & 45th St,T2,3,15,1,1.3,25.5,26.8
+283,Baltimore Av & 46th St,T2,3,15,1,1.3,25.5,26.8
+284,Girard Av & 33rd St,G1,4,10,1,0.9,25.5,26.4
+285,Girard Av & 49th St,G1,4,10,1,0.9,25.5,26.4
+286,Girard Av & 59th St,G1,4,10,1,0.9,25.5,26.4
+287,Girard Av & 60th St,G1,4,10,1,0.9,25.5,26.4
+288,Girard Av & 60th St,G1,4,10,1,0.9,25.5,26.4
+289,Girard Av & 59th St,G1,4,10,1,0.9,25.5,26.4
+290,Girard Av & 57th St,G1,4,10,1,0.9,25.5,26.4
+291,Girard Av & Lancaster Av,G1,3,10,1,0.9,25.5,26.4
+292,Girard Av & 34th St - MBFS,G1,3,10,1,0.9,25.5,26.4
+293,63rd St & Jefferson St,T1,4,10,1,0.9,25.5,26.4
+294,Lansdowne Av & 62nd St,T1,4,10,1,0.9,25.5,26.4
+295,Lansdowne Av & 61st St,T1,4,10,1,0.9,25.5,26.4
+296,Lancaster Av & Girard Av,T1,4,10,1,0.9,25.5,26.4
+297,36th St Trolley Portal Station,T1,3,10,1,0.9,25.5,26.4
+298,15th St/City Hall,T1,5,10,1,0.9,25.5,26.4
+299,15th St/City Hall,T1,5,10,1,0.9,25.5,26.4
+300,36th St Trolley Portal Station,T1,3,10,1,0.9,25.5,26.4
+301,Lancaster Av & 49th St,T1,4,10,1,0.9,25.5,26.4
+302,Lansdowne Av & 61st St,T1,4,10,1,0.9,25.5,26.4
+303,Lansdowne Av & 62nd St,T1,4,10,1,0.9,25.5,26.4
+304,63rd St & Jefferson St,T1,4,10,1,0.9,25.5,26.4
+305,Elmwood Av & 73rd St,T2,2,10,1,0.9,25.5,26.4
+306,Woodland Av & Island Av,T2,2,10,1,0.9,25.5,26.4
+307,49th St & Woodland Av,T2,3,10,1,0.9,25.5,26.4
+308,Baltimore Av & 57th St,T2,3,10,1,0.9,25.5,26.4
+309,36th-Sansom,T2,3,10,1,0.9,25.5,26.4
+310,15th St/City Hall,T2,5,10,1,0.9,25.5,26.4
+311,15th St/City Hall,T2,5,10,1,0.9,25.5,26.4
+312,36th-Sansom,T2,3,10,1,0.9,25.5,26.4
+313,Woodland Av & Island Av,T2,2,10,1,0.9,25.5,26.4
+314,Elmwood Av & 73rd St,T2,2,10,1,0.9,25.5,26.4
+315,36th-Sansom,T3,3,10,1,0.9,25.5,26.4
+316,15th St/City Hall,T3,5,10,1,0.9,25.5,26.4
+317,15th St/City Hall,T3,5,10,1,0.9,25.5,26.4
+318,36th-Sansom,T3,3,10,1,0.9,25.5,26.4
+319,Chester Av & 56th St,T3,3,10,1,0.9,25.5,26.4
+320,Woodland Av & Island Av,T4,2,10,1,0.9,25.5,26.4
+321,Woodland Av & 72nd St,T4,2,10,1,0.9,25.5,26.4
+322,Woodland Av & 71st St,T4,2,10,1,0.9,25.5,26.4
+323,Woodland Av & 70th St,T4,2,10,1,0.9,25.5,26.4
+324,Woodland Av & 69th St,T4,2,10,1,0.9,25.5,26.4
+325,Woodland Av & 49th St,T4,3,10,1,0.9,25.5,26.4
+326,Woodland Av & 45th St,T4,3,10,1,0.9,25.5,26.4
+327,36th-Sansom,T4,3,10,1,0.9,25.5,26.4
+328,15th St/City Hall,T4,5,10,1,0.9,25.5,26.4
+329,15th St/City Hall,T4,5,10,1,0.9,25.5,26.4
+330,36th-Sansom,T4,3,10,1,0.9,25.5,26.4
+331,Woodland Av & 43rd St,T4,3,10,1,0.9,25.5,26.4
+332,Woodland Av & 49th St,T4,3,10,1,0.9,25.5,26.4
+333,Woodland Av & 69th St,T4,2,10,1,0.9,25.5,26.4
+334,Woodland Av & 70th St,T4,2,10,1,0.9,25.5,26.4
+335,Woodland Av & 71st St,T4,2,10,1,0.9,25.5,26.4
+336,Woodland Av & 72nd St,T4,2,10,1,0.9,25.5,26.4
+337,Woodland Av & Island Av,T4,2,10,1,0.9,25.5,26.4
+338,Elmwood Loop,T5,2,10,1,0.9,25.5,26.4
+339,Elmwood Av & 73rd St,T5,2,10,1,0.9,25.5,26.4
+340,49th St & Paschall Av,T5,3,10,1,0.9,25.5,26.4
+341,49th St & Woodland Av,T5,3,10,1,0.9,25.5,26.4
+342,Woodland Av & 45th St,T5,3,10,1,0.9,25.5,26.4
+343,36th-Sansom,T5,3,10,1,0.9,25.5,26.4
+344,15th St/City Hall,T5,5,10,1,0.9,25.5,26.4
+345,15th St/City Hall,T5,5,10,1,0.9,25.5,26.4
+346,36th-Sansom,T5,3,10,1,0.9,25.5,26.4
+347,Woodland Av & 43rd St,T5,3,10,1,0.9,25.5,26.4
+348,Woodland Av & 49th St,T5,3,10,1,0.9,25.5,26.4
+349,49th St & Paschall Av,T5,3,10,1,0.9,25.5,26.4
+350,Elmwood Av & 73rd St,T5,2,10,1,0.9,25.5,26.4
+351,Elmwood Loop,T5,2,10,1,0.9,25.5,26.4
