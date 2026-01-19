@@ -1,0 +1,73 @@
+{
+  "total_units_all_modes": 53376,
+  "total_locations": 417,
+  "mode_counts": {
+    "bsl_mfl": 30,
+    "regional_rail": 36,
+    "trolley": 351
+  },
+  "cutoff_analysis": [
+    {
+      "cutoff": 10,
+      "units": 6694,
+      "pct": 12.541217026378899,
+      "mode_breakdown": {
+        "BSL/MFL": 6,
+        "Regional Rail": 0,
+        "Trolley": 4
+      }
+    },
+    {
+      "cutoff": 15,
+      "units": 9621,
+      "pct": 18.024955035971225,
+      "mode_breakdown": {
+        "BSL/MFL": 6,
+        "Regional Rail": 0,
+        "Trolley": 9
+      }
+    },
+    {
+      "cutoff": 20,
+      "units": 12040,
+      "pct": 22.55695443645084,
+      "mode_breakdown": {
+        "BSL/MFL": 7,
+        "Regional Rail": 0,
+        "Trolley": 13
+      }
+    },
+    {
+      "cutoff": 25,
+      "units": 14532,
+      "pct": 27.225719424460433,
+      "mode_breakdown": {
+        "BSL/MFL": 7,
+        "Regional Rail": 0,
+        "Trolley": 18
+      }
+    },
+    {
+      "cutoff": 50,
+      "units": 23463,
+      "pct": 43.957958633093526,
+      "mode_breakdown": {
+        "BSL/MFL": 9,
+        "Regional Rail": 0,
+        "Trolley": 41
+      }
+    },
+    {
+      "cutoff": 100,
+      "units": 34970,
+      "pct": 65.51633693045564,
+      "mode_breakdown": {
+        "BSL/MFL": 21,
+        "Regional Rail": 2,
+        "Trolley": 77
+      }
+    }
+  ],
+  "bottom_half_units": 5775,
+  "bottom_half_pct": 10.8
+}
