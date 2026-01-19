@@ -1,0 +1,90 @@
+{
+  "corridors": [
+    {
+      "name": "North Broad Street BSL (Girard Corridor)",
+      "line": "Broad Street Line",
+      "segment": "Girard to Erie",
+      "districts": [
+        "D5",
+        "D8"
+      ],
+      "total_units": 2015,
+      "num_stations": 7,
+      "avg_score": 64.3,
+      "existing_tod_count": 1,
+      "rationale": "Girard BSL (#2 citywide) anchors North Philly development corridor"
+    },
+    {
+      "name": "North Philadelphia MFL (Kensington Corridor)",
+      "line": "Market/Frankford Line",
+      "segment": "York-Dauphin to Huntingdon",
+      "districts": [
+        "D1",
+        "D7"
+      ],
+      "total_units": 1791,
+      "num_stations": 5,
+      "avg_score": 70.1,
+      "existing_tod_count": 3,
+      "rationale": "York-Dauphin (#4) + Berks (#5) = top development corridor"
+    },
+    {
+      "name": "West Philadelphia MFL",
+      "line": "Market/Frankford Line",
+      "segment": "46th Street to 63rd Street",
+      "districts": [
+        "D3",
+        "D4"
+      ],
+      "total_units": 699,
+      "num_stations": 5,
+      "avg_score": 60.4,
+      "existing_tod_count": 5,
+      "rationale": "46th Street (#1 citywide), all have existing 500ft TOD"
+    },
+    {
+      "name": "South Broad Street BSL",
+      "line": "Broad Street Line",
+      "segment": "Ellsworth-Federal to AT&T Station",
+      "districts": [
+        "D1",
+        "D2"
+      ],
+      "total_units": 461,
+      "num_stations": 5,
+      "avg_score": 53.7,
+      "existing_tod_count": 0,
+      "rationale": "South Philly corridor with Ellsworth-Federal (#6 citywide)"
+    },
+    {
+      "name": "Girard Avenue Multi-Modal Corridor",
+      "line": "BSL + MFL + Trolley Route 15",
+      "segment": "Girard BSL to waterfront (includes trolley)",
+      "districts": [
+        "D1",
+        "D4",
+        "D5"
+      ],
+      "total_units": 0,
+      "num_stations": 0,
+      "avg_score": 0,
+      "existing_tod_count": 0,
+      "rationale": "Three transit modes, #2 and #3 citywide, 3,436 total corridor units"
+    },
+    {
+      "name": "Lancaster Avenue Multi-Modal Corridor",
+      "line": "MFL + Trolley Routes 10/11/13/34/36",
+      "segment": "46th Street to 30th Street (includes trolley)",
+      "districts": [
+        "D3"
+      ],
+      "total_units": 0,
+      "num_stations": 0,
+      "avg_score": 0,
+      "existing_tod_count": 0,
+      "rationale": "Trolley stops dominate D3 top 5, continuous high-density development"
+    }
+  ],
+  "total_corridor_units": 4966,
+  "total_corridor_stations": 22
+}
