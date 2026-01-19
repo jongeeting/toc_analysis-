@@ -1,0 +1,22 @@
+Station,Line,Expected_Districts,Total_Permits,Total_Units,District_1_Permits,District_1_Units,District_1_Pct,District_2_Permits,District_2_Units,District_2_Pct
+Erie,Broad Street Line,5/8,32,389,22,296,76.1,10,93,23.9
+Girard,Market/Frankford Line,1/5,20,376,6,139,37.0,14,237,63.0
+Allegheny,Broad Street Line,5/8,31,341,20,218,63.9,11,123,36.1
+Huntingdon,Market/Frankford Line,1/7,17,192,8,119,62.0,9,73,38.0
+Ellsworth-Federal,Broad Street Line,1/2,7,96,1,10,10.4,6,86,89.6
+North Philadelphia Amtrak,Regional Rail,5/8,8,93,2,20,21.5,6,73,78.5
+63rd Street,Market/Frankford Line,3/4,8,85,1,10,11.8,7,75,88.2
+60th Street,Market/Frankford Line,3/4,3,33,2,23,69.7,1,10,30.3
+56th Street,Market/Frankford Line,3/4,3,27,2,20,74.1,1,7,25.9
+Queen Lane,Regional Rail,4/8,2,20,2,20,100.0,0,0,0.0
+Somerset,Market/Frankford Line,1/7,2,20,1,10,50.0,1,10,50.0
+Allegheny,Market/Frankford Line,6/7,1,10,1,10,100.0,0,0,0.0
+Hunting Park,Broad Street Line,5/8,1,10,1,10,100.0,0,0,0.0
+Logan,Broad Street Line,8/9,1,10,1,10,100.0,0,0,0.0
+Olney Transportation Center,Broad Street Line,8/9,1,10,1,10,100.0,0,0,0.0
+Snyder,Broad Street Line,1/2,1,10,1,10,100.0,0,0,0.0
+Tasker-Morris,Broad Street Line,1/2,1,10,1,10,100.0,0,0,0.0
+Bridesburg,Regional Rail,6/7,0,0,0,0,0.0,0,0,0.0
+Erie-Torresdale,Market/Frankford Line,6/7,0,0,0,0,0.0,0,0,0.0
+Oregon,Broad Street Line,1/2,0,0,0,0,0.0,0,0,0.0
+Tioga,Market/Frankford Line,6/7,0,0,0,0,0.0,0,0,0.0
