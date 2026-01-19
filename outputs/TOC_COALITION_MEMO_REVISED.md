@@ -126,170 +126,208 @@ District-specific recommendations for council members. Includes **BSL/MFL priori
 
 ### **DISTRICT 1** (Council Member: Mark Squilla)
 
-**BSL/MFL Stations:**
+**Top 5 All Modes (BSL/MFL + Trolleys + RR):**
 
-| Rank | Station | Line | Units | Composite Score | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|-----------------|----------|--------------|-----------|
-| 1 | **Ellsworth-Federal** | BSL | 452 | 92.7 | **Tier 1 - Citywide #6** | NO | **D1/D2** |
-| 2 | Snyder | BSL | 3 | 46.8 | Tier 4 | NO | **D1/D2** |
-| 3 | Tasker-Morris | BSL | 6 | 46.1 | Tier 4 | NO | **D1/D2** |
+| Rank | Station/Stop | Mode | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|--------------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **Girard** | MFL | 816 | 96.4 | **CITYWIDE #3** | NO | **D1/D5** |
+| 2 | **Ellsworth-Federal** | BSL | 452 | 92.7 | **CITYWIDE #6** | NO | **D1/D2** |
+| 3 | **Huntingdon** | MFL | 156 | 62.1 | **CITYWIDE #8** | **YES (500ft)** | **D1/D7** |
+| 4 | **Girard Av & 2nd St** | Trolley | 386 | 59.3 | **Major corridor** | NO | - |
+| 5 | **Girard Av & Front St** | Trolley | 386 | 59.3 | **Major corridor** | NO | - |
 
-**Regional Rail Stations:**
+**Additional Priority Stations:**
 
-| Rank | Station | Units | Notes |
-|------|---------|-------|-------|
-| 1 | Market East | 0 | Center City; minimal residential nearby |
+| Station | Mode | Units | Notes |
+|---------|------|-------|-------|
+| **Somerset** | MFL | 50 | Citywide #11; **YES (500ft)**; **D1/D7 boundary** |
+| Snyder | BSL | 3 | Tier 4; **D1/D2 boundary** |
+| Tasker-Morris | BSL | 6 | Tier 4; **D1/D2 boundary** |
+| Market East | RR | 0 | Center City; minimal residential |
 
 **District Summary:**
-- **Ellsworth-Federal is non-negotiable** - #6 citywide, 452 units, Tier 1 priority
-- All three South Philly BSL stations sit on **D1/D2 boundary** (Broad Street centerline) - **coordinate with CM Johnson**
-- District 1 has seen most multifamily development in South Philadelphia
-- Market East RR station is in Center City with zero residential activity
+- **Three boundary stations appear in D1's top 5**: Girard MFL (D1/D5), Ellsworth-Federal (D1/D2), and Huntingdon (D1/D7)
+- **Girard MFL (#3 citywide)** is shared priority with District 5
+- **Ellsworth-Federal (#6 citywide)** is South Philly's strongest station with 452 units
+- **Huntingdon (#8 citywide)** has existing 500ft TOD, shared with District 7
+- **Girard Avenue trolley stops** (Route 15) at 2nd St and Front St show 386 units each, extending the Girard multi-modal corridor into District 1
+- **Most boundary stations of any district** (4 of top 5)
 
-**Recommendation:** Include Ellsworth-Federal, Snyder, Tasker-Morris (all BSL). Coordinate as joint D1/D2 decision for South Philly corridor.
+**Trolley Insight:**
+Girard Avenue trolley extends from District 5's Girard BSL/MFL stations eastward through District 1 to the waterfront, creating a continuous multi-modal TOC corridor. Stops at 2nd St and Front St capture significant development along this eastern segment.
+
+**Recommendation:** Include Girard MFL, Ellsworth-Federal, and Huntingdon (all high citywide priorities). **Add Girard Avenue trolley corridor** (Route 15) as multi-modal extension. Include Somerset (expand existing TOD). **Coordinate all boundary decisions** with CMs Richardson (D5), Johnson (D2), and Lozada (D7).
 
 ---
 
 ### **DISTRICT 2** (Council Member: Kenyatta Johnson)
 
-**BSL/MFL Stations:**
+**Top 5 All Modes (BSL/MFL + Trolleys + RR):**
 
-| Rank | Station | Line | Units | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|----------|--------------|-----------|
-| 1 | Oregon | BSL | 0 | Tier 4 | NO | **D1/D2** |
-| 2 | AT&T Station | BSL | 0 | Tier 4 | NO | - |
+| Rank | Station/Stop | Mode | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|--------------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **Ellsworth-Federal** | BSL | 452 | 92.7 | **CITYWIDE #6** | NO | **D1/D2** |
+| 2 | **Oregon** | BSL | 0 | 43.9 | Tier 4 | NO | **D1/D2** |
+| 3 | **AT&T Station** | BSL | 0 | 39.1 | Tier 4 | NO | - |
+| 4 | **Island Av & Tanager St - F** | Trolley | 65 | 31.2 | Minor activity | NO | - |
+| 5 | **Island Av & Buist Av** | Trolley | 65 | 31.2 | Minor activity | NO | - |
 
-**Regional Rail Stations:**
+**Additional Priority Stations:**
 
-| Rank | Station | Units | Notes |
-|------|---------|-------|-------|
-| 1 | Eastwick | 0 | Far southwest; zero activity |
-| 2-5 | Airport Terminals (4 stations) | 0 | Airport; non-residential area |
+| Station | Mode | Units | Notes |
+|---------|------|-------|-------|
+| Eastwick | RR | 0 | Far southwest; zero activity |
+| Airport Terminals (4) | RR | 0 | Airport; non-residential area |
 
 **District Summary:**
-- District 2 has **zero development activity** at all transit stations
-- Oregon sits on **D1/D2 boundary** - coordinate with CM Squilla
+- **Ellsworth-Federal (#6 citywide)** is shared boundary station with District 1 - **South Philly's strongest TOC location**
+- Oregon and AT&T (BSL) have **zero development activity** currently
+- **Island Avenue trolley stops** show modest activity (65 units each) in far Southwest
 - Airport and Eastwick RR stations are not viable residential TOC locations
 
-**Recommendation:** Include Oregon and AT&T for geographic coverage but recognize these are **not high-priority stations**. Focus energy on joint D1/D2 decisions for South Philly BSL corridor.
+**Trolley Insight:**
+Island Avenue trolley stops (Route 36) serve Southwest Philadelphia with modest development activity, but significantly lower than corridors in other districts.
+
+**Recommendation:** Include Ellsworth-Federal (shared D1/D2 priority). Include Oregon and AT&T for geographic coverage but recognize these are **not high-priority stations**. **Add Island Avenue trolley stops** for comprehensive Southwest coverage. **Coordinate with CM Squilla** on Ellsworth-Federal and Oregon decisions.
 
 ---
 
 ### **DISTRICT 3** (Council Member: Jamie Gauthier)
 
-**BSL/MFL Stations:**
+**Top 5 All Modes (BSL/MFL + Trolleys + RR):**
 
-| Rank | Station | Line | Units | Composite Score | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|-----------------|----------|--------------|-----------|
-| 1 | **46th Street** | MFL | 510 | 98.5 | **Tier 1 - CITYWIDE #1** | **YES (500ft)** | - |
-| 2 | **52nd Street** | MFL | 118 | 58.8 | **Tier 3 - Citywide #9** | **YES (500ft)** | - |
-| 3 | **63rd Street** | MFL | 40 | 50.0 | Tier 4 | **YES (500ft)** | **D3/D4** |
-| 4 | **60th Street** | MFL | 22 | 47.7 | Tier 4 | **YES (500ft)** | **D3/D4** |
+| Rank | Station/Stop | Mode | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|--------------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **46th Street** | MFL | 510 | 98.5 | **CITYWIDE #1** | **YES (500ft)** | - |
+| 2 | **Lancaster Av & 41st St** | Trolley | 660 | 83.2 | **Major corridor** | NO | - |
+| 3 | **Lancaster Av & 41st St** | Trolley | 653 | 82.6 | **Major corridor** | NO | - |
+| 4 | **Lancaster Av & Wallace St** | Trolley | 619 | 79.7 | **Major corridor** | NO | - |
+| 5 | **Lancaster Av & Haverford Av** | Trolley | 588 | 76.9 | **Major corridor** | NO | - |
 
-**Regional Rail Stations:**
+**Additional Priority Stations:**
 
-| Rank | Station | Units | Notes |
-|------|---------|-------|-------|
-| 1 | **30th Street Station** | **356** | **#1 RR citywide; major hub** |
-| 2 | 49th Street | 167 | Strong West Philly activity |
-| 3 | Angora | 10 | Southwest Philly |
+| Station | Mode | Units | Notes |
+|---------|------|-------|-------|
+| **52nd Street** | MFL | 118 | Citywide #9; existing 500ft TOD |
+| **30th Street Station** | RR | 356 | #1 RR citywide; major hub |
+| 49th Street | RR | 167 | Strong West Philly activity |
+| 63rd Street | MFL | 40 | Existing 500ft TOD; **D3/D4 boundary** |
+| 60th Street | MFL | 22 | Existing 500ft TOD; **D3/D4 boundary** |
 
 **District Summary:**
-- **Strongest MFL corridor citywide**: 46th Street (#1 CITYWIDE) and 52nd Street (#9) are non-negotiable priorities
+- **LANCASTER AVENUE TROLLEY CORRIDOR IS TRANSFORMATIVE**: Ranks #2-5 are all Lancaster Ave stops with 660, 653, 619, and 588 units respectively
+- **46th Street (#1 CITYWIDE)** anchors the district with highest composite score citywide
 - **All four MFL stations have existing 500ft TOD** - perfect candidates for expansion to 1/4 mile
 - **30th Street Station** is #1 Regional Rail station citywide (356 units) - major multi-modal hub
-- 60th/63rd sit on **D3/D4 boundary** - coordinate with CM Jones
+- **Total development at top 5 stations: 3,030 units** (Lancaster trolleys + 46th Street)
 
-**Recommendation:** Include all four MFL stations (expand existing TOD). **Add 30th Street Station and 49th Street** (Regional Rail) as critical multi-modal hubs. District 3 is TOC **model district**.
+**Trolley Insight:**
+Lancaster Avenue trolley stops are tightly clustered, creating a **continuous high-density corridor** from 41st to mid-30s. These stops show 600+ units EACH because their 1/4-mile buffers overlap significantly. The corridor as a whole represents one of the strongest TOC opportunities citywide.
+
+**Recommendation:** Include all four MFL stations (expand existing TOD). **Add Lancaster Avenue trolley corridor** (Routes 10/11/13/34/36) as priority multi-modal TOC zone. **Add 30th Street Station and 49th Street** (Regional Rail). District 3 is TOC **model district** with strongest multi-modal coverage citywide.
 
 ---
 
 ### **DISTRICT 4** (Council Member: Curtis Jones Jr.)
 
-**BSL/MFL Stations:**
+**Top 5 All Modes (BSL/MFL + Trolleys + RR):**
 
-| Rank | Station | Line | Units | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|----------|--------------|-----------|
-| 1 | **56th Street** | MFL | 9 | Tier 4 | **YES (500ft)** | **D3/D4** |
+| Rank | Station/Stop | Mode | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|--------------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **56th Street** | MFL | 9 | 46.9 | Tier 4 | **YES (500ft)** | **D3/D4** |
+| 2 | **Girard Av & 51st St** | Trolley | 113 | 35.4 | **Major corridor** | NO | - |
+| 3 | **Girard Av & 52nd St** | Trolley | 113 | 35.4 | **Major corridor** | NO | - |
+| 4 | **Girard Av & 52nd St** | Trolley | 113 | 35.4 | **Major corridor** | NO | - |
+| 5 | **Girard Av & 39th St** | Trolley | 110 | 35.1 | **Major corridor** | NO | - |
 
-**Regional Rail Stations:**
+**Additional Priority Stations:**
 
-| Rank | Station | Units | Notes |
-|------|---------|-------|-------|
-| 1 | **Overbrook** | **111** | **Top D4 station** |
-| 2 | East Falls | 46 | Walkable neighborhood center |
-| 3 | Manayunk | 44 | Walkable commercial district |
-| 4 | Wissahickon | 10 | Manayunk Line |
+| Station | Mode | Units | Notes |
+|---------|------|-------|-------|
+| **Overbrook** | RR | 111 | Strong activity |
+| East Falls | RR | 46 | Walkable neighborhood center |
+| Manayunk | RR | 44 | Walkable commercial district |
+| Wissahickon | RR | 10 | Manayunk Line |
 
 **District Summary:**
-- **Weak BSL/MFL coverage** (only 56th Street)
-- **Overbrook is clear #1** with 111 units - highest activity in District 4
-- East Falls and Manayunk are walkable neighborhood centers with moderate development
-- 56th Street sits on **D3/D4 boundary** - coordinate with CM Gauthier
+- **GIRARD AVENUE TROLLEY CORRIDOR DOMINATES**: Ranks #2-5 are all Girard Ave trolley stops with 110-113 units each
+- **56th Street** (MFL) anchors with existing 500ft TOD on **D3/D4 boundary**
+- **Girard corridor creates continuous TOC zone** through District 4's southern edge
+- **Overbrook RR** (111 units) shows strong standalone activity
+- **Total development at top 5 stations: 458 units** (Girard trolleys + 56th Street)
 
-**Recommendation:** Include 56th Street (MFL, expand existing TOD). **Add Overbrook, East Falls, and Manayunk** (Regional Rail) to provide District 4 with 4-5 viable TOC stations.
+**Trolley Insight:**
+Girard Avenue trolley stops (Route 15) are tightly clustered along the district's boundary with District 5, creating a **continuous multi-modal corridor** that complements the Girard BSL/MFL stations in District 5. These stops show 110+ units EACH due to overlapping 1/4-mile buffers.
+
+**Recommendation:** Include 56th Street (MFL, expand existing TOD). **Add Girard Avenue trolley corridor** (Route 15) as priority TOC zone. **Add Overbrook, East Falls, and Manayunk** (Regional Rail) to provide District 4 with comprehensive multi-modal coverage. **Note:** Girard trolley corridor on D4/D5 boundary - coordinate with CM Richardson.
 
 ---
 
 ### **DISTRICT 5** (Council Member: Councilmember Gilmore Richardson)
 
-**BSL/MFL Stations:**
+**Top 5 All Modes (BSL/MFL + Trolleys + RR):**
 
-| Rank | Station | Line | Units | Composite Score | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|-----------------|----------|--------------|-----------|
-| 1 | **Girard** | BSL | 816 | 97.0 | **Tier 1 - Citywide #2** | NO | - |
-| 2 | **Girard** | MFL | 816 | 96.4 | **Tier 1 - Citywide #3** | NO | **D1/D5** |
-| 3 | **Erie** | BSL | 255 | 72.0 | **Tier 2 - Citywide #7** | NO | **D5/D8** |
-| 4 | Susquehanna-Dauphin | BSL | 77 | 51.2 | Tier 3 | NO | - |
-| 5 | Hunting Park | BSL | 45 | 46.9 | Tier 4 | NO | **D5/D8** |
+| Rank | Station/Stop | Mode | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|--------------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **Girard** | BSL | 816 | 97.0 | **CITYWIDE #2** | NO | - |
+| 2 | **Girard** | MFL | 816 | 96.4 | **CITYWIDE #3** | NO | **D1/D5** |
+| 3 | **Girard Av & 16th St** | Trolley | 622 | 79.9 | **Major corridor** | NO | - |
+| 4 | **Girard Av & 16th St** | Trolley | 622 | 79.9 | **Major corridor** | NO | - |
+| 5 | **Girard Av & 17th St** | Trolley | 560 | 74.5 | **Major corridor** | NO | - |
 
-**Regional Rail Stations:**
+**Additional Priority Stations:**
 
-| Rank | Station | Units | Notes |
-|------|---------|-------|-------|
-| 1 | **Temple University** | **322** | **#2 RR citywide** |
-| 2 | Suburban Station | 293 | Center City |
-| 3 | North Broad | 79 | North Philly |
+| Station | Mode | Units | Notes |
+|---------|------|-------|-------|
+| **Erie** | BSL | 255 | Citywide #7; **D5/D8 boundary** |
+| Susquehanna-Dauphin | BSL | 77 | Tier 3 |
+| Hunting Park | BSL | 45 | Tier 4; **D5/D8 boundary** |
+| **Temple University** | RR | 322 | **#2 RR citywide** |
+| Suburban Station | RR | 293 | Center City |
 
 **District Summary:**
 - **HIGHEST DEVELOPMENT ACTIVITY CITYWIDE**
-- **Both Girard stations (#2 and #3) = 1,632 combined units (11% of citywide total)** - separated stations, NOT a transfer
-- **Composite scoring elevates both Girards to #2 and #3** due to excellent transit frequency + jobs access + development
+- **GIRARD MULTI-MODAL CORRIDOR IS UNMATCHED**: Girard BSL (#2 citywide), Girard MFL (#3 citywide), and three Girard Ave trolley stops dominate top 5
+- **Combined Girard corridor = 3,436 units** across BSL + MFL + Trolley stops
+- **Composite scoring elevates both Girard stations to #2 and #3** due to excellent transit frequency + jobs access + development
+- **Girard trolley stops** (Route 15) add 1,804 additional units along the corridor
 - Erie (#7) is Tier 2 with 255 units
 - Temple University RR is **#2 Regional Rail station citywide** (322 units)
-- **4 of 5 BSL/MFL stations sit on boundaries** with Districts 1 or 8
+
+**Trolley Insight:**
+Girard Avenue has **three transit modes** (BSL, MFL, and Trolley Route 15) creating the most comprehensive multi-modal corridor in Philadelphia. The trolley stops at 16th and 17th Streets show 560-622 units EACH, complementing the two Girard rapid transit stations.
 
 **Political Context:**
 - CM Richardson characterized as "anti-development"
-- **Counter-argument:** District already absorbed 2,029 units at top 3 BSL/MFL stations—development is happening regardless of zoning
+- **Counter-argument:** District already absorbed **3,436 units at Girard corridor alone**—development is happening regardless of zoning
 - TOC doesn't CREATE pressure; it MANAGES existing market demand near transit
 
-**Recommendation:** All 5 BSL/MFL stations are essential. **Add Temple University and Suburban Station** (RR) for comprehensive coverage. **Coordinate boundary decisions** with CMs Squilla (D1) and Bass (D8).
+**Recommendation:** All 5 BSL/MFL stations are essential. **Add Girard Avenue trolley corridor** (Route 15) as critical multi-modal TOC zone. **Add Temple University and Suburban Station** (RR) for comprehensive coverage. **Coordinate boundary decisions** with CMs Squilla (D1) and Bass (D8).
 
 ---
 
 ### **DISTRICT 6** (Council Member: Kendra Brooks)
 
-**BSL/MFL Stations:**
+**Top 5 All Modes (BSL/MFL + Trolleys + RR):**
 
-| Rank | Station | Line | Units | Priority | Existing TOD? | Boundary? |
-|------|---------|------|-------|----------|--------------|-----------|
-| 1 | Tioga | MFL | 0 | Tier 4 | **YES (500ft)** | **D6/D7** |
-| 2 | Erie-Torresdale | MFL | 0 | Tier 4 | **YES (500ft)** | **D6/D7** |
-
-**Regional Rail Stations:**
-
-| Rank | Station | Units | Notes |
-|------|---------|-------|-------|
-| 1 | Bridesburg | 0 | Northeast; zero activity |
+| Rank | Station/Stop | Mode | Units | Composite Score | Priority | Existing TOD? | Boundary? |
+|------|--------------|------|-------|-----------------|----------|--------------|-----------|
+| 1 | **Tioga** | MFL | 0 | 41.9 | Tier 4 | **YES (500ft)** | **D6/D7** |
+| 2 | **Erie-Torresdale** | MFL | 0 | 41.3 | Tier 4 | **YES (500ft)** | **D6/D7** |
+| 3 | **Richmond St & Allegheny Av** | Trolley | 41 | 29.1 | Minor activity | NO | - |
+| 4 | **Bridesburg** | RR | 0 | 18.0 | Zero activity | NO | **D6/D7** |
 
 **District Summary:**
-- **Minimal transit coverage** and **zero development activity** at all stations
-- Both MFL stations have existing 500ft TOD but no market activity
+- **Minimal transit coverage** overall
+- Both MFL stations have existing 500ft TOD but **zero current development activity**
+- **Richmond St & Allegheny Av trolley** (Route 25) shows modest activity (41 units)
 - Bridesburg RR shows no activity
-- Both MFL stations sit on **D6/D7 boundary** - coordinate with CM Lozada
+- **Three stations sit on D6/D7 boundary** - coordinate with CM Lozada
 
-**Recommendation:** Include Tioga and Erie-Torresdale (expand existing TOD) for **geographic coverage and equity**. Even without current activity, these stations deserve same upzoning opportunity as higher-income areas. Skip Bridesburg RR (no viability).
+**Trolley Insight:**
+Richmond Street trolley (Route 25) provides limited service to Northeast Philadelphia with modest development activity near Allegheny Avenue intersection.
+
+**Recommendation:** Include Tioga and Erie-Torresdale (expand existing TOD) for **geographic coverage and equity**. **Add Richmond St & Allegheny Av trolley** for comprehensive coverage. Even without current strong activity, these stations deserve same upzoning opportunity as higher-income areas. Skip Bridesburg RR (no viability).
 
 ---
 
