@@ -450,6 +450,58 @@ The market has validated TOC-eligible areas with **14,600 units** built near tra
 
 ## V. IMPLEMENTATION PATHWAYS
 
+### **Why Split Custody Analysis Strengthens the Citywide Case**
+
+Recent analysis of boundary station development patterns reveals that **selective "top 15" approaches are almost as complex as citywide ordinances**, making comprehensive policy the more efficient path.
+
+**Key Finding: Boundary Stations Concentrate at the Top**
+
+Among the top 15 BSL/MFL stations by composite score, **8 stations (53%) sit on district boundaries**—significantly higher than the overall boundary rate (32% citywide). This means:
+
+- Even a selective approach requires **8 districts + 8 boundary negotiations**
+- Not meaningfully simpler than citywide policy
+- Same political stakeholders involved either way
+
+**The Split Percentage Problem:**
+
+Split custody analysis reveals awkward development splits that invite political conflict:
+
+| Station | Split | Political Question |
+|---------|-------|-------------------|
+| Girard MFL (D1/D5) | 63% D5, 37% D1 | Who controls decisions on a 60/40 split? |
+| Huntingdon (D1/D7) | 62% D1, 38% D7 | Does minority district get veto power? |
+| Erie (D5/D8) | 76% D5, 24% D8 | Should 24% district have equal say? |
+| Ellsworth-Federal (D1/D2) | 90% D2, 10% D1 | Lopsided but still requires coordination |
+
+Station-by-station negotiations over these percentages create friction. Citywide rules bypass this entirely.
+
+**District 1 Becomes a Chokepoint:**
+
+CM Squilla (D1) appears in **4 of 8 top-15 boundary stations**:
+- Girard MFL (D1/D5)
+- Ellsworth-Federal (D1/D2)
+- Huntingdon (D1/D7)
+- Somerset (D1/D7)
+
+This concentrates power in one council member and creates bottlenecks for multiple high-priority stations.
+
+**Trolley Corridors Don't Fit Station-by-Station Logic:**
+
+The trolley analysis revealed continuous corridors, not isolated stations:
+- **Lancaster Ave (D3)**: 4 of top 5 district stations are clustered trolley stops
+- **Girard Ave (D4/D5)**: Multi-modal corridor spanning boundaries with BSL + MFL + Trolley
+- **Corridor-based policy** (citywide TOC) fits this spatial reality better than station-by-station
+
+**Bottom Line:**
+
+Even a selective "top 15" approach requires coordinating **8 districts, 8 boundary splits, and buy-in from "anti-development" CMs** (Richardson D5, Lozada D7). That's not simpler than citywide—it's just messier.
+
+**Strategic recommendation: Use boundary complexity as your argument FOR citywide ordinance:**
+
+*"We could negotiate 21 separate boundary station agreements with complex development splits, or we could pass one simple citywide rule that treats everyone equally. Which makes more sense?"*
+
+---
+
 ### **PLAN A: Citywide Ordinance (STRONGLY RECOMMENDED)**
 
 **Scope:** All 20 priority stations (8 expansion + 12 new)
