@@ -1,0 +1,33 @@
+{
+  "total_units_bsl_mfl": 5072,
+  "total_stations": 30,
+  "cutoff_analysis": [
+    {
+      "cutoff": 10,
+      "units": 4743,
+      "pct": 93.51340694006309
+    },
+    {
+      "cutoff": 15,
+      "units": 4933,
+      "pct": 97.25946372239747
+    },
+    {
+      "cutoff": 20,
+      "units": 5037,
+      "pct": 99.30993690851734
+    },
+    {
+      "cutoff": 25,
+      "units": 5066,
+      "pct": 99.88170347003155
+    },
+    {
+      "cutoff": 30,
+      "units": 5072,
+      "pct": 100.0
+    }
+  ],
+  "bottom_15_units": 139,
+  "bottom_15_pct": 2.7
+}
