@@ -1,0 +1,25 @@
+{
+  "total_bsl_mfl_units": 5072,
+  "corridor_approach": {
+    "tier1_units": 3306,
+    "tier1_pct": 65.2,
+    "tier1_2_units": 5012,
+    "tier1_2_pct": 98.8,
+    "all_tiers_units": 5473,
+    "all_tiers_pct": 107.9
+  },
+  "top_n_comparison": {
+    "top_10": {
+      "units": 4743,
+      "pct": 93.5
+    },
+    "top_15": {
+      "units": 4933,
+      "pct": 97.3
+    },
+    "top_20": {
+      "units": 5037,
+      "pct": 99.3
+    }
+  }
+}
