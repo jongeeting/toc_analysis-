@@ -502,6 +502,48 @@ Even a selective "top 15" approach requires coordinating **8 districts, 8 bounda
 
 ---
 
+### **Alternative Framing: Priority Transit Corridors**
+
+Rather than listing individual stations, the TOC policy can be framed as **6 major transit corridors** that capture 98.8% of BSL/MFL development while providing clearer geographic and political messaging.
+
+**Corridor-Based Development Capture Analysis:**
+
+| Tier | Corridor Name | Units | % of Total | Council Districts | Notes |
+|------|---------------|-------|------------|-------------------|-------|
+| **TIER 1** | | **3,306** | **65.2%** | | **Must Include** |
+| | North Philadelphia MFL Corridor (Kensington) | 1,791 | 35.3% | D1, D7 | York-Dauphin (#4) → Berks (#5) → Huntingdon (#8) |
+| | Girard Multi-Modal Corridor | 816 | 16.1% | D1, D4, D5 | BSL (#2) + MFL (#3) + Trolley Route 15 (~1,804 units) |
+| | West Philadelphia MFL Corridor | 699 | 13.8% | D3, D4 | 46th (#1) → 63rd; **all 5 stations have existing TOD** |
+| **TIER 2** | | **1,706** | **33.6%** | | **Strong Candidates** |
+| | North Broad Street BSL Corridor | 1,196 | 23.6% | D5, D8 | Girard → Erie → North Philly Amtrak area |
+| | Lancaster Avenue Multi-Modal Corridor | 510 | 10.1% | D3 | MFL + Trolley Routes 10/11/13/34/36 (~3,030 units) |
+| **TIER 3** | | **461** | **9.1%** | | **Coverage/Equity** |
+| | South Broad Street BSL Corridor | 461 | 9.1% | D1, D2 | Ellsworth-Federal (#6) → AT&T Station |
+| | | | | | |
+| **TIERS 1+2 TOTAL** | | **5,012** | **98.8%** | **D1, D3, D4, D5, D7, D8** | Equivalent to top 20 stations |
+| **ALL 3 TIERS** | | **5,473** | **99%+** | **D1-D5, D7-D8** | Near-complete capture |
+
+**Key Advantages of Corridor Framing:**
+
+1. **Geographic Coherence:** Corridors make intuitive sense - transit works as linear systems, not isolated points
+2. **Multi-Modal Integration:** Naturally incorporates trolley development (Girard +1,804 units, Lancaster +3,030 units) that station-by-station lists miss
+3. **Political Simplicity:** "6 proven transit corridors" is cleaner messaging than "20 individual stations"
+4. **Development Synergy:** Acknowledges developer interest in corridor-wide projects (e.g., Erie + North Philly Amtrak unified zone)
+5. **Same Coverage:** Tiers 1+2 capture 98.8% - virtually identical to top 20 stations (99.3%)
+
+**Comparison to Station-Based Cutoffs:**
+
+| Approach | Units Captured | % of Total | Political Complexity |
+|----------|----------------|------------|---------------------|
+| Top 10 stations | 4,743 | 93.5% | 8 districts, 8 boundary negotiations |
+| Top 15 stations | 4,933 | 97.3% | 8 districts, 8 boundary negotiations |
+| Top 20 stations | 5,037 | 99.3% | 8 districts, 8+ boundary negotiations |
+| **Tier 1+2 Corridors** | **5,012** | **98.8%** | **6 districts, corridor-based framework** |
+
+**Note:** Multi-modal corridor totals (Girard trolley +1,804 units, Lancaster trolley +3,030 units, North Philly RR +186 units) add ~5,000 units NOT included in BSL/MFL station totals above.
+
+---
+
 ### **PLAN A: Citywide Ordinance (STRONGLY RECOMMENDED)**
 
 **Scope:** All 20 priority stations (8 expansion + 12 new)
